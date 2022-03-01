@@ -1,0 +1,26 @@
+
+Creating model.....
+Creating training dataset...
+Creating valid dataset...
+
+
+
+
+
+Epoch [  1/ 20] | Iter [ 94/ 94] | Train Loss 0.0408
+Epoch [  1/ 20] | Iter [ 93/ 94] | Valid Loss 0.0134
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+Traceback (most recent call last):
+  File "main.py", line 140, in <module>
+    train(args)
+  File "main.py", line 100, in train
+    wandb.log({"Table": show_img_wandb(img, hm_gt, pred_logit)})
+  File "/home/junshick/Workspace/pose_estimation/custom_pose/utils/wandb_img.py", line 21, in show_img_wandb
+    wandb.Image(ground_truth[i,:,:,:]),
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/wandb/sdk/data_types.py", line 2086, in __init__
+    self._initialize_from_data(data_or_path, mode)
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/wandb/sdk/data_types.py", line 2211, in _initialize_from_data
+    self.to_uint8(data), mode=mode or self.guess_mode(data)
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/wandb/sdk/data_types.py", line 2336, in guess_mode
+    "Un-supported shape for image conversion %s" % list(data.shape)
+ValueError: Un-supported shape for image conversion [32, 32, 14]

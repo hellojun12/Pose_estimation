@@ -1,0 +1,24 @@
+{
+    "os": "Linux-5.4.0-99-generic-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.6",
+    "heartbeatAt": "2022-02-28T15:41:25.947787",
+    "startedAt": "2022-02-28T15:41:24.450241",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 24,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "main.py",
+    "codePath": "pose_estimation/custom_pose/main.py",
+    "git": {
+        "remote": null,
+        "commit": null
+    },
+    "email": "hellojun12@naver.com",
+    "root": "/home/junshick/Workspace",
+    "host": "junshick",
+    "username": "junshick",
+    "executable": "/home/junshick/anaconda3/bin/python"
+}

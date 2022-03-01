@@ -1,0 +1,30 @@
+
+Creating model.....
+Creating training dataset...
+Creating valid dataset...
+train_loader length: <torch.utils.data.dataloader.DataLoader object at 0x7f764029ef50>
+valid_loader length: <torch.utils.data.dataloader.DataLoader object at 0x7f764024e210>
+
+
+
+
+
+Epoch [  1/ 20] | Iter [ 94/ 94] | Train Loss 0.0329
+Traceback (most recent call last):
+  File "main.py", line 142, in <module>
+    train(args)
+  File "main.py", line 86, in train
+    for iter, (img, hm_gt) in enumerate(val_loader):
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/utils/data/dataloader.py", line 517, in __next__
+    data = self._next_data()
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/utils/data/dataloader.py", line 1199, in _next_data
+    return self._process_data(data)
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/utils/data/dataloader.py", line 1223, in _process_data
+    self._try_put_index()
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/utils/data/dataloader.py", line 1205, in _try_put_index
+    index = self._next_index()
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/utils/data/dataloader.py", line 508, in _next_index
+    return next(self._sampler_iter)  # may raise StopIteration
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/utils/data/sampler.py", line 228, in __iter__
+    batch.append(idx)
+KeyboardInterrupt

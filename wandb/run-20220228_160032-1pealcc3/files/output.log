@@ -1,0 +1,22 @@
+
+Creating model.....
+Creating training dataset...
+Is train TRUE
+length of train: 1499
+Creating valid dataset...
+Is train FALSE
+length of val: 1500
+train_loader length: 94
+valid_loader length: 94
+Epoch [  1/ 20] | Iter [ 12/ 94] | Train Loss 0.1066
+Traceback (most recent call last):
+  File "main.py", line 143, in <module>
+    train(args)
+  File "main.py", line 77, in train
+    loss.backward()
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/tensor.py", line 245, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/autograd/__init__.py", line 147, in backward
+    allow_unreachable=True, accumulate_grad=True)  # allow_unreachable flag
+
+Epoch [  1/ 20] | Iter [ 24/ 94] | Train Loss 0.0795

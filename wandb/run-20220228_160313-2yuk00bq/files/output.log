@@ -1,0 +1,22 @@
+
+Creating model.....
+Creating training dataset...
+Creating valid dataset...
+train_loader length: 94
+valid_loader length: 32
+
+
+
+
+
+Epoch [  1/100] | Iter [ 94/ 94] | Train Loss 0.1355
+Epoch [  1/100] | Iter [ 31/ 32] | Valid Loss 0.1128
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+Traceback (most recent call last):
+  File "main.py", line 143, in <module>
+    train(args)
+  File "main.py", line 103, in train
+    wandb.log({"Table": show_img_wandb(img, hm_gt, pred_logit)})
+  File "/home/junshick/Workspace/pose_estimation/custom_pose/utils/wandb_img.py", line 20, in show_img_wandb
+    data = [wandb.Image(img[i]),
+IndexError: index 4 is out of bounds for axis 0 with size 4

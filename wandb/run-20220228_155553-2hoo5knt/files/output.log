@@ -1,0 +1,48 @@
+Creating model.....
+Creating training dataset...
+Creating valid dataset...
+train_loader length: 94
+valid_loader length: 94
+
+
+
+
+
+Epoch [  1/ 20] | Iter [ 94/ 94] | Train Loss 0.0356
+Epoch [  1/ 20] | Iter [ 93/ 94] | Valid Loss 0.0124
+img:(12, 128, 128, 3), gt:(12, 32, 32), preds:(12, 32, 32)
+
+
+
+
+
+Epoch [  2/ 20] | Iter [ 94/ 94] | Train Loss 0.0088
+Epoch [  2/ 20] | Iter [ 93/ 94] | Valid Loss 0.0083
+img:(12, 128, 128, 3), gt:(12, 32, 32), preds:(12, 32, 32)
+
+
+
+
+
+
+Epoch [  3/ 20] | Iter [ 94/ 94] | Train Loss 0.0075
+Epoch [  3/ 20] | Iter [ 93/ 94] | Valid Loss 0.0073
+img:(12, 128, 128, 3), gt:(12, 32, 32), preds:(12, 32, 32)
+
+
+
+Epoch [  4/ 20] | Iter [ 54/ 94] | Train Loss 0.0071
+Traceback (most recent call last):
+  File "main.py", line 143, in <module>
+    train(args)
+  File "main.py", line 78, in train
+    optimizer.step()
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/optim/optimizer.py", line 89, in wrapper
+    return func(*args, **kwargs)
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/optim/adam.py", line 119, in step
+    group['eps'])
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/optim/_functional.py", line 92, in adam
+    denom = (exp_avg_sq.sqrt() / math.sqrt(bias_correction2)).add_(eps)
+KeyboardInterrupt

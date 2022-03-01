@@ -1,0 +1,171 @@
+
+Creating model.....
+Creating training dataset...
+Creating valid dataset...
+
+
+
+
+
+Epoch [  1/ 20] | Iter [ 94/ 94] | Train Loss 0.0366
+Epoch [  1/ 20] | Iter [ 93/ 94] | Valid Loss 0.0125
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+
+Epoch [  2/ 20] | Iter [ 94/ 94] | Train Loss 0.0092
+Epoch [  2/ 20] | Iter [ 93/ 94] | Valid Loss 0.0086
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+Epoch [  3/ 20] | Iter [ 94/ 94] | Train Loss 0.0076
+Epoch [  3/ 20] | Iter [ 93/ 94] | Valid Loss 0.0078
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+Epoch [  4/ 20] | Iter [ 94/ 94] | Train Loss 0.0071
+Epoch [  4/ 20] | Iter [ 93/ 94] | Valid Loss 0.0071
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+Epoch [  5/ 20] | Iter [ 94/ 94] | Train Loss 0.0068
+Epoch [  5/ 20] | Iter [ 93/ 94] | Valid Loss 0.0068
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+
+Epoch [  6/ 20] | Iter [ 94/ 94] | Train Loss 0.0067
+Epoch [  6/ 20] | Iter [ 93/ 94] | Valid Loss 0.0066
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+Epoch [  7/ 20] | Iter [ 94/ 94] | Train Loss 0.0066
+Epoch [  7/ 20] | Iter [ 93/ 94] | Valid Loss 0.0066
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+Epoch [  8/ 20] | Iter [ 94/ 94] | Train Loss 0.0065
+Epoch [  8/ 20] | Iter [ 93/ 94] | Valid Loss 0.0064
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+
+Epoch [  9/ 20] | Iter [ 94/ 94] | Train Loss 0.0064
+Epoch [  9/ 20] | Iter [ 93/ 94] | Valid Loss 0.0064
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+Epoch [ 10/ 20] | Iter [ 94/ 94] | Train Loss 0.0063
+Epoch [ 10/ 20] | Iter [ 93/ 94] | Valid Loss 0.0063
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+
+Epoch [ 11/ 20] | Iter [ 94/ 94] | Train Loss 0.0062
+Epoch [ 11/ 20] | Iter [ 93/ 94] | Valid Loss 0.0062
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+Epoch [ 12/ 20] | Iter [ 94/ 94] | Train Loss 0.0061
+Epoch [ 12/ 20] | Iter [ 93/ 94] | Valid Loss 0.0061
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+
+Epoch [ 13/ 20] | Iter [ 94/ 94] | Train Loss 0.0061
+Epoch [ 13/ 20] | Iter [ 93/ 94] | Valid Loss 0.0060
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+Epoch [ 14/ 20] | Iter [ 94/ 94] | Train Loss 0.0060
+Epoch [ 14/ 20] | Iter [ 93/ 94] | Valid Loss 0.0060
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+Epoch [ 15/ 20] | Iter [ 94/ 94] | Train Loss 0.0059
+Epoch [ 15/ 20] | Iter [ 93/ 94] | Valid Loss 0.0059
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+
+Epoch [ 16/ 20] | Iter [ 94/ 94] | Train Loss 0.0059
+Epoch [ 16/ 20] | Iter [ 93/ 94] | Valid Loss 0.0058
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+Epoch [ 17/ 20] | Iter [ 94/ 94] | Train Loss 0.0058
+Epoch [ 17/ 20] | Iter [ 93/ 94] | Valid Loss 0.0057
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+Epoch [ 18/ 20] | Iter [ 94/ 94] | Train Loss 0.0057
+Epoch [ 18/ 20] | Iter [ 93/ 94] | Valid Loss 0.0057
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+
+Epoch [ 19/ 20] | Iter [ 94/ 94] | Train Loss 0.0057
+Epoch [ 19/ 20] | Iter [ 93/ 94] | Valid Loss 0.0056
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])
+
+
+
+
+
+Epoch [ 20/ 20] | Iter [ 94/ 94] | Train Loss 0.0056
+Epoch [ 20/ 20] | Iter [ 93/ 94] | Valid Loss 0.0055
+img:torch.Size([11, 3, 128, 128]), gt:torch.Size([11, 14, 32, 32]), preds:torch.Size([11, 14, 32, 32])

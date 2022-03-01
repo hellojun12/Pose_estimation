@@ -1,0 +1,23 @@
+
+Creating model.....
+Creating training dataset...
+Creating valid dataset...
+train_loader length: 94
+valid_loader length: 32
+
+Epoch [  1/ 20] | Iter [ 30/ 94] | Train Loss 0.0813
+Traceback (most recent call last):
+  File "main.py", line 143, in <module>
+    train(args)
+  File "main.py", line 78, in train
+    optimizer.step()
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/optim/optimizer.py", line 89, in wrapper
+    return func(*args, **kwargs)
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/optim/adam.py", line 119, in step
+    group['eps'])
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/optim/_functional.py", line 85, in adam
+    exp_avg_sq.mul_(beta2).addcmul_(grad, grad, value=1 - beta2)
+
+Epoch [  1/ 20] | Iter [ 41/ 94] | Train Loss 0.0671

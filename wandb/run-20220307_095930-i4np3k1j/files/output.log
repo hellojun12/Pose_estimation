@@ -1,0 +1,17 @@
+Creating model.....
+Creating training dataset...
+Creating valid dataset...
+train_loader length: 94
+valid_loader length: 32
+
+
+
+
+
+Epoch [0][93/94] | Train_loss 0.08221 | Train_accuracy_value 0.00649 | Train_accuracy_average 0.01954
+Traceback (most recent call last):
+  File "main.py", line 198, in <module>
+    train(args)
+  File "main.py", line 155, in train
+    .format(epoch, iter, len(val_loader), val_loss=losses, acc=acc), end='')
+KeyError: 'loss'

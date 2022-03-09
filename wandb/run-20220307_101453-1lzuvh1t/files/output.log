@@ -1,0 +1,10 @@
+
+Creating model.....
+Creating training dataset...
+Creating valid dataset...
+Traceback (most recent call last):
+  File "main.py", line 197, in <module>
+    train(args)
+  File "main.py", line 112, in train
+    print(("\rEpoch [{0}][{1}/{2}] | Train_loss {loss.val:.5f}",
+AttributeError: 'tuple' object has no attribute 'format'

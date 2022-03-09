@@ -1,0 +1,18 @@
+
+Creating model.....
+Creating training dataset...
+Creating valid dataset...
+train_loader length: 94
+valid_loader length: 32
+
+
+
+
+Epoch [0][83/94] | Train_loss 0.12017
+Traceback (most recent call last):
+  File "main.py", line 170, in <module>
+    train(args)
+  File "main.py", line 125, in train
+    valid_loss.update(loss.item(), len(img))
+
+Epoch [0][93/94] | Train_loss 0.10875

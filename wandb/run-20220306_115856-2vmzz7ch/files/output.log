@@ -1,0 +1,13 @@
+
+Creating model.....
+Creating training dataset...
+Creating valid dataset...
+train_loader length: 94
+valid_loader length: 32
+pred logit shape: 2
+Traceback (most recent call last):
+  File "main.py", line 171, in <module>
+    train(args)
+  File "main.py", line 92, in train
+    _, avg_acc, cnt, pred = accuracy(pred_logit.detach().cpu().numpy(),
+NameError: name 'accuracy' is not defined

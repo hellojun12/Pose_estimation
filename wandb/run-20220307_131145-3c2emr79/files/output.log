@@ -1,0 +1,359 @@
+
+Creating model.....
+Creating training dataset...
+Creating valid dataset...
+
+
+
+
+
+Highest Validation Accuracy! 0.035718 | Train_accuracy_value 0.01948
+Val_loss 0.07990 | Valid_accuracy_value 0.03571 | Valid_accuracy_average 0.03571
+
+
+
+
+
+Highest Validation Accuracy! 0.053570 | Train_accuracy_value 0.01948
+Val_loss 0.04352 | Valid_accuracy_value 0.05357 | Valid_accuracy_average 0.05357
+
+
+
+
+
+Highest Validation Accuracy! 0.053574 | Train_accuracy_value 0.01948
+Val_loss 0.02928 | Valid_accuracy_value 0.05357 | Valid_accuracy_average 0.05357
+
+
+
+
+
+Highest Validation Accuracy! 0.053573 | Train_accuracy_value 0.00649
+Val_loss 0.02082 | Valid_accuracy_value 0.05357 | Valid_accuracy_average 0.05357
+
+
+
+
+
+Highest Validation Accuracy! 0.071438 | Train_accuracy_value 0.05844
+Val_loss 0.01553 | Valid_accuracy_value 0.07143 | Valid_accuracy_average 0.07143
+
+
+
+
+
+Highest Validation Accuracy! 0.071439 | Train_accuracy_value 0.03896
+Val_loss 0.01242 | Valid_accuracy_value 0.07143 | Valid_accuracy_average 0.07143
+
+
+
+
+
+Highest Validation Accuracy! 0.035711 | Train_accuracy_value 0.05195
+Val_loss 0.01108 | Valid_accuracy_value 0.03571 | Valid_accuracy_average 0.03571
+
+
+
+
+
+Highest Validation Accuracy! 0.071430 | Train_accuracy_value 0.01948
+Val_loss 0.01011 | Valid_accuracy_value 0.07143 | Valid_accuracy_average 0.07143
+
+
+
+
+
+Highest Validation Accuracy! 0.053573 | Train_accuracy_value 0.03896
+Val_loss 0.00919 | Valid_accuracy_value 0.05357 | Valid_accuracy_average 0.05357
+
+
+
+
+
+Highest Validation Accuracy! 0.035717 | Train_accuracy_value 0.02597
+Val_loss 0.00883 | Valid_accuracy_value 0.03571 | Valid_accuracy_average 0.03571
+
+
+
+
+
+Highest Validation Accuracy! 0.0178637 | Train_accuracy_value 0.03247
+Val_loss 0.00841 | Valid_accuracy_value 0.01786 | Valid_accuracy_average 0.01786
+
+
+
+
+
+
+Highest Validation Accuracy! 0.0178656 | Train_accuracy_value 0.02597
+Val_loss 0.00811 | Valid_accuracy_value 0.01786 | Valid_accuracy_average 0.01786
+
+
+
+
+
+Highest Validation Accuracy! 0.0357127 | Train_accuracy_value 0.03247
+Val_loss 0.00798 | Valid_accuracy_value 0.03571 | Valid_accuracy_average 0.03571
+
+
+
+
+
+Highest Validation Accuracy! 0.0357106 | Train_accuracy_value 0.03896
+Val_loss 0.00773 | Valid_accuracy_value 0.03571 | Valid_accuracy_average 0.03571
+
+
+
+
+
+
+Highest Validation Accuracy! 0.0714378 | Train_accuracy_value 0.04545
+Val_loss 0.00751 | Valid_accuracy_value 0.07143 | Valid_accuracy_average 0.07143
+
+
+
+
+
+Highest Validation Accuracy! 0.0357152 | Train_accuracy_value 0.04545
+Val_loss 0.00746 | Valid_accuracy_value 0.03571 | Valid_accuracy_average 0.03571
+
+
+
+
+
+Highest Validation Accuracy! 0.0714374 | Train_accuracy_value 0.03247
+Val_loss 0.00734 | Valid_accuracy_value 0.07143 | Valid_accuracy_average 0.07143
+
+
+
+
+
+Highest Validation Accuracy! 0.0535785 | Train_accuracy_value 0.04545
+Val_loss 0.00721 | Valid_accuracy_value 0.05357 | Valid_accuracy_average 0.05357
+
+
+
+
+
+Highest Validation Accuracy! 0.0535796 | Train_accuracy_value 0.02597
+Val_loss 0.00715 | Valid_accuracy_value 0.05357 | Valid_accuracy_average 0.05357
+
+
+
+
+
+Highest Validation Accuracy! 0.0178652 | Train_accuracy_value 0.03247
+Val_loss 0.00705 | Valid_accuracy_value 0.01786 | Valid_accuracy_average 0.01786
+
+
+
+
+
+Highest Validation Accuracy! 0.0357160 | Train_accuracy_value 0.03961
+Val_loss 0.00700 | Valid_accuracy_value 0.03571 | Valid_accuracy_average 0.03571
+
+
+
+
+
+Highest Validation Accuracy! 0.0535762 | Train_accuracy_value 0.03896
+Val_loss 0.00693 | Valid_accuracy_value 0.05357 | Valid_accuracy_average 0.05357
+
+
+
+
+
+
+Highest Validation Accuracy! 0.0178643 | Train_accuracy_value 0.07792
+Val_loss 0.00694 | Valid_accuracy_value 0.01786 | Valid_accuracy_average 0.01786
+
+
+
+
+
+Highest Validation Accuracy! 0.0178633 | Train_accuracy_value 0.07792
+Val_loss 0.00684 | Valid_accuracy_value 0.01786 | Valid_accuracy_average 0.01786
+
+
+
+
+
+Highest Validation Accuracy! 0.0178678 | Train_accuracy_value 0.04545
+Val_loss 0.00681 | Valid_accuracy_value 0.01786 | Valid_accuracy_average 0.01786
+
+
+
+
+
+Highest Validation Accuracy! 0.0178630 | Train_accuracy_value 0.06494
+Val_loss 0.00680 | Valid_accuracy_value 0.01786 | Valid_accuracy_average 0.01786
+
+
+
+
+
+Highest Validation Accuracy! 0.0178611 | Train_accuracy_value 0.07792
+Val_loss 0.00676 | Valid_accuracy_value 0.01786 | Valid_accuracy_average 0.01786
+
+
+
+
+
+Highest Validation Accuracy! 0.0535739 | Train_accuracy_value 0.03896
+Val_loss 0.00672 | Valid_accuracy_value 0.05357 | Valid_accuracy_average 0.05357
+
+
+
+
+
+Highest Validation Accuracy! 0.0357190 | Train_accuracy_value 0.03247
+Val_loss 0.00669 | Valid_accuracy_value 0.03571 | Valid_accuracy_average 0.03571
+
+
+
+
+
+Highest Validation Accuracy! 0.0357102 | Train_accuracy_value 0.04545
+Val_loss 0.00668 | Valid_accuracy_value 0.03571 | Valid_accuracy_average 0.03571
+
+
+
+
+
+Highest Validation Accuracy! 0.0357108 | Train_accuracy_value 0.09740
+Val_loss 0.00662 | Valid_accuracy_value 0.03571 | Valid_accuracy_average 0.03571
+
+
+
+
+
+Highest Validation Accuracy! 0.0535783 | Train_accuracy_value 0.11039
+Val_loss 0.00662 | Valid_accuracy_value 0.05357 | Valid_accuracy_average 0.05357
+
+
+
+
+
+Highest Validation Accuracy! 0.0357177 | Train_accuracy_value 0.05844
+Val_loss 0.00658 | Valid_accuracy_value 0.03571 | Valid_accuracy_average 0.03571
+
+
+
+
+
+Highest Validation Accuracy! 0.0535788 | Train_accuracy_value 0.05844
+Val_loss 0.00656 | Valid_accuracy_value 0.05357 | Valid_accuracy_average 0.05357
+
+
+
+
+
+
+Highest Validation Accuracy! 0.0535778 | Train_accuracy_value 0.11039
+Val_loss 0.00654 | Valid_accuracy_value 0.05357 | Valid_accuracy_average 0.05357
+
+
+
+
+
+Highest Validation Accuracy! 0.0535765 | Train_accuracy_value 0.06494
+Val_loss 0.00651 | Valid_accuracy_value 0.05357 | Valid_accuracy_average 0.05357
+
+
+
+
+
+Highest Validation Accuracy! 0.0535764 | Train_accuracy_value 0.11688
+Val_loss 0.00648 | Valid_accuracy_value 0.05357 | Valid_accuracy_average 0.05357
+
+
+
+
+
+Highest Validation Accuracy! 0.0714356 | Train_accuracy_value 0.06494
+Val_loss 0.00646 | Valid_accuracy_value 0.07143 | Valid_accuracy_average 0.07143
+
+
+
+
+
+Highest Validation Accuracy! 0.0357162 | Train_accuracy_value 0.12338
+Val_loss 0.00647 | Valid_accuracy_value 0.03571 | Valid_accuracy_average 0.03571
+
+
+
+
+
+Highest Validation Accuracy! 0.0357150 | Train_accuracy_value 0.18182
+Val_loss 0.00645 | Valid_accuracy_value 0.03571 | Valid_accuracy_average 0.03571
+
+
+
+
+
+Highest Validation Accuracy! 0.1071462 | Train_accuracy_value 0.06494
+Val_loss 0.00642 | Valid_accuracy_value 0.10714 | Valid_accuracy_average 0.10714
+
+
+
+
+
+Highest Validation Accuracy! 0.0714359 | Train_accuracy_value 0.09740
+Val_loss 0.00641 | Valid_accuracy_value 0.07143 | Valid_accuracy_average 0.07143
+
+
+
+
+
+Highest Validation Accuracy! 0.0535761 | Train_accuracy_value 0.09740
+Val_loss 0.00639 | Valid_accuracy_value 0.05357 | Valid_accuracy_average 0.05357
+
+
+
+
+
+Highest Validation Accuracy! 0.0714359 | Train_accuracy_value 0.12338
+Val_loss 0.00636 | Valid_accuracy_value 0.07143 | Valid_accuracy_average 0.07143
+
+
+
+
+
+Highest Validation Accuracy! 0.0892951 | Train_accuracy_value 0.11688
+Val_loss 0.00635 | Valid_accuracy_value 0.08929 | Valid_accuracy_average 0.08929
+
+
+
+
+
+
+Highest Validation Accuracy! 0.1071443 | Train_accuracy_value 0.10390
+Val_loss 0.00633 | Valid_accuracy_value 0.10714 | Valid_accuracy_average 0.10714
+
+
+
+
+
+Highest Validation Accuracy! 0.1071429 | Train_accuracy_value 0.20130
+Val_loss 0.00631 | Valid_accuracy_value 0.10714 | Valid_accuracy_average 0.10714
+
+
+
+
+
+Highest Validation Accuracy! 0.1428639 | Train_accuracy_value 0.09740
+Val_loss 0.00629 | Valid_accuracy_value 0.14286 | Valid_accuracy_average 0.14286
+
+
+
+
+
+Highest Validation Accuracy! 0.1250026 | Train_accuracy_value 0.21429
+Val_loss 0.00629 | Valid_accuracy_value 0.12500 | Valid_accuracy_average 0.12500
+
+
+
+
+
+Highest Validation Accuracy! 0.1250043 | Train_accuracy_value 0.14286
+Val_loss 0.00627 | Valid_accuracy_value 0.12500 | Valid_accuracy_average 0.12500

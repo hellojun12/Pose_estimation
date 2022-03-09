@@ -1,0 +1,18 @@
+Creating model.....
+Creating training dataset...
+Creating valid dataset...
+train_loader length: 94
+valid_loader length: 32
+
+
+
+
+
+Epoch [0][93/94] | Train_loss 0.10066 | Train_accuracy_value 0.01299 | Train_accuracy_average 0.01785Highest Validation Accuracy! 0.03571428571428571Saving Model....
+Val_loss 0.10066 | Valid_accuracy_value 0.01299 | Valid_accuracy_average 0.01785
+Traceback (most recent call last):
+  File "main.py", line 198, in <module>
+    train(args)
+  File "main.py", line 157, in train
+    wandb.log({"Valid loss": val_loss.avg, "Valid accuracy value" : acc.val})
+NameError: name 'val_loss' is not defined

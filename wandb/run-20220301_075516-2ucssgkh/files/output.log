@@ -1,0 +1,3241 @@
+
+Creating model.....
+Creating training dataset...
+Creating valid dataset...
+train_loader length: 94
+valid_loader length: 32
+
+
+
+
+
+Epoch [  1/500] | Iter [ 94/ 94] | Train Loss 0.1271
+Epoch [  1/500] | Iter [ 31/ 32] | Valid Loss 0.1028
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [  2/500] | Iter [ 94/ 94] | Train Loss 0.0729
+Epoch [  2/500] | Iter [ 31/ 32] | Valid Loss 0.0674
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+Epoch [  3/500] | Iter [ 94/ 94] | Train Loss 0.0445
+Epoch [  3/500] | Iter [ 31/ 32] | Valid Loss 0.0395
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [  4/500] | Iter [ 94/ 94] | Train Loss 0.0294
+Epoch [  4/500] | Iter [ 31/ 32] | Valid Loss 0.0282
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [  5/500] | Iter [ 94/ 94] | Train Loss 0.0215
+Epoch [  5/500] | Iter [ 31/ 32] | Valid Loss 0.0191
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [  6/500] | Iter [ 94/ 94] | Train Loss 0.0171
+Epoch [  6/500] | Iter [ 31/ 32] | Valid Loss 0.0162
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [  7/500] | Iter [ 94/ 94] | Train Loss 0.0144
+Epoch [  7/500] | Iter [ 31/ 32] | Valid Loss 0.0147
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [  8/500] | Iter [ 94/ 94] | Train Loss 0.0127
+Epoch [  8/500] | Iter [ 31/ 32] | Valid Loss 0.0128
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [  9/500] | Iter [ 94/ 94] | Train Loss 0.0116
+Epoch [  9/500] | Iter [ 31/ 32] | Valid Loss 0.0117
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 10/500] | Iter [ 94/ 94] | Train Loss 0.0107
+Epoch [ 10/500] | Iter [ 31/ 32] | Valid Loss 0.0109
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 11/500] | Iter [ 94/ 94] | Train Loss 0.0100
+Epoch [ 11/500] | Iter [ 31/ 32] | Valid Loss 0.0103
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 12/500] | Iter [ 94/ 94] | Train Loss 0.0095
+Epoch [ 12/500] | Iter [ 31/ 32] | Valid Loss 0.0096
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 13/500] | Iter [ 94/ 94] | Train Loss 0.0091
+Epoch [ 13/500] | Iter [ 31/ 32] | Valid Loss 0.0093
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 14/500] | Iter [ 94/ 94] | Train Loss 0.0088
+Epoch [ 14/500] | Iter [ 31/ 32] | Valid Loss 0.0088
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 15/500] | Iter [ 94/ 94] | Train Loss 0.0085
+Epoch [ 15/500] | Iter [ 31/ 32] | Valid Loss 0.0085
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 16/500] | Iter [ 94/ 94] | Train Loss 0.0083
+Epoch [ 16/500] | Iter [ 31/ 32] | Valid Loss 0.0084
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 17/500] | Iter [ 94/ 94] | Train Loss 0.0081
+Epoch [ 17/500] | Iter [ 31/ 32] | Valid Loss 0.0080
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 18/500] | Iter [ 94/ 94] | Train Loss 0.0080
+Epoch [ 18/500] | Iter [ 31/ 32] | Valid Loss 0.0078
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 19/500] | Iter [ 94/ 94] | Train Loss 0.0078
+Epoch [ 19/500] | Iter [ 31/ 32] | Valid Loss 0.0077
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 20/500] | Iter [ 94/ 94] | Train Loss 0.0077
+Epoch [ 20/500] | Iter [ 31/ 32] | Valid Loss 0.0077
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+Epoch [ 21/500] | Iter [ 94/ 94] | Train Loss 0.0076
+Epoch [ 21/500] | Iter [ 31/ 32] | Valid Loss 0.0077
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 22/500] | Iter [ 94/ 94] | Train Loss 0.0075
+Epoch [ 22/500] | Iter [ 31/ 32] | Valid Loss 0.0076
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 23/500] | Iter [ 94/ 94] | Train Loss 0.0074
+Epoch [ 23/500] | Iter [ 31/ 32] | Valid Loss 0.0074
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 24/500] | Iter [ 94/ 94] | Train Loss 0.0073
+Epoch [ 24/500] | Iter [ 31/ 32] | Valid Loss 0.0074
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 25/500] | Iter [ 94/ 94] | Train Loss 0.0073
+Epoch [ 25/500] | Iter [ 31/ 32] | Valid Loss 0.0073
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 26/500] | Iter [ 94/ 94] | Train Loss 0.0072
+Epoch [ 26/500] | Iter [ 31/ 32] | Valid Loss 0.0072
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 27/500] | Iter [ 94/ 94] | Train Loss 0.0071
+Epoch [ 27/500] | Iter [ 31/ 32] | Valid Loss 0.0072
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 28/500] | Iter [ 94/ 94] | Train Loss 0.0071
+Epoch [ 28/500] | Iter [ 31/ 32] | Valid Loss 0.0071
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 29/500] | Iter [ 94/ 94] | Train Loss 0.0070
+Epoch [ 29/500] | Iter [ 31/ 32] | Valid Loss 0.0071
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 30/500] | Iter [ 94/ 94] | Train Loss 0.0070
+Epoch [ 30/500] | Iter [ 31/ 32] | Valid Loss 0.0070
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 31/500] | Iter [ 94/ 94] | Train Loss 0.0070
+Epoch [ 31/500] | Iter [ 31/ 32] | Valid Loss 0.0070
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+Epoch [ 32/500] | Iter [ 94/ 94] | Train Loss 0.0069
+Epoch [ 32/500] | Iter [ 31/ 32] | Valid Loss 0.0069
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 33/500] | Iter [ 94/ 94] | Train Loss 0.0069
+Epoch [ 33/500] | Iter [ 31/ 32] | Valid Loss 0.0069
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+Epoch [ 34/500] | Iter [ 94/ 94] | Train Loss 0.0068
+Epoch [ 34/500] | Iter [ 31/ 32] | Valid Loss 0.0069
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+
+
+
+
+
+Epoch [ 35/500] | Iter [ 94/ 94] | Train Loss 0.0068
+Epoch [ 35/500] | Iter [ 31/ 32] | Valid Loss 0.0068
+img:(4, 128, 128, 3), gt:(4, 32, 32), preds:(4, 32, 32)
+Epoch [ 36/500] | Iter [ 23/ 94] | Train Loss 0.0068
+Epoch [ 36/500] | Iter [ 40/ 94] | Train Loss 0.0068
+Epoch [ 36/500] | Iter [ 58/ 94] | Train Loss 0.0068
+Epoch [ 36/500] | Iter [ 75/ 94] | Train Loss 0.0068
+Epoch [ 36/500] | Iter [ 93/ 94] | Train Loss 0.0068
+Epoch [ 36/500] | Iter [ 94/ 94] | Train Loss 0.0068
+Epoch [ 37/500] | Iter [ 17/ 94] | Train Loss 0.0068
+Epoch [ 37/500] | Iter [ 34/ 94] | Train Loss 0.0068
+Epoch [ 37/500] | Iter [ 52/ 94] | Train Loss 0.0068
+Epoch [ 37/500] | Iter [ 70/ 94] | Train Loss 0.0067
+Epoch [ 37/500] | Iter [ 87/ 94] | Train Loss 0.0067
+Epoch [ 37/500] | Iter [ 94/ 94] | Train Loss 0.0067
+Epoch [ 38/500] | Iter [ 10/ 94] | Train Loss 0.0067
+Epoch [ 38/500] | Iter [ 27/ 94] | Train Loss 0.0067
+Epoch [ 38/500] | Iter [ 45/ 94] | Train Loss 0.0067
+Epoch [ 38/500] | Iter [ 62/ 94] | Train Loss 0.0067
+Epoch [ 38/500] | Iter [ 80/ 94] | Train Loss 0.0067
+Epoch [ 38/500] | Iter [ 94/ 94] | Train Loss 0.0067
+Epoch [ 39/500] | Iter [  3/ 94] | Train Loss 0.0067
+Epoch [ 39/500] | Iter [ 20/ 94] | Train Loss 0.0067
+Epoch [ 39/500] | Iter [ 38/ 94] | Train Loss 0.0067
+Epoch [ 39/500] | Iter [ 55/ 94] | Train Loss 0.0067
+Epoch [ 39/500] | Iter [ 73/ 94] | Train Loss 0.0067
+Epoch [ 39/500] | Iter [ 91/ 94] | Train Loss 0.0067
+Epoch [ 39/500] | Iter [ 94/ 94] | Train Loss 0.0067
+Epoch [ 40/500] | Iter [ 14/ 94] | Train Loss 0.0067
+Epoch [ 40/500] | Iter [ 31/ 94] | Train Loss 0.0067
+Epoch [ 40/500] | Iter [ 49/ 94] | Train Loss 0.0067
+Epoch [ 40/500] | Iter [ 66/ 94] | Train Loss 0.0067
+Epoch [ 40/500] | Iter [ 84/ 94] | Train Loss 0.0067
+Epoch [ 40/500] | Iter [ 94/ 94] | Train Loss 0.0067
+Epoch [ 41/500] | Iter [  7/ 94] | Train Loss 0.0067
+Epoch [ 41/500] | Iter [ 24/ 94] | Train Loss 0.0066
+Epoch [ 41/500] | Iter [ 42/ 94] | Train Loss 0.0066
+Epoch [ 41/500] | Iter [ 60/ 94] | Train Loss 0.0066
+Epoch [ 41/500] | Iter [ 77/ 94] | Train Loss 0.0066
+Epoch [ 41/500] | Iter [ 94/ 94] | Train Loss 0.0066
+Epoch [ 42/500] | Iter [  1/ 94] | Train Loss 0.0065
+Epoch [ 42/500] | Iter [ 18/ 94] | Train Loss 0.0066
+Epoch [ 42/500] | Iter [ 36/ 94] | Train Loss 0.0066
+Epoch [ 42/500] | Iter [ 54/ 94] | Train Loss 0.0066
+Epoch [ 42/500] | Iter [ 71/ 94] | Train Loss 0.0066
+Epoch [ 42/500] | Iter [ 89/ 94] | Train Loss 0.0066
+Epoch [ 42/500] | Iter [ 94/ 94] | Train Loss 0.0066
+Epoch [ 43/500] | Iter [ 13/ 94] | Train Loss 0.0066
+Epoch [ 43/500] | Iter [ 31/ 94] | Train Loss 0.0066
+Epoch [ 43/500] | Iter [ 48/ 94] | Train Loss 0.0066
+Epoch [ 43/500] | Iter [ 66/ 94] | Train Loss 0.0066
+Epoch [ 43/500] | Iter [ 83/ 94] | Train Loss 0.0066
+Epoch [ 43/500] | Iter [ 94/ 94] | Train Loss 0.0066
+Epoch [ 44/500] | Iter [  8/ 94] | Train Loss 0.0065
+Epoch [ 44/500] | Iter [ 25/ 94] | Train Loss 0.0065
+Epoch [ 44/500] | Iter [ 43/ 94] | Train Loss 0.0065
+Epoch [ 44/500] | Iter [ 61/ 94] | Train Loss 0.0066
+Epoch [ 44/500] | Iter [ 78/ 94] | Train Loss 0.0066
+Epoch [ 44/500] | Iter [ 94/ 94] | Train Loss 0.0066
+Epoch [ 45/500] | Iter [  1/ 94] | Train Loss 0.0064
+Epoch [ 45/500] | Iter [ 19/ 94] | Train Loss 0.0065
+Epoch [ 45/500] | Iter [ 37/ 94] | Train Loss 0.0065
+Epoch [ 45/500] | Iter [ 54/ 94] | Train Loss 0.0065
+Epoch [ 45/500] | Iter [ 72/ 94] | Train Loss 0.0065
+Epoch [ 45/500] | Iter [ 89/ 94] | Train Loss 0.0065
+Epoch [ 45/500] | Iter [ 94/ 94] | Train Loss 0.0065
+Epoch [ 46/500] | Iter [ 13/ 94] | Train Loss 0.0065
+Epoch [ 46/500] | Iter [ 31/ 94] | Train Loss 0.0065
+Epoch [ 46/500] | Iter [ 49/ 94] | Train Loss 0.0065
+Epoch [ 46/500] | Iter [ 66/ 94] | Train Loss 0.0065
+Epoch [ 46/500] | Iter [ 84/ 94] | Train Loss 0.0065
+Epoch [ 46/500] | Iter [ 94/ 94] | Train Loss 0.0065
+Epoch [ 47/500] | Iter [  8/ 94] | Train Loss 0.0065
+Epoch [ 47/500] | Iter [ 26/ 94] | Train Loss 0.0065
+Epoch [ 47/500] | Iter [ 43/ 94] | Train Loss 0.0065
+Epoch [ 47/500] | Iter [ 61/ 94] | Train Loss 0.0065
+Epoch [ 47/500] | Iter [ 79/ 94] | Train Loss 0.0065
+Epoch [ 47/500] | Iter [ 94/ 94] | Train Loss 0.0065
+Epoch [ 48/500] | Iter [  3/ 94] | Train Loss 0.0064
+Epoch [ 48/500] | Iter [ 20/ 94] | Train Loss 0.0065
+Epoch [ 48/500] | Iter [ 38/ 94] | Train Loss 0.0065
+Epoch [ 48/500] | Iter [ 55/ 94] | Train Loss 0.0065
+Epoch [ 48/500] | Iter [ 73/ 94] | Train Loss 0.0065
+Epoch [ 48/500] | Iter [ 91/ 94] | Train Loss 0.0065
+Epoch [ 48/500] | Iter [ 94/ 94] | Train Loss 0.0065
+Epoch [ 49/500] | Iter [ 15/ 94] | Train Loss 0.0065
+Epoch [ 49/500] | Iter [ 32/ 94] | Train Loss 0.0064
+Epoch [ 49/500] | Iter [ 50/ 94] | Train Loss 0.0065
+Epoch [ 49/500] | Iter [ 67/ 94] | Train Loss 0.0064
+Epoch [ 49/500] | Iter [ 85/ 94] | Train Loss 0.0064
+Epoch [ 49/500] | Iter [ 94/ 94] | Train Loss 0.0064
+Epoch [ 50/500] | Iter [  9/ 94] | Train Loss 0.0065
+Epoch [ 50/500] | Iter [ 26/ 94] | Train Loss 0.0064
+Epoch [ 50/500] | Iter [ 44/ 94] | Train Loss 0.0064
+Epoch [ 50/500] | Iter [ 61/ 94] | Train Loss 0.0064
+Epoch [ 50/500] | Iter [ 79/ 94] | Train Loss 0.0064
+Epoch [ 50/500] | Iter [ 94/ 94] | Train Loss 0.0064
+Epoch [ 51/500] | Iter [  3/ 94] | Train Loss 0.0063
+Epoch [ 51/500] | Iter [ 21/ 94] | Train Loss 0.0064
+Epoch [ 51/500] | Iter [ 38/ 94] | Train Loss 0.0064
+Epoch [ 51/500] | Iter [ 56/ 94] | Train Loss 0.0064
+Epoch [ 51/500] | Iter [ 74/ 94] | Train Loss 0.0064
+Epoch [ 51/500] | Iter [ 91/ 94] | Train Loss 0.0064
+Epoch [ 51/500] | Iter [ 94/ 94] | Train Loss 0.0064
+Epoch [ 52/500] | Iter [ 14/ 94] | Train Loss 0.0064
+Epoch [ 52/500] | Iter [ 32/ 94] | Train Loss 0.0064
+Epoch [ 52/500] | Iter [ 50/ 94] | Train Loss 0.0064
+Epoch [ 52/500] | Iter [ 67/ 94] | Train Loss 0.0064
+Epoch [ 52/500] | Iter [ 85/ 94] | Train Loss 0.0064
+Epoch [ 52/500] | Iter [ 94/ 94] | Train Loss 0.0064
+Epoch [ 53/500] | Iter [  8/ 94] | Train Loss 0.0064
+Epoch [ 53/500] | Iter [ 26/ 94] | Train Loss 0.0064
+Epoch [ 53/500] | Iter [ 43/ 94] | Train Loss 0.0064
+Epoch [ 53/500] | Iter [ 61/ 94] | Train Loss 0.0064
+Epoch [ 53/500] | Iter [ 79/ 94] | Train Loss 0.0064
+Epoch [ 53/500] | Iter [ 94/ 94] | Train Loss 0.0064
+Epoch [ 54/500] | Iter [  1/ 94] | Train Loss 0.0064
+Epoch [ 54/500] | Iter [ 19/ 94] | Train Loss 0.0063
+Epoch [ 54/500] | Iter [ 37/ 94] | Train Loss 0.0064
+Epoch [ 54/500] | Iter [ 54/ 94] | Train Loss 0.0064
+Epoch [ 54/500] | Iter [ 72/ 94] | Train Loss 0.0064
+Epoch [ 54/500] | Iter [ 89/ 94] | Train Loss 0.0063
+Epoch [ 54/500] | Iter [ 94/ 94] | Train Loss 0.0063
+Epoch [ 55/500] | Iter [ 12/ 94] | Train Loss 0.0064
+Epoch [ 55/500] | Iter [ 30/ 94] | Train Loss 0.0063
+Epoch [ 55/500] | Iter [ 47/ 94] | Train Loss 0.0063
+Epoch [ 55/500] | Iter [ 65/ 94] | Train Loss 0.0063
+Epoch [ 55/500] | Iter [ 83/ 94] | Train Loss 0.0063
+Epoch [ 55/500] | Iter [ 94/ 94] | Train Loss 0.0063
+Epoch [ 56/500] | Iter [  6/ 94] | Train Loss 0.0063
+Epoch [ 56/500] | Iter [ 24/ 94] | Train Loss 0.0063
+Epoch [ 56/500] | Iter [ 41/ 94] | Train Loss 0.0063
+Epoch [ 56/500] | Iter [ 59/ 94] | Train Loss 0.0063
+Epoch [ 56/500] | Iter [ 77/ 94] | Train Loss 0.0063
+Epoch [ 56/500] | Iter [ 94/ 94] | Train Loss 0.0063
+Epoch [ 56/500] | Iter [ 94/ 94] | Train Loss 0.0063
+Epoch [ 57/500] | Iter [ 17/ 94] | Train Loss 0.0063
+Epoch [ 57/500] | Iter [ 35/ 94] | Train Loss 0.0063
+Epoch [ 57/500] | Iter [ 53/ 94] | Train Loss 0.0063
+Epoch [ 57/500] | Iter [ 70/ 94] | Train Loss 0.0063
+Epoch [ 57/500] | Iter [ 88/ 94] | Train Loss 0.0063
+Epoch [ 57/500] | Iter [ 94/ 94] | Train Loss 0.0063
+Epoch [ 58/500] | Iter [  8/ 94] | Train Loss 0.0062
+Epoch [ 58/500] | Iter [ 25/ 94] | Train Loss 0.0062
+Epoch [ 58/500] | Iter [ 43/ 94] | Train Loss 0.0062
+Epoch [ 58/500] | Iter [ 61/ 94] | Train Loss 0.0063
+Epoch [ 58/500] | Iter [ 78/ 94] | Train Loss 0.0062
+Epoch [ 58/500] | Iter [ 94/ 94] | Train Loss 0.0063
+Epoch [ 59/500] | Iter [  2/ 94] | Train Loss 0.0063
+Epoch [ 59/500] | Iter [ 20/ 94] | Train Loss 0.0062
+Epoch [ 59/500] | Iter [ 37/ 94] | Train Loss 0.0062
+Epoch [ 59/500] | Iter [ 55/ 94] | Train Loss 0.0062
+Epoch [ 59/500] | Iter [ 73/ 94] | Train Loss 0.0062
+Epoch [ 59/500] | Iter [ 94/ 94] | Train Loss 0.0062
+Epoch [ 60/500] | Iter [  2/ 94] | Train Loss 0.0062
+Epoch [ 60/500] | Iter [ 15/ 94] | Train Loss 0.0062
+Epoch [ 60/500] | Iter [ 32/ 94] | Train Loss 0.0062
+Epoch [ 60/500] | Iter [ 50/ 94] | Train Loss 0.0062
+Epoch [ 60/500] | Iter [ 68/ 94] | Train Loss 0.0062
+Epoch [ 60/500] | Iter [ 85/ 94] | Train Loss 0.0062
+Epoch [ 60/500] | Iter [ 94/ 94] | Train Loss 0.0062
+Epoch [ 61/500] | Iter [  8/ 94] | Train Loss 0.0062
+Epoch [ 61/500] | Iter [ 26/ 94] | Train Loss 0.0062
+Epoch [ 61/500] | Iter [ 44/ 94] | Train Loss 0.0062
+Epoch [ 61/500] | Iter [ 61/ 94] | Train Loss 0.0062
+Epoch [ 61/500] | Iter [ 79/ 94] | Train Loss 0.0062
+Epoch [ 61/500] | Iter [ 94/ 94] | Train Loss 0.0062
+Epoch [ 62/500] | Iter [  3/ 94] | Train Loss 0.0061
+Epoch [ 62/500] | Iter [ 21/ 94] | Train Loss 0.0062
+Epoch [ 62/500] | Iter [ 39/ 94] | Train Loss 0.0062
+Epoch [ 62/500] | Iter [ 56/ 94] | Train Loss 0.0062
+Epoch [ 62/500] | Iter [ 74/ 94] | Train Loss 0.0062
+Epoch [ 62/500] | Iter [ 92/ 94] | Train Loss 0.0062
+Epoch [ 62/500] | Iter [ 94/ 94] | Train Loss 0.0062
+Epoch [ 63/500] | Iter [ 14/ 94] | Train Loss 0.0062
+Epoch [ 63/500] | Iter [ 31/ 94] | Train Loss 0.0062
+Epoch [ 63/500] | Iter [ 49/ 94] | Train Loss 0.0062
+Epoch [ 63/500] | Iter [ 67/ 94] | Train Loss 0.0062
+Epoch [ 63/500] | Iter [ 84/ 94] | Train Loss 0.0061
+Epoch [ 63/500] | Iter [ 94/ 94] | Train Loss 0.0062
+Epoch [ 64/500] | Iter [  9/ 94] | Train Loss 0.0061
+Epoch [ 64/500] | Iter [ 26/ 94] | Train Loss 0.0061
+Epoch [ 64/500] | Iter [ 44/ 94] | Train Loss 0.0061
+Epoch [ 64/500] | Iter [ 61/ 94] | Train Loss 0.0061
+Epoch [ 64/500] | Iter [ 79/ 94] | Train Loss 0.0061
+Epoch [ 64/500] | Iter [ 94/ 94] | Train Loss 0.0061
+Epoch [ 65/500] | Iter [  3/ 94] | Train Loss 0.0061
+Epoch [ 65/500] | Iter [ 21/ 94] | Train Loss 0.0061
+Epoch [ 65/500] | Iter [ 39/ 94] | Train Loss 0.0061
+Epoch [ 65/500] | Iter [ 56/ 94] | Train Loss 0.0061
+Epoch [ 65/500] | Iter [ 74/ 94] | Train Loss 0.0061
+Epoch [ 65/500] | Iter [ 92/ 94] | Train Loss 0.0061
+Epoch [ 65/500] | Iter [ 94/ 94] | Train Loss 0.0061
+Epoch [ 66/500] | Iter [ 15/ 94] | Train Loss 0.0061
+Epoch [ 66/500] | Iter [ 32/ 94] | Train Loss 0.0061
+Epoch [ 66/500] | Iter [ 50/ 94] | Train Loss 0.0061
+Epoch [ 66/500] | Iter [ 68/ 94] | Train Loss 0.0061
+Epoch [ 66/500] | Iter [ 85/ 94] | Train Loss 0.0061
+Epoch [ 66/500] | Iter [ 94/ 94] | Train Loss 0.0061
+Epoch [ 67/500] | Iter [  8/ 94] | Train Loss 0.0061
+Epoch [ 67/500] | Iter [ 26/ 94] | Train Loss 0.0061
+Epoch [ 67/500] | Iter [ 44/ 94] | Train Loss 0.0061
+Epoch [ 67/500] | Iter [ 61/ 94] | Train Loss 0.0061
+Epoch [ 67/500] | Iter [ 79/ 94] | Train Loss 0.0061
+Epoch [ 67/500] | Iter [ 94/ 94] | Train Loss 0.0061
+Epoch [ 68/500] | Iter [  3/ 94] | Train Loss 0.0061
+Epoch [ 68/500] | Iter [ 20/ 94] | Train Loss 0.0060
+Epoch [ 68/500] | Iter [ 38/ 94] | Train Loss 0.0060
+Epoch [ 68/500] | Iter [ 55/ 94] | Train Loss 0.0060
+Epoch [ 68/500] | Iter [ 73/ 94] | Train Loss 0.0060
+Epoch [ 68/500] | Iter [ 91/ 94] | Train Loss 0.0060
+Epoch [ 68/500] | Iter [ 94/ 94] | Train Loss 0.0060
+Epoch [ 69/500] | Iter [ 14/ 94] | Train Loss 0.0060
+Epoch [ 69/500] | Iter [ 31/ 94] | Train Loss 0.0060
+Epoch [ 69/500] | Iter [ 49/ 94] | Train Loss 0.0060
+Epoch [ 69/500] | Iter [ 67/ 94] | Train Loss 0.0060
+Epoch [ 69/500] | Iter [ 84/ 94] | Train Loss 0.0060
+Epoch [ 69/500] | Iter [ 94/ 94] | Train Loss 0.0060
+Epoch [ 70/500] | Iter [  8/ 94] | Train Loss 0.0060
+Epoch [ 70/500] | Iter [ 25/ 94] | Train Loss 0.0060
+Epoch [ 70/500] | Iter [ 43/ 94] | Train Loss 0.0060
+Epoch [ 70/500] | Iter [ 60/ 94] | Train Loss 0.0060
+Epoch [ 70/500] | Iter [ 78/ 94] | Train Loss 0.0060
+Epoch [ 70/500] | Iter [ 94/ 94] | Train Loss 0.0060
+Epoch [ 71/500] | Iter [  1/ 94] | Train Loss 0.0059
+Epoch [ 71/500] | Iter [ 19/ 94] | Train Loss 0.0060
+Epoch [ 71/500] | Iter [ 37/ 94] | Train Loss 0.0060
+Epoch [ 71/500] | Iter [ 54/ 94] | Train Loss 0.0060
+Epoch [ 71/500] | Iter [ 72/ 94] | Train Loss 0.0060
+Epoch [ 71/500] | Iter [ 90/ 94] | Train Loss 0.0060
+Epoch [ 71/500] | Iter [ 94/ 94] | Train Loss 0.0060
+Epoch [ 72/500] | Iter [ 12/ 94] | Train Loss 0.0060
+Epoch [ 72/500] | Iter [ 30/ 94] | Train Loss 0.0059
+Epoch [ 72/500] | Iter [ 47/ 94] | Train Loss 0.0059
+Epoch [ 72/500] | Iter [ 65/ 94] | Train Loss 0.0059
+Epoch [ 72/500] | Iter [ 82/ 94] | Train Loss 0.0059
+Epoch [ 72/500] | Iter [ 94/ 94] | Train Loss 0.0059
+Epoch [ 73/500] | Iter [  5/ 94] | Train Loss 0.0059
+Epoch [ 73/500] | Iter [ 23/ 94] | Train Loss 0.0059
+Epoch [ 73/500] | Iter [ 41/ 94] | Train Loss 0.0059
+Epoch [ 73/500] | Iter [ 58/ 94] | Train Loss 0.0059
+Epoch [ 73/500] | Iter [ 76/ 94] | Train Loss 0.0059
+Epoch [ 73/500] | Iter [ 94/ 94] | Train Loss 0.0059
+Epoch [ 73/500] | Iter [ 94/ 94] | Train Loss 0.0059
+Epoch [ 74/500] | Iter [ 18/ 94] | Train Loss 0.0059
+Epoch [ 74/500] | Iter [ 35/ 94] | Train Loss 0.0059
+Epoch [ 74/500] | Iter [ 53/ 94] | Train Loss 0.0059
+Epoch [ 74/500] | Iter [ 71/ 94] | Train Loss 0.0059
+Epoch [ 74/500] | Iter [ 88/ 94] | Train Loss 0.0059
+Epoch [ 74/500] | Iter [ 94/ 94] | Train Loss 0.0059
+Epoch [ 75/500] | Iter [ 11/ 94] | Train Loss 0.0059
+Epoch [ 75/500] | Iter [ 29/ 94] | Train Loss 0.0059
+Epoch [ 75/500] | Iter [ 47/ 94] | Train Loss 0.0059
+Epoch [ 75/500] | Iter [ 64/ 94] | Train Loss 0.0059
+Epoch [ 75/500] | Iter [ 82/ 94] | Train Loss 0.0059
+Epoch [ 75/500] | Iter [ 94/ 94] | Train Loss 0.0059
+Epoch [ 76/500] | Iter [  5/ 94] | Train Loss 0.0058
+Epoch [ 76/500] | Iter [ 23/ 94] | Train Loss 0.0058
+Epoch [ 76/500] | Iter [ 40/ 94] | Train Loss 0.0058
+Epoch [ 76/500] | Iter [ 58/ 94] | Train Loss 0.0058
+Epoch [ 76/500] | Iter [ 75/ 94] | Train Loss 0.0058
+Epoch [ 76/500] | Iter [ 93/ 94] | Train Loss 0.0058
+Epoch [ 76/500] | Iter [ 94/ 94] | Train Loss 0.0058
+Epoch [ 77/500] | Iter [ 16/ 94] | Train Loss 0.0058
+Epoch [ 77/500] | Iter [ 34/ 94] | Train Loss 0.0058
+Epoch [ 77/500] | Iter [ 52/ 94] | Train Loss 0.0058
+Epoch [ 77/500] | Iter [ 69/ 94] | Train Loss 0.0058
+Epoch [ 77/500] | Iter [ 87/ 94] | Train Loss 0.0058
+Epoch [ 77/500] | Iter [ 94/ 94] | Train Loss 0.0058
+Epoch [ 78/500] | Iter [ 12/ 94] | Train Loss 0.0059
+Epoch [ 78/500] | Iter [ 29/ 94] | Train Loss 0.0058
+Epoch [ 78/500] | Iter [ 47/ 94] | Train Loss 0.0058
+Epoch [ 78/500] | Iter [ 64/ 94] | Train Loss 0.0058
+Epoch [ 78/500] | Iter [ 82/ 94] | Train Loss 0.0058
+Epoch [ 78/500] | Iter [ 94/ 94] | Train Loss 0.0058
+Epoch [ 79/500] | Iter [  4/ 94] | Train Loss 0.0057
+Epoch [ 79/500] | Iter [ 22/ 94] | Train Loss 0.0058
+Epoch [ 79/500] | Iter [ 40/ 94] | Train Loss 0.0058
+Epoch [ 79/500] | Iter [ 57/ 94] | Train Loss 0.0058
+Epoch [ 79/500] | Iter [ 75/ 94] | Train Loss 0.0058
+Epoch [ 79/500] | Iter [ 92/ 94] | Train Loss 0.0058
+Epoch [ 79/500] | Iter [ 94/ 94] | Train Loss 0.0058
+Epoch [ 80/500] | Iter [ 16/ 94] | Train Loss 0.0057
+Epoch [ 80/500] | Iter [ 33/ 94] | Train Loss 0.0057
+Epoch [ 80/500] | Iter [ 51/ 94] | Train Loss 0.0057
+Epoch [ 80/500] | Iter [ 69/ 94] | Train Loss 0.0057
+Epoch [ 80/500] | Iter [ 86/ 94] | Train Loss 0.0057
+Epoch [ 80/500] | Iter [ 94/ 94] | Train Loss 0.0057
+Epoch [ 81/500] | Iter [  9/ 94] | Train Loss 0.0057
+Epoch [ 81/500] | Iter [ 27/ 94] | Train Loss 0.0057
+Epoch [ 81/500] | Iter [ 44/ 94] | Train Loss 0.0057
+Epoch [ 81/500] | Iter [ 62/ 94] | Train Loss 0.0057
+Epoch [ 81/500] | Iter [ 80/ 94] | Train Loss 0.0057
+Epoch [ 81/500] | Iter [ 94/ 94] | Train Loss 0.0057
+Epoch [ 82/500] | Iter [  4/ 94] | Train Loss 0.0057
+Epoch [ 82/500] | Iter [ 21/ 94] | Train Loss 0.0057
+Epoch [ 82/500] | Iter [ 39/ 94] | Train Loss 0.0057
+Epoch [ 82/500] | Iter [ 57/ 94] | Train Loss 0.0057
+Epoch [ 82/500] | Iter [ 74/ 94] | Train Loss 0.0057
+Epoch [ 82/500] | Iter [ 92/ 94] | Train Loss 0.0057
+Epoch [ 82/500] | Iter [ 94/ 94] | Train Loss 0.0057
+Epoch [ 83/500] | Iter [ 15/ 94] | Train Loss 0.0057
+Epoch [ 83/500] | Iter [ 33/ 94] | Train Loss 0.0057
+Epoch [ 83/500] | Iter [ 50/ 94] | Train Loss 0.0057
+Epoch [ 83/500] | Iter [ 68/ 94] | Train Loss 0.0057
+Epoch [ 83/500] | Iter [ 85/ 94] | Train Loss 0.0057
+Epoch [ 83/500] | Iter [ 94/ 94] | Train Loss 0.0057
+Epoch [ 84/500] | Iter [  9/ 94] | Train Loss 0.0056
+Epoch [ 84/500] | Iter [ 27/ 94] | Train Loss 0.0056
+Epoch [ 84/500] | Iter [ 44/ 94] | Train Loss 0.0056
+Epoch [ 84/500] | Iter [ 62/ 94] | Train Loss 0.0056
+Epoch [ 84/500] | Iter [ 80/ 94] | Train Loss 0.0056
+Epoch [ 84/500] | Iter [ 94/ 94] | Train Loss 0.0056
+Epoch [ 85/500] | Iter [  3/ 94] | Train Loss 0.0057
+Epoch [ 85/500] | Iter [ 21/ 94] | Train Loss 0.0056
+Epoch [ 85/500] | Iter [ 38/ 94] | Train Loss 0.0056
+Epoch [ 85/500] | Iter [ 56/ 94] | Train Loss 0.0056
+Epoch [ 85/500] | Iter [ 73/ 94] | Train Loss 0.0056
+Epoch [ 85/500] | Iter [ 91/ 94] | Train Loss 0.0056
+Epoch [ 85/500] | Iter [ 94/ 94] | Train Loss 0.0056
+Epoch [ 86/500] | Iter [ 15/ 94] | Train Loss 0.0056
+Epoch [ 86/500] | Iter [ 32/ 94] | Train Loss 0.0056
+Epoch [ 86/500] | Iter [ 50/ 94] | Train Loss 0.0056
+Epoch [ 86/500] | Iter [ 67/ 94] | Train Loss 0.0056
+Epoch [ 86/500] | Iter [ 85/ 94] | Train Loss 0.0056
+Epoch [ 86/500] | Iter [ 94/ 94] | Train Loss 0.0056
+Epoch [ 87/500] | Iter [  9/ 94] | Train Loss 0.0055
+Epoch [ 87/500] | Iter [ 26/ 94] | Train Loss 0.0056
+Epoch [ 87/500] | Iter [ 44/ 94] | Train Loss 0.0056
+Epoch [ 87/500] | Iter [ 62/ 94] | Train Loss 0.0056
+Epoch [ 87/500] | Iter [ 79/ 94] | Train Loss 0.0056
+Epoch [ 87/500] | Iter [ 94/ 94] | Train Loss 0.0056
+Epoch [ 88/500] | Iter [  3/ 94] | Train Loss 0.0054
+Epoch [ 88/500] | Iter [ 21/ 94] | Train Loss 0.0055
+Epoch [ 88/500] | Iter [ 38/ 94] | Train Loss 0.0055
+Epoch [ 88/500] | Iter [ 56/ 94] | Train Loss 0.0055
+Epoch [ 88/500] | Iter [ 73/ 94] | Train Loss 0.0055
+Epoch [ 88/500] | Iter [ 91/ 94] | Train Loss 0.0055
+Epoch [ 88/500] | Iter [ 94/ 94] | Train Loss 0.0055
+Epoch [ 89/500] | Iter [ 14/ 94] | Train Loss 0.0055
+Epoch [ 89/500] | Iter [ 32/ 94] | Train Loss 0.0055
+Epoch [ 89/500] | Iter [ 50/ 94] | Train Loss 0.0055
+Epoch [ 89/500] | Iter [ 67/ 94] | Train Loss 0.0055
+Epoch [ 89/500] | Iter [ 85/ 94] | Train Loss 0.0055
+Epoch [ 89/500] | Iter [ 94/ 94] | Train Loss 0.0055
+Epoch [ 90/500] | Iter [  8/ 94] | Train Loss 0.0055
+Epoch [ 90/500] | Iter [ 26/ 94] | Train Loss 0.0055
+Epoch [ 90/500] | Iter [ 43/ 94] | Train Loss 0.0055
+Epoch [ 90/500] | Iter [ 61/ 94] | Train Loss 0.0055
+Epoch [ 90/500] | Iter [ 79/ 94] | Train Loss 0.0055
+Epoch [ 90/500] | Iter [ 94/ 94] | Train Loss 0.0055
+Epoch [ 91/500] | Iter [  2/ 94] | Train Loss 0.0054
+Epoch [ 91/500] | Iter [ 20/ 94] | Train Loss 0.0054
+Epoch [ 91/500] | Iter [ 38/ 94] | Train Loss 0.0054
+Epoch [ 91/500] | Iter [ 55/ 94] | Train Loss 0.0054
+Epoch [ 91/500] | Iter [ 73/ 94] | Train Loss 0.0054
+Epoch [ 91/500] | Iter [ 91/ 94] | Train Loss 0.0054
+Epoch [ 91/500] | Iter [ 94/ 94] | Train Loss 0.0054
+Epoch [ 92/500] | Iter [ 14/ 94] | Train Loss 0.0054
+Epoch [ 92/500] | Iter [ 32/ 94] | Train Loss 0.0054
+Epoch [ 92/500] | Iter [ 49/ 94] | Train Loss 0.0054
+Epoch [ 92/500] | Iter [ 67/ 94] | Train Loss 0.0054
+Epoch [ 92/500] | Iter [ 85/ 94] | Train Loss 0.0054
+Epoch [ 92/500] | Iter [ 94/ 94] | Train Loss 0.0054
+Epoch [ 93/500] | Iter [  8/ 94] | Train Loss 0.0053
+Epoch [ 93/500] | Iter [ 26/ 94] | Train Loss 0.0054
+Epoch [ 93/500] | Iter [ 44/ 94] | Train Loss 0.0054
+Epoch [ 93/500] | Iter [ 61/ 94] | Train Loss 0.0054
+Epoch [ 93/500] | Iter [ 79/ 94] | Train Loss 0.0054
+Epoch [ 93/500] | Iter [ 94/ 94] | Train Loss 0.0054
+Epoch [ 93/500] | Iter [ 94/ 94] | Train Loss 0.0054
+Epoch [ 94/500] | Iter [ 11/ 94] | Train Loss 0.0053
+Epoch [ 94/500] | Iter [ 28/ 94] | Train Loss 0.0054
+Epoch [ 94/500] | Iter [ 46/ 94] | Train Loss 0.0054
+Epoch [ 94/500] | Iter [ 63/ 94] | Train Loss 0.0054
+Epoch [ 94/500] | Iter [ 81/ 94] | Train Loss 0.0054
+Epoch [ 94/500] | Iter [ 94/ 94] | Train Loss 0.0054
+Epoch [ 95/500] | Iter [  5/ 94] | Train Loss 0.0052
+Epoch [ 95/500] | Iter [ 22/ 94] | Train Loss 0.0053
+Epoch [ 95/500] | Iter [ 40/ 94] | Train Loss 0.0053
+Epoch [ 95/500] | Iter [ 53/ 94] | Train Loss 0.0053
+Epoch [ 95/500] | Iter [ 71/ 94] | Train Loss 0.0053
+Epoch [ 95/500] | Iter [ 88/ 94] | Train Loss 0.0053
+Epoch [ 95/500] | Iter [ 94/ 94] | Train Loss 0.0053
+Epoch [ 96/500] | Iter [ 12/ 94] | Train Loss 0.0053
+Epoch [ 96/500] | Iter [ 30/ 94] | Train Loss 0.0053
+Epoch [ 96/500] | Iter [ 47/ 94] | Train Loss 0.0053
+Epoch [ 96/500] | Iter [ 65/ 94] | Train Loss 0.0053
+Epoch [ 96/500] | Iter [ 83/ 94] | Train Loss 0.0053
+Epoch [ 96/500] | Iter [ 94/ 94] | Train Loss 0.0053
+Epoch [ 97/500] | Iter [  7/ 94] | Train Loss 0.0052
+Epoch [ 97/500] | Iter [ 24/ 94] | Train Loss 0.0053
+Epoch [ 97/500] | Iter [ 42/ 94] | Train Loss 0.0053
+Epoch [ 97/500] | Iter [ 59/ 94] | Train Loss 0.0053
+Epoch [ 97/500] | Iter [ 77/ 94] | Train Loss 0.0053
+Epoch [ 97/500] | Iter [ 94/ 94] | Train Loss 0.0053
+Epoch [ 98/500] | Iter [  1/ 94] | Train Loss 0.0052
+Epoch [ 98/500] | Iter [ 19/ 94] | Train Loss 0.0052
+Epoch [ 98/500] | Iter [ 36/ 94] | Train Loss 0.0053
+Epoch [ 98/500] | Iter [ 54/ 94] | Train Loss 0.0052
+Epoch [ 98/500] | Iter [ 72/ 94] | Train Loss 0.0052
+Epoch [ 98/500] | Iter [ 89/ 94] | Train Loss 0.0052
+Epoch [ 98/500] | Iter [ 94/ 94] | Train Loss 0.0052
+Epoch [ 99/500] | Iter [ 13/ 94] | Train Loss 0.0052
+Epoch [ 99/500] | Iter [ 30/ 94] | Train Loss 0.0052
+Epoch [ 99/500] | Iter [ 48/ 94] | Train Loss 0.0052
+Epoch [ 99/500] | Iter [ 65/ 94] | Train Loss 0.0052
+Epoch [ 99/500] | Iter [ 83/ 94] | Train Loss 0.0052
+Epoch [ 99/500] | Iter [ 94/ 94] | Train Loss 0.0052
+Epoch [100/500] | Iter [  4/ 94] | Train Loss 0.0051
+Epoch [100/500] | Iter [ 22/ 94] | Train Loss 0.0051
+Epoch [100/500] | Iter [ 40/ 94] | Train Loss 0.0051
+Epoch [100/500] | Iter [ 57/ 94] | Train Loss 0.0052
+Epoch [100/500] | Iter [ 75/ 94] | Train Loss 0.0052
+Epoch [100/500] | Iter [ 93/ 94] | Train Loss 0.0052
+Epoch [100/500] | Iter [ 94/ 94] | Train Loss 0.0052
+Epoch [101/500] | Iter [ 16/ 94] | Train Loss 0.0052
+Epoch [101/500] | Iter [ 33/ 94] | Train Loss 0.0052
+Epoch [101/500] | Iter [ 51/ 94] | Train Loss 0.0052
+Epoch [101/500] | Iter [ 69/ 94] | Train Loss 0.0052
+Epoch [101/500] | Iter [ 86/ 94] | Train Loss 0.0052
+Epoch [101/500] | Iter [ 94/ 94] | Train Loss 0.0051
+Epoch [102/500] | Iter [  9/ 94] | Train Loss 0.0051
+Epoch [102/500] | Iter [ 27/ 94] | Train Loss 0.0051
+Epoch [102/500] | Iter [ 44/ 94] | Train Loss 0.0051
+Epoch [102/500] | Iter [ 62/ 94] | Train Loss 0.0051
+Epoch [102/500] | Iter [ 80/ 94] | Train Loss 0.0051
+Epoch [102/500] | Iter [ 94/ 94] | Train Loss 0.0051
+Epoch [103/500] | Iter [  2/ 94] | Train Loss 0.0049
+Epoch [103/500] | Iter [ 19/ 94] | Train Loss 0.0051
+Epoch [103/500] | Iter [ 37/ 94] | Train Loss 0.0051
+Epoch [103/500] | Iter [ 55/ 94] | Train Loss 0.0051
+Epoch [103/500] | Iter [ 72/ 94] | Train Loss 0.0051
+Epoch [103/500] | Iter [ 90/ 94] | Train Loss 0.0051
+Epoch [103/500] | Iter [ 94/ 94] | Train Loss 0.0051
+Epoch [104/500] | Iter [ 14/ 94] | Train Loss 0.0050
+Epoch [104/500] | Iter [ 31/ 94] | Train Loss 0.0050
+Epoch [104/500] | Iter [ 49/ 94] | Train Loss 0.0050
+Epoch [104/500] | Iter [ 67/ 94] | Train Loss 0.0051
+Epoch [104/500] | Iter [ 84/ 94] | Train Loss 0.0051
+Epoch [104/500] | Iter [ 94/ 94] | Train Loss 0.0051
+Epoch [105/500] | Iter [  8/ 94] | Train Loss 0.0050
+Epoch [105/500] | Iter [ 26/ 94] | Train Loss 0.0050
+Epoch [105/500] | Iter [ 44/ 94] | Train Loss 0.0050
+Epoch [105/500] | Iter [ 61/ 94] | Train Loss 0.0050
+Epoch [105/500] | Iter [ 79/ 94] | Train Loss 0.0050
+Epoch [105/500] | Iter [ 94/ 94] | Train Loss 0.0050
+Epoch [106/500] | Iter [  1/ 94] | Train Loss 0.0049
+Epoch [106/500] | Iter [ 19/ 94] | Train Loss 0.0050
+Epoch [106/500] | Iter [ 37/ 94] | Train Loss 0.0050
+Epoch [106/500] | Iter [ 54/ 94] | Train Loss 0.0050
+Epoch [106/500] | Iter [ 72/ 94] | Train Loss 0.0050
+Epoch [106/500] | Iter [ 90/ 94] | Train Loss 0.0050
+Epoch [106/500] | Iter [ 94/ 94] | Train Loss 0.0050
+Epoch [107/500] | Iter [ 13/ 94] | Train Loss 0.0050
+Epoch [107/500] | Iter [ 31/ 94] | Train Loss 0.0050
+Epoch [107/500] | Iter [ 48/ 94] | Train Loss 0.0050
+Epoch [107/500] | Iter [ 66/ 94] | Train Loss 0.0050
+Epoch [107/500] | Iter [ 84/ 94] | Train Loss 0.0050
+Epoch [107/500] | Iter [ 94/ 94] | Train Loss 0.0050
+Epoch [108/500] | Iter [  8/ 94] | Train Loss 0.0050
+Epoch [108/500] | Iter [ 25/ 94] | Train Loss 0.0050
+Epoch [108/500] | Iter [ 43/ 94] | Train Loss 0.0050
+Epoch [108/500] | Iter [ 61/ 94] | Train Loss 0.0050
+Epoch [108/500] | Iter [ 78/ 94] | Train Loss 0.0049
+Epoch [108/500] | Iter [ 94/ 94] | Train Loss 0.0049
+Epoch [109/500] | Iter [  2/ 94] | Train Loss 0.0049
+Epoch [109/500] | Iter [ 19/ 94] | Train Loss 0.0049
+Epoch [109/500] | Iter [ 37/ 94] | Train Loss 0.0049
+Epoch [109/500] | Iter [ 55/ 94] | Train Loss 0.0049
+Epoch [109/500] | Iter [ 72/ 94] | Train Loss 0.0049
+Epoch [109/500] | Iter [ 90/ 94] | Train Loss 0.0049
+Epoch [109/500] | Iter [ 94/ 94] | Train Loss 0.0049
+Epoch [110/500] | Iter [ 14/ 94] | Train Loss 0.0048
+Epoch [110/500] | Iter [ 32/ 94] | Train Loss 0.0049
+Epoch [110/500] | Iter [ 50/ 94] | Train Loss 0.0049
+Epoch [110/500] | Iter [ 67/ 94] | Train Loss 0.0049
+Epoch [110/500] | Iter [ 85/ 94] | Train Loss 0.0049
+Epoch [110/500] | Iter [ 94/ 94] | Train Loss 0.0049
+Epoch [111/500] | Iter [  7/ 94] | Train Loss 0.0049
+Epoch [111/500] | Iter [ 25/ 94] | Train Loss 0.0049
+Epoch [111/500] | Iter [ 42/ 94] | Train Loss 0.0049
+Epoch [111/500] | Iter [ 60/ 94] | Train Loss 0.0049
+Epoch [111/500] | Iter [ 78/ 94] | Train Loss 0.0049
+Epoch [111/500] | Iter [ 94/ 94] | Train Loss 0.0049
+Epoch [112/500] | Iter [  1/ 94] | Train Loss 0.0049
+Epoch [112/500] | Iter [ 18/ 94] | Train Loss 0.0048
+Epoch [112/500] | Iter [ 36/ 94] | Train Loss 0.0048
+Epoch [112/500] | Iter [ 54/ 94] | Train Loss 0.0048
+Epoch [112/500] | Iter [ 71/ 94] | Train Loss 0.0048
+Epoch [112/500] | Iter [ 89/ 94] | Train Loss 0.0048
+Epoch [112/500] | Iter [ 94/ 94] | Train Loss 0.0048
+Epoch [113/500] | Iter [ 13/ 94] | Train Loss 0.0049
+Epoch [113/500] | Iter [ 30/ 94] | Train Loss 0.0048
+Epoch [113/500] | Iter [ 48/ 94] | Train Loss 0.0048
+Epoch [113/500] | Iter [ 65/ 94] | Train Loss 0.0048
+Epoch [113/500] | Iter [ 83/ 94] | Train Loss 0.0048
+Epoch [113/500] | Iter [ 94/ 94] | Train Loss 0.0048
+Epoch [114/500] | Iter [  8/ 94] | Train Loss 0.0048
+Epoch [114/500] | Iter [ 26/ 94] | Train Loss 0.0048
+Epoch [114/500] | Iter [ 43/ 94] | Train Loss 0.0048
+Epoch [114/500] | Iter [ 61/ 94] | Train Loss 0.0048
+Epoch [114/500] | Iter [ 79/ 94] | Train Loss 0.0048
+Epoch [114/500] | Iter [ 94/ 94] | Train Loss 0.0048
+Epoch [115/500] | Iter [  3/ 94] | Train Loss 0.0049
+Epoch [115/500] | Iter [ 20/ 94] | Train Loss 0.0048
+Epoch [115/500] | Iter [ 38/ 94] | Train Loss 0.0048
+Epoch [115/500] | Iter [ 55/ 94] | Train Loss 0.0047
+Epoch [115/500] | Iter [ 73/ 94] | Train Loss 0.0047
+Epoch [115/500] | Iter [ 91/ 94] | Train Loss 0.0047
+Epoch [115/500] | Iter [ 94/ 94] | Train Loss 0.0047
+Epoch [116/500] | Iter [ 14/ 94] | Train Loss 0.0047
+Epoch [116/500] | Iter [ 31/ 94] | Train Loss 0.0047
+Epoch [116/500] | Iter [ 49/ 94] | Train Loss 0.0047
+Epoch [116/500] | Iter [ 67/ 94] | Train Loss 0.0047
+Epoch [116/500] | Iter [ 84/ 94] | Train Loss 0.0047
+Epoch [116/500] | Iter [ 94/ 94] | Train Loss 0.0047
+Epoch [117/500] | Iter [  7/ 94] | Train Loss 0.0046
+Epoch [117/500] | Iter [ 25/ 94] | Train Loss 0.0047
+Epoch [117/500] | Iter [ 42/ 94] | Train Loss 0.0047
+Epoch [117/500] | Iter [ 60/ 94] | Train Loss 0.0047
+Epoch [117/500] | Iter [ 77/ 94] | Train Loss 0.0047
+Epoch [117/500] | Iter [ 94/ 94] | Train Loss 0.0047
+Epoch [118/500] | Iter [  2/ 94] | Train Loss 0.0045
+Epoch [118/500] | Iter [ 19/ 94] | Train Loss 0.0046
+Epoch [118/500] | Iter [ 37/ 94] | Train Loss 0.0046
+Epoch [118/500] | Iter [ 55/ 94] | Train Loss 0.0046
+Epoch [118/500] | Iter [ 72/ 94] | Train Loss 0.0046
+Epoch [118/500] | Iter [ 90/ 94] | Train Loss 0.0046
+Epoch [118/500] | Iter [ 94/ 94] | Train Loss 0.0046
+Epoch [119/500] | Iter [ 13/ 94] | Train Loss 0.0045
+Epoch [119/500] | Iter [ 31/ 94] | Train Loss 0.0045
+Epoch [119/500] | Iter [ 48/ 94] | Train Loss 0.0046
+Epoch [119/500] | Iter [ 66/ 94] | Train Loss 0.0046
+Epoch [119/500] | Iter [ 83/ 94] | Train Loss 0.0046
+Epoch [119/500] | Iter [ 94/ 94] | Train Loss 0.0046
+Epoch [120/500] | Iter [  7/ 94] | Train Loss 0.0047
+Epoch [120/500] | Iter [ 24/ 94] | Train Loss 0.0046
+Epoch [120/500] | Iter [ 42/ 94] | Train Loss 0.0046
+Epoch [120/500] | Iter [ 60/ 94] | Train Loss 0.0046
+Epoch [120/500] | Iter [ 77/ 94] | Train Loss 0.0046
+Epoch [120/500] | Iter [ 94/ 94] | Train Loss 0.0046
+Epoch [120/500] | Iter [ 94/ 94] | Train Loss 0.0046
+Epoch [121/500] | Iter [ 18/ 94] | Train Loss 0.0045
+Epoch [121/500] | Iter [ 35/ 94] | Train Loss 0.0045
+Epoch [121/500] | Iter [ 53/ 94] | Train Loss 0.0045
+Epoch [121/500] | Iter [ 71/ 94] | Train Loss 0.0045
+Epoch [121/500] | Iter [ 88/ 94] | Train Loss 0.0045
+Epoch [121/500] | Iter [ 94/ 94] | Train Loss 0.0045
+Epoch [122/500] | Iter [ 11/ 94] | Train Loss 0.0044
+Epoch [122/500] | Iter [ 29/ 94] | Train Loss 0.0045
+Epoch [122/500] | Iter [ 47/ 94] | Train Loss 0.0045
+Epoch [122/500] | Iter [ 64/ 94] | Train Loss 0.0045
+Epoch [122/500] | Iter [ 82/ 94] | Train Loss 0.0045
+Epoch [122/500] | Iter [ 94/ 94] | Train Loss 0.0045
+Epoch [123/500] | Iter [  5/ 94] | Train Loss 0.0043
+Epoch [123/500] | Iter [ 22/ 94] | Train Loss 0.0044
+Epoch [123/500] | Iter [ 40/ 94] | Train Loss 0.0045
+Epoch [123/500] | Iter [ 58/ 94] | Train Loss 0.0044
+Epoch [123/500] | Iter [ 75/ 94] | Train Loss 0.0044
+Epoch [123/500] | Iter [ 93/ 94] | Train Loss 0.0045
+Epoch [123/500] | Iter [ 94/ 94] | Train Loss 0.0045
+Epoch [124/500] | Iter [ 15/ 94] | Train Loss 0.0044
+Epoch [124/500] | Iter [ 33/ 94] | Train Loss 0.0045
+Epoch [124/500] | Iter [ 50/ 94] | Train Loss 0.0045
+Epoch [124/500] | Iter [ 68/ 94] | Train Loss 0.0044
+Epoch [124/500] | Iter [ 86/ 94] | Train Loss 0.0044
+Epoch [124/500] | Iter [ 94/ 94] | Train Loss 0.0044
+Epoch [125/500] | Iter [  5/ 94] | Train Loss 0.0045
+Epoch [125/500] | Iter [ 22/ 94] | Train Loss 0.0044
+Epoch [125/500] | Iter [ 40/ 94] | Train Loss 0.0044
+Epoch [125/500] | Iter [ 58/ 94] | Train Loss 0.0044
+Epoch [125/500] | Iter [ 75/ 94] | Train Loss 0.0044
+Epoch [125/500] | Iter [ 93/ 94] | Train Loss 0.0044
+Epoch [125/500] | Iter [ 94/ 94] | Train Loss 0.0044
+Epoch [126/500] | Iter [ 17/ 94] | Train Loss 0.0044
+Epoch [126/500] | Iter [ 35/ 94] | Train Loss 0.0044
+Epoch [126/500] | Iter [ 52/ 94] | Train Loss 0.0044
+Epoch [126/500] | Iter [ 70/ 94] | Train Loss 0.0044
+Epoch [126/500] | Iter [ 88/ 94] | Train Loss 0.0044
+Epoch [126/500] | Iter [ 94/ 94] | Train Loss 0.0044
+Epoch [127/500] | Iter [ 11/ 94] | Train Loss 0.0043
+Epoch [127/500] | Iter [ 28/ 94] | Train Loss 0.0043
+Epoch [127/500] | Iter [ 46/ 94] | Train Loss 0.0043
+Epoch [127/500] | Iter [ 64/ 94] | Train Loss 0.0043
+Epoch [127/500] | Iter [ 81/ 94] | Train Loss 0.0043
+Epoch [127/500] | Iter [ 94/ 94] | Train Loss 0.0043
+Epoch [128/500] | Iter [  5/ 94] | Train Loss 0.0043
+Epoch [128/500] | Iter [ 22/ 94] | Train Loss 0.0043
+Epoch [128/500] | Iter [ 40/ 94] | Train Loss 0.0043
+Epoch [128/500] | Iter [ 58/ 94] | Train Loss 0.0043
+Epoch [128/500] | Iter [ 75/ 94] | Train Loss 0.0043
+Epoch [128/500] | Iter [ 93/ 94] | Train Loss 0.0043
+Epoch [128/500] | Iter [ 94/ 94] | Train Loss 0.0043
+Epoch [129/500] | Iter [ 17/ 94] | Train Loss 0.0042
+Epoch [129/500] | Iter [ 35/ 94] | Train Loss 0.0042
+Epoch [129/500] | Iter [ 52/ 94] | Train Loss 0.0042
+Epoch [129/500] | Iter [ 70/ 94] | Train Loss 0.0043
+Epoch [129/500] | Iter [ 88/ 94] | Train Loss 0.0043
+Epoch [129/500] | Iter [ 94/ 94] | Train Loss 0.0043
+Epoch [130/500] | Iter [ 11/ 94] | Train Loss 0.0042
+Epoch [130/500] | Iter [ 28/ 94] | Train Loss 0.0042
+Epoch [130/500] | Iter [ 46/ 94] | Train Loss 0.0042
+Epoch [130/500] | Iter [ 64/ 94] | Train Loss 0.0042
+Epoch [130/500] | Iter [ 81/ 94] | Train Loss 0.0042
+Epoch [130/500] | Iter [ 94/ 94] | Train Loss 0.0042
+Epoch [131/500] | Iter [  6/ 94] | Train Loss 0.0041
+Epoch [131/500] | Iter [ 23/ 94] | Train Loss 0.0042
+Epoch [131/500] | Iter [ 41/ 94] | Train Loss 0.0042
+Epoch [131/500] | Iter [ 58/ 94] | Train Loss 0.0042
+Epoch [131/500] | Iter [ 76/ 94] | Train Loss 0.0042
+Epoch [131/500] | Iter [ 94/ 94] | Train Loss 0.0042
+Epoch [131/500] | Iter [ 94/ 94] | Train Loss 0.0042
+Epoch [132/500] | Iter [ 17/ 94] | Train Loss 0.0042
+Epoch [132/500] | Iter [ 35/ 94] | Train Loss 0.0042
+Epoch [132/500] | Iter [ 52/ 94] | Train Loss 0.0042
+Epoch [132/500] | Iter [ 70/ 94] | Train Loss 0.0042
+Epoch [132/500] | Iter [ 87/ 94] | Train Loss 0.0042
+Epoch [132/500] | Iter [ 94/ 94] | Train Loss 0.0042
+Epoch [133/500] | Iter [ 10/ 94] | Train Loss 0.0041
+Epoch [133/500] | Iter [ 28/ 94] | Train Loss 0.0041
+Epoch [133/500] | Iter [ 46/ 94] | Train Loss 0.0041
+Epoch [133/500] | Iter [ 63/ 94] | Train Loss 0.0041
+Epoch [133/500] | Iter [ 81/ 94] | Train Loss 0.0041
+Epoch [133/500] | Iter [ 94/ 94] | Train Loss 0.0041
+Epoch [134/500] | Iter [  5/ 94] | Train Loss 0.0040
+Epoch [134/500] | Iter [ 23/ 94] | Train Loss 0.0041
+Epoch [134/500] | Iter [ 40/ 94] | Train Loss 0.0041
+Epoch [134/500] | Iter [ 58/ 94] | Train Loss 0.0041
+Epoch [134/500] | Iter [ 75/ 94] | Train Loss 0.0041
+Epoch [134/500] | Iter [ 93/ 94] | Train Loss 0.0041
+Epoch [134/500] | Iter [ 94/ 94] | Train Loss 0.0041
+Epoch [135/500] | Iter [ 16/ 94] | Train Loss 0.0041
+Epoch [135/500] | Iter [ 34/ 94] | Train Loss 0.0041
+Epoch [135/500] | Iter [ 52/ 94] | Train Loss 0.0041
+Epoch [135/500] | Iter [ 69/ 94] | Train Loss 0.0041
+Epoch [135/500] | Iter [ 87/ 94] | Train Loss 0.0041
+Epoch [135/500] | Iter [ 94/ 94] | Train Loss 0.0041
+Epoch [136/500] | Iter [  8/ 94] | Train Loss 0.0042
+Epoch [136/500] | Iter [ 26/ 94] | Train Loss 0.0041
+Epoch [136/500] | Iter [ 43/ 94] | Train Loss 0.0041
+Epoch [136/500] | Iter [ 61/ 94] | Train Loss 0.0041
+Epoch [136/500] | Iter [ 79/ 94] | Train Loss 0.0040
+Epoch [136/500] | Iter [ 94/ 94] | Train Loss 0.0040
+Epoch [137/500] | Iter [  2/ 94] | Train Loss 0.0039
+Epoch [137/500] | Iter [ 20/ 94] | Train Loss 0.0040
+Epoch [137/500] | Iter [ 37/ 94] | Train Loss 0.0040
+Epoch [137/500] | Iter [ 55/ 94] | Train Loss 0.0040
+Epoch [137/500] | Iter [ 73/ 94] | Train Loss 0.0040
+Epoch [137/500] | Iter [ 90/ 94] | Train Loss 0.0040
+Epoch [137/500] | Iter [ 94/ 94] | Train Loss 0.0040
+Epoch [138/500] | Iter [ 14/ 94] | Train Loss 0.0040
+Epoch [138/500] | Iter [ 31/ 94] | Train Loss 0.0040
+Epoch [138/500] | Iter [ 49/ 94] | Train Loss 0.0040
+Epoch [138/500] | Iter [ 66/ 94] | Train Loss 0.0040
+Epoch [138/500] | Iter [ 84/ 94] | Train Loss 0.0040
+Epoch [138/500] | Iter [ 94/ 94] | Train Loss 0.0040
+Epoch [139/500] | Iter [  6/ 94] | Train Loss 0.0038
+Epoch [139/500] | Iter [ 24/ 94] | Train Loss 0.0039
+Epoch [139/500] | Iter [ 41/ 94] | Train Loss 0.0039
+Epoch [139/500] | Iter [ 59/ 94] | Train Loss 0.0039
+Epoch [139/500] | Iter [ 77/ 94] | Train Loss 0.0039
+Epoch [139/500] | Iter [ 94/ 94] | Train Loss 0.0039
+Epoch [139/500] | Iter [ 94/ 94] | Train Loss 0.0039
+Epoch [140/500] | Iter [ 13/ 94] | Train Loss 0.0039
+Epoch [140/500] | Iter [ 30/ 94] | Train Loss 0.0039
+Epoch [140/500] | Iter [ 48/ 94] | Train Loss 0.0039
+Epoch [140/500] | Iter [ 65/ 94] | Train Loss 0.0039
+Epoch [140/500] | Iter [ 83/ 94] | Train Loss 0.0039
+Epoch [140/500] | Iter [ 94/ 94] | Train Loss 0.0039
+Epoch [141/500] | Iter [  6/ 94] | Train Loss 0.0039
+Epoch [141/500] | Iter [ 23/ 94] | Train Loss 0.0039
+Epoch [141/500] | Iter [ 41/ 94] | Train Loss 0.0039
+Epoch [141/500] | Iter [ 59/ 94] | Train Loss 0.0039
+Epoch [141/500] | Iter [ 76/ 94] | Train Loss 0.0039
+Epoch [141/500] | Iter [ 94/ 94] | Train Loss 0.0039
+Epoch [141/500] | Iter [ 94/ 94] | Train Loss 0.0039
+Epoch [142/500] | Iter [ 17/ 94] | Train Loss 0.0039
+Epoch [142/500] | Iter [ 35/ 94] | Train Loss 0.0039
+Epoch [142/500] | Iter [ 53/ 94] | Train Loss 0.0039
+Epoch [142/500] | Iter [ 70/ 94] | Train Loss 0.0039
+Epoch [142/500] | Iter [ 88/ 94] | Train Loss 0.0039
+Epoch [142/500] | Iter [ 94/ 94] | Train Loss 0.0039
+Epoch [143/500] | Iter [ 10/ 94] | Train Loss 0.0037
+Epoch [143/500] | Iter [ 28/ 94] | Train Loss 0.0038
+Epoch [143/500] | Iter [ 45/ 94] | Train Loss 0.0038
+Epoch [143/500] | Iter [ 63/ 94] | Train Loss 0.0038
+Epoch [143/500] | Iter [ 80/ 94] | Train Loss 0.0038
+Epoch [143/500] | Iter [ 94/ 94] | Train Loss 0.0038
+Epoch [144/500] | Iter [  3/ 94] | Train Loss 0.0039
+Epoch [144/500] | Iter [ 21/ 94] | Train Loss 0.0038
+Epoch [144/500] | Iter [ 38/ 94] | Train Loss 0.0038
+Epoch [144/500] | Iter [ 56/ 94] | Train Loss 0.0038
+Epoch [144/500] | Iter [ 74/ 94] | Train Loss 0.0038
+Epoch [144/500] | Iter [ 91/ 94] | Train Loss 0.0038
+Epoch [144/500] | Iter [ 94/ 94] | Train Loss 0.0038
+Epoch [145/500] | Iter [ 14/ 94] | Train Loss 0.0037
+Epoch [145/500] | Iter [ 32/ 94] | Train Loss 0.0037
+Epoch [145/500] | Iter [ 50/ 94] | Train Loss 0.0037
+Epoch [145/500] | Iter [ 67/ 94] | Train Loss 0.0037
+Epoch [145/500] | Iter [ 85/ 94] | Train Loss 0.0038
+Epoch [145/500] | Iter [ 94/ 94] | Train Loss 0.0038
+Epoch [146/500] | Iter [  8/ 94] | Train Loss 0.0037
+Epoch [146/500] | Iter [ 26/ 94] | Train Loss 0.0037
+Epoch [146/500] | Iter [ 43/ 94] | Train Loss 0.0037
+Epoch [146/500] | Iter [ 61/ 94] | Train Loss 0.0037
+Epoch [146/500] | Iter [ 79/ 94] | Train Loss 0.0037
+Epoch [146/500] | Iter [ 94/ 94] | Train Loss 0.0037
+Epoch [147/500] | Iter [  1/ 94] | Train Loss 0.0037
+Epoch [147/500] | Iter [ 19/ 94] | Train Loss 0.0037
+Epoch [147/500] | Iter [ 36/ 94] | Train Loss 0.0037
+Epoch [147/500] | Iter [ 54/ 94] | Train Loss 0.0037
+Epoch [147/500] | Iter [ 72/ 94] | Train Loss 0.0037
+Epoch [147/500] | Iter [ 89/ 94] | Train Loss 0.0037
+Epoch [147/500] | Iter [ 94/ 94] | Train Loss 0.0037
+Epoch [148/500] | Iter [ 11/ 94] | Train Loss 0.0036
+Epoch [148/500] | Iter [ 29/ 94] | Train Loss 0.0036
+Epoch [148/500] | Iter [ 46/ 94] | Train Loss 0.0037
+Epoch [148/500] | Iter [ 64/ 94] | Train Loss 0.0037
+Epoch [148/500] | Iter [ 81/ 94] | Train Loss 0.0037
+Epoch [148/500] | Iter [ 94/ 94] | Train Loss 0.0037
+Epoch [149/500] | Iter [  5/ 94] | Train Loss 0.0036
+Epoch [149/500] | Iter [ 23/ 94] | Train Loss 0.0037
+Epoch [149/500] | Iter [ 40/ 94] | Train Loss 0.0037
+Epoch [149/500] | Iter [ 58/ 94] | Train Loss 0.0036
+Epoch [149/500] | Iter [ 76/ 94] | Train Loss 0.0036
+Epoch [149/500] | Iter [ 93/ 94] | Train Loss 0.0036
+Epoch [149/500] | Iter [ 94/ 94] | Train Loss 0.0036
+Epoch [150/500] | Iter [ 17/ 94] | Train Loss 0.0037
+Epoch [150/500] | Iter [ 34/ 94] | Train Loss 0.0036
+Epoch [150/500] | Iter [ 52/ 94] | Train Loss 0.0036
+Epoch [150/500] | Iter [ 70/ 94] | Train Loss 0.0036
+Epoch [150/500] | Iter [ 87/ 94] | Train Loss 0.0036
+Epoch [150/500] | Iter [ 94/ 94] | Train Loss 0.0036
+Epoch [151/500] | Iter [ 10/ 94] | Train Loss 0.0036
+Epoch [151/500] | Iter [ 28/ 94] | Train Loss 0.0036
+Epoch [151/500] | Iter [ 45/ 94] | Train Loss 0.0036
+Epoch [151/500] | Iter [ 63/ 94] | Train Loss 0.0036
+Epoch [151/500] | Iter [ 80/ 94] | Train Loss 0.0036
+Epoch [151/500] | Iter [ 94/ 94] | Train Loss 0.0036
+Epoch [152/500] | Iter [  5/ 94] | Train Loss 0.0036
+Epoch [152/500] | Iter [ 22/ 94] | Train Loss 0.0035
+Epoch [152/500] | Iter [ 40/ 94] | Train Loss 0.0035
+Epoch [152/500] | Iter [ 57/ 94] | Train Loss 0.0035
+Epoch [152/500] | Iter [ 75/ 94] | Train Loss 0.0035
+Epoch [152/500] | Iter [ 93/ 94] | Train Loss 0.0035
+Epoch [152/500] | Iter [ 94/ 94] | Train Loss 0.0035
+Epoch [153/500] | Iter [ 17/ 94] | Train Loss 0.0035
+Epoch [153/500] | Iter [ 35/ 94] | Train Loss 0.0035
+Epoch [153/500] | Iter [ 52/ 94] | Train Loss 0.0035
+Epoch [153/500] | Iter [ 70/ 94] | Train Loss 0.0035
+Epoch [153/500] | Iter [ 87/ 94] | Train Loss 0.0035
+Epoch [153/500] | Iter [ 94/ 94] | Train Loss 0.0035
+Epoch [154/500] | Iter [ 10/ 94] | Train Loss 0.0035
+Epoch [154/500] | Iter [ 28/ 94] | Train Loss 0.0034
+Epoch [154/500] | Iter [ 46/ 94] | Train Loss 0.0035
+Epoch [154/500] | Iter [ 63/ 94] | Train Loss 0.0035
+Epoch [154/500] | Iter [ 81/ 94] | Train Loss 0.0035
+Epoch [154/500] | Iter [ 94/ 94] | Train Loss 0.0035
+Epoch [155/500] | Iter [  5/ 94] | Train Loss 0.0035
+Epoch [155/500] | Iter [ 23/ 94] | Train Loss 0.0035
+Epoch [155/500] | Iter [ 41/ 94] | Train Loss 0.0035
+Epoch [155/500] | Iter [ 58/ 94] | Train Loss 0.0035
+Epoch [155/500] | Iter [ 76/ 94] | Train Loss 0.0035
+Epoch [155/500] | Iter [ 93/ 94] | Train Loss 0.0035
+Epoch [155/500] | Iter [ 94/ 94] | Train Loss 0.0035
+Epoch [156/500] | Iter [ 17/ 94] | Train Loss 0.0034
+Epoch [156/500] | Iter [ 34/ 94] | Train Loss 0.0034
+Epoch [156/500] | Iter [ 52/ 94] | Train Loss 0.0034
+Epoch [156/500] | Iter [ 69/ 94] | Train Loss 0.0034
+Epoch [156/500] | Iter [ 87/ 94] | Train Loss 0.0034
+Epoch [156/500] | Iter [ 94/ 94] | Train Loss 0.0034
+Epoch [157/500] | Iter [ 11/ 94] | Train Loss 0.0034
+Epoch [157/500] | Iter [ 28/ 94] | Train Loss 0.0034
+Epoch [157/500] | Iter [ 46/ 94] | Train Loss 0.0034
+Epoch [157/500] | Iter [ 64/ 94] | Train Loss 0.0034
+Epoch [157/500] | Iter [ 81/ 94] | Train Loss 0.0034
+Epoch [157/500] | Iter [ 94/ 94] | Train Loss 0.0034
+Epoch [158/500] | Iter [  5/ 94] | Train Loss 0.0035
+Epoch [158/500] | Iter [ 23/ 94] | Train Loss 0.0034
+Epoch [158/500] | Iter [ 40/ 94] | Train Loss 0.0034
+Epoch [158/500] | Iter [ 58/ 94] | Train Loss 0.0034
+Epoch [158/500] | Iter [ 75/ 94] | Train Loss 0.0034
+Epoch [158/500] | Iter [ 93/ 94] | Train Loss 0.0034
+Epoch [158/500] | Iter [ 94/ 94] | Train Loss 0.0034
+Epoch [159/500] | Iter [ 16/ 94] | Train Loss 0.0033
+Epoch [159/500] | Iter [ 34/ 94] | Train Loss 0.0033
+Epoch [159/500] | Iter [ 51/ 94] | Train Loss 0.0033
+Epoch [159/500] | Iter [ 69/ 94] | Train Loss 0.0033
+Epoch [159/500] | Iter [ 87/ 94] | Train Loss 0.0033
+Epoch [159/500] | Iter [ 94/ 94] | Train Loss 0.0033
+Epoch [160/500] | Iter [  9/ 94] | Train Loss 0.0032
+Epoch [160/500] | Iter [ 27/ 94] | Train Loss 0.0032
+Epoch [160/500] | Iter [ 44/ 94] | Train Loss 0.0033
+Epoch [160/500] | Iter [ 62/ 94] | Train Loss 0.0033
+Epoch [160/500] | Iter [ 80/ 94] | Train Loss 0.0033
+Epoch [160/500] | Iter [ 94/ 94] | Train Loss 0.0033
+Epoch [161/500] | Iter [  4/ 94] | Train Loss 0.0033
+Epoch [161/500] | Iter [ 21/ 94] | Train Loss 0.0033
+Epoch [161/500] | Iter [ 39/ 94] | Train Loss 0.0033
+Epoch [161/500] | Iter [ 56/ 94] | Train Loss 0.0033
+Epoch [161/500] | Iter [ 74/ 94] | Train Loss 0.0033
+Epoch [161/500] | Iter [ 92/ 94] | Train Loss 0.0033
+Epoch [161/500] | Iter [ 94/ 94] | Train Loss 0.0033
+Epoch [162/500] | Iter [ 15/ 94] | Train Loss 0.0032
+Epoch [162/500] | Iter [ 32/ 94] | Train Loss 0.0032
+Epoch [162/500] | Iter [ 50/ 94] | Train Loss 0.0032
+Epoch [162/500] | Iter [ 67/ 94] | Train Loss 0.0033
+Epoch [162/500] | Iter [ 85/ 94] | Train Loss 0.0033
+Epoch [162/500] | Iter [ 94/ 94] | Train Loss 0.0033
+Epoch [163/500] | Iter [  5/ 94] | Train Loss 0.0033
+Epoch [163/500] | Iter [ 23/ 94] | Train Loss 0.0033
+Epoch [163/500] | Iter [ 40/ 94] | Train Loss 0.0033
+Epoch [163/500] | Iter [ 58/ 94] | Train Loss 0.0033
+Epoch [163/500] | Iter [ 76/ 94] | Train Loss 0.0033
+Epoch [163/500] | Iter [ 93/ 94] | Train Loss 0.0033
+Epoch [163/500] | Iter [ 94/ 94] | Train Loss 0.0033
+Epoch [164/500] | Iter [ 17/ 94] | Train Loss 0.0031
+Epoch [164/500] | Iter [ 34/ 94] | Train Loss 0.0032
+Epoch [164/500] | Iter [ 52/ 94] | Train Loss 0.0032
+Epoch [164/500] | Iter [ 70/ 94] | Train Loss 0.0032
+Epoch [164/500] | Iter [ 87/ 94] | Train Loss 0.0032
+Epoch [164/500] | Iter [ 94/ 94] | Train Loss 0.0032
+Epoch [165/500] | Iter [ 10/ 94] | Train Loss 0.0032
+Epoch [165/500] | Iter [ 28/ 94] | Train Loss 0.0032
+Epoch [165/500] | Iter [ 46/ 94] | Train Loss 0.0032
+Epoch [165/500] | Iter [ 63/ 94] | Train Loss 0.0032
+Epoch [165/500] | Iter [ 81/ 94] | Train Loss 0.0032
+Epoch [165/500] | Iter [ 94/ 94] | Train Loss 0.0032
+Epoch [166/500] | Iter [  5/ 94] | Train Loss 0.0031
+Epoch [166/500] | Iter [ 23/ 94] | Train Loss 0.0031
+Epoch [166/500] | Iter [ 41/ 94] | Train Loss 0.0031
+Epoch [166/500] | Iter [ 58/ 94] | Train Loss 0.0032
+Epoch [166/500] | Iter [ 76/ 94] | Train Loss 0.0032
+Epoch [166/500] | Iter [ 94/ 94] | Train Loss 0.0032
+Epoch [166/500] | Iter [ 94/ 94] | Train Loss 0.0032
+Epoch [167/500] | Iter [ 17/ 94] | Train Loss 0.0031
+Epoch [167/500] | Iter [ 35/ 94] | Train Loss 0.0031
+Epoch [167/500] | Iter [ 52/ 94] | Train Loss 0.0031
+Epoch [167/500] | Iter [ 70/ 94] | Train Loss 0.0031
+Epoch [167/500] | Iter [ 88/ 94] | Train Loss 0.0031
+Epoch [167/500] | Iter [ 94/ 94] | Train Loss 0.0031
+Epoch [168/500] | Iter [ 11/ 94] | Train Loss 0.0031
+Epoch [168/500] | Iter [ 29/ 94] | Train Loss 0.0031
+Epoch [168/500] | Iter [ 47/ 94] | Train Loss 0.0031
+Epoch [168/500] | Iter [ 64/ 94] | Train Loss 0.0031
+Epoch [168/500] | Iter [ 82/ 94] | Train Loss 0.0031
+Epoch [168/500] | Iter [ 94/ 94] | Train Loss 0.0031
+Epoch [169/500] | Iter [  6/ 94] | Train Loss 0.0031
+Epoch [169/500] | Iter [ 24/ 94] | Train Loss 0.0031
+Epoch [169/500] | Iter [ 42/ 94] | Train Loss 0.0031
+Epoch [169/500] | Iter [ 59/ 94] | Train Loss 0.0031
+Epoch [169/500] | Iter [ 77/ 94] | Train Loss 0.0031
+Epoch [169/500] | Iter [ 94/ 94] | Train Loss 0.0031
+Epoch [169/500] | Iter [ 94/ 94] | Train Loss 0.0031
+Epoch [170/500] | Iter [ 18/ 94] | Train Loss 0.0030
+Epoch [170/500] | Iter [ 36/ 94] | Train Loss 0.0030
+Epoch [170/500] | Iter [ 53/ 94] | Train Loss 0.0030
+Epoch [170/500] | Iter [ 71/ 94] | Train Loss 0.0030
+Epoch [170/500] | Iter [ 89/ 94] | Train Loss 0.0030
+Epoch [170/500] | Iter [ 94/ 94] | Train Loss 0.0031
+Epoch [171/500] | Iter [ 13/ 94] | Train Loss 0.0030
+Epoch [171/500] | Iter [ 30/ 94] | Train Loss 0.0030
+Epoch [171/500] | Iter [ 48/ 94] | Train Loss 0.0030
+Epoch [171/500] | Iter [ 65/ 94] | Train Loss 0.0030
+Epoch [171/500] | Iter [ 83/ 94] | Train Loss 0.0030
+Epoch [171/500] | Iter [ 94/ 94] | Train Loss 0.0030
+Epoch [172/500] | Iter [  6/ 94] | Train Loss 0.0030
+Epoch [172/500] | Iter [ 24/ 94] | Train Loss 0.0031
+Epoch [172/500] | Iter [ 41/ 94] | Train Loss 0.0031
+Epoch [172/500] | Iter [ 59/ 94] | Train Loss 0.0030
+Epoch [172/500] | Iter [ 76/ 94] | Train Loss 0.0030
+Epoch [172/500] | Iter [ 94/ 94] | Train Loss 0.0030
+Epoch [172/500] | Iter [ 94/ 94] | Train Loss 0.0030
+Epoch [173/500] | Iter [ 14/ 94] | Train Loss 0.0030
+Epoch [173/500] | Iter [ 31/ 94] | Train Loss 0.0029
+Epoch [173/500] | Iter [ 49/ 94] | Train Loss 0.0030
+Epoch [173/500] | Iter [ 67/ 94] | Train Loss 0.0030
+Epoch [173/500] | Iter [ 84/ 94] | Train Loss 0.0030
+Epoch [173/500] | Iter [ 94/ 94] | Train Loss 0.0030
+Epoch [174/500] | Iter [  8/ 94] | Train Loss 0.0029
+Epoch [174/500] | Iter [ 26/ 94] | Train Loss 0.0030
+Epoch [174/500] | Iter [ 43/ 94] | Train Loss 0.0030
+Epoch [174/500] | Iter [ 61/ 94] | Train Loss 0.0030
+Epoch [174/500] | Iter [ 79/ 94] | Train Loss 0.0030
+Epoch [174/500] | Iter [ 94/ 94] | Train Loss 0.0030
+Epoch [175/500] | Iter [  4/ 94] | Train Loss 0.0029
+Epoch [175/500] | Iter [ 21/ 94] | Train Loss 0.0030
+Epoch [175/500] | Iter [ 39/ 94] | Train Loss 0.0030
+Epoch [175/500] | Iter [ 56/ 94] | Train Loss 0.0030
+Epoch [175/500] | Iter [ 74/ 94] | Train Loss 0.0030
+Epoch [175/500] | Iter [ 92/ 94] | Train Loss 0.0030
+Epoch [175/500] | Iter [ 94/ 94] | Train Loss 0.0030
+Epoch [176/500] | Iter [ 15/ 94] | Train Loss 0.0029
+Epoch [176/500] | Iter [ 32/ 94] | Train Loss 0.0029
+Epoch [176/500] | Iter [ 50/ 94] | Train Loss 0.0029
+Epoch [176/500] | Iter [ 68/ 94] | Train Loss 0.0029
+Epoch [176/500] | Iter [ 85/ 94] | Train Loss 0.0029
+Epoch [176/500] | Iter [ 94/ 94] | Train Loss 0.0029
+Epoch [177/500] | Iter [  9/ 94] | Train Loss 0.0029
+Epoch [177/500] | Iter [ 27/ 94] | Train Loss 0.0029
+Epoch [177/500] | Iter [ 44/ 94] | Train Loss 0.0029
+Epoch [177/500] | Iter [ 62/ 94] | Train Loss 0.0029
+Epoch [177/500] | Iter [ 80/ 94] | Train Loss 0.0029
+Epoch [177/500] | Iter [ 94/ 94] | Train Loss 0.0029
+Epoch [178/500] | Iter [  4/ 94] | Train Loss 0.0028
+Epoch [178/500] | Iter [ 21/ 94] | Train Loss 0.0029
+Epoch [178/500] | Iter [ 39/ 94] | Train Loss 0.0029
+Epoch [178/500] | Iter [ 57/ 94] | Train Loss 0.0029
+Epoch [178/500] | Iter [ 74/ 94] | Train Loss 0.0029
+Epoch [178/500] | Iter [ 92/ 94] | Train Loss 0.0029
+Epoch [178/500] | Iter [ 94/ 94] | Train Loss 0.0029
+Epoch [179/500] | Iter [ 16/ 94] | Train Loss 0.0028
+Epoch [179/500] | Iter [ 33/ 94] | Train Loss 0.0029
+Epoch [179/500] | Iter [ 51/ 94] | Train Loss 0.0029
+Epoch [179/500] | Iter [ 69/ 94] | Train Loss 0.0029
+Epoch [179/500] | Iter [ 86/ 94] | Train Loss 0.0029
+Epoch [179/500] | Iter [ 94/ 94] | Train Loss 0.0029
+Epoch [180/500] | Iter [ 10/ 94] | Train Loss 0.0028
+Epoch [180/500] | Iter [ 28/ 94] | Train Loss 0.0028
+Epoch [180/500] | Iter [ 46/ 94] | Train Loss 0.0028
+Epoch [180/500] | Iter [ 63/ 94] | Train Loss 0.0028
+Epoch [180/500] | Iter [ 81/ 94] | Train Loss 0.0028
+Epoch [180/500] | Iter [ 94/ 94] | Train Loss 0.0028
+Epoch [181/500] | Iter [  5/ 94] | Train Loss 0.0028
+Epoch [181/500] | Iter [ 23/ 94] | Train Loss 0.0028
+Epoch [181/500] | Iter [ 41/ 94] | Train Loss 0.0028
+Epoch [181/500] | Iter [ 58/ 94] | Train Loss 0.0028
+Epoch [181/500] | Iter [ 76/ 94] | Train Loss 0.0028
+Epoch [181/500] | Iter [ 93/ 94] | Train Loss 0.0028
+Epoch [181/500] | Iter [ 94/ 94] | Train Loss 0.0028
+Epoch [182/500] | Iter [ 17/ 94] | Train Loss 0.0028
+Epoch [182/500] | Iter [ 35/ 94] | Train Loss 0.0028
+Epoch [182/500] | Iter [ 52/ 94] | Train Loss 0.0029
+Epoch [182/500] | Iter [ 70/ 94] | Train Loss 0.0029
+Epoch [182/500] | Iter [ 88/ 94] | Train Loss 0.0028
+Epoch [182/500] | Iter [ 94/ 94] | Train Loss 0.0028
+Epoch [183/500] | Iter [  8/ 94] | Train Loss 0.0028
+Epoch [183/500] | Iter [ 25/ 94] | Train Loss 0.0028
+Epoch [183/500] | Iter [ 43/ 94] | Train Loss 0.0028
+Epoch [183/500] | Iter [ 61/ 94] | Train Loss 0.0028
+Epoch [183/500] | Iter [ 78/ 94] | Train Loss 0.0028
+Epoch [183/500] | Iter [ 94/ 94] | Train Loss 0.0028
+Epoch [184/500] | Iter [  2/ 94] | Train Loss 0.0034
+Epoch [184/500] | Iter [ 19/ 94] | Train Loss 0.0028
+Epoch [184/500] | Iter [ 37/ 94] | Train Loss 0.0027
+Epoch [184/500] | Iter [ 55/ 94] | Train Loss 0.0028
+Epoch [184/500] | Iter [ 72/ 94] | Train Loss 0.0028
+Epoch [184/500] | Iter [ 90/ 94] | Train Loss 0.0028
+Epoch [184/500] | Iter [ 94/ 94] | Train Loss 0.0028
+Epoch [185/500] | Iter [ 13/ 94] | Train Loss 0.0027
+Epoch [185/500] | Iter [ 31/ 94] | Train Loss 0.0028
+Epoch [185/500] | Iter [ 49/ 94] | Train Loss 0.0028
+Epoch [185/500] | Iter [ 66/ 94] | Train Loss 0.0027
+Epoch [185/500] | Iter [ 84/ 94] | Train Loss 0.0027
+Epoch [185/500] | Iter [ 94/ 94] | Train Loss 0.0027
+Epoch [186/500] | Iter [  5/ 94] | Train Loss 0.0025
+Epoch [186/500] | Iter [ 23/ 94] | Train Loss 0.0026
+Epoch [186/500] | Iter [ 41/ 94] | Train Loss 0.0026
+Epoch [186/500] | Iter [ 58/ 94] | Train Loss 0.0027
+Epoch [186/500] | Iter [ 76/ 94] | Train Loss 0.0027
+Epoch [186/500] | Iter [ 94/ 94] | Train Loss 0.0027
+Epoch [186/500] | Iter [ 94/ 94] | Train Loss 0.0027
+Epoch [187/500] | Iter [ 17/ 94] | Train Loss 0.0027
+Epoch [187/500] | Iter [ 34/ 94] | Train Loss 0.0026
+Epoch [187/500] | Iter [ 52/ 94] | Train Loss 0.0026
+Epoch [187/500] | Iter [ 69/ 94] | Train Loss 0.0027
+Epoch [187/500] | Iter [ 87/ 94] | Train Loss 0.0027
+Epoch [187/500] | Iter [ 94/ 94] | Train Loss 0.0027
+Epoch [188/500] | Iter [  9/ 94] | Train Loss 0.0027
+Epoch [188/500] | Iter [ 27/ 94] | Train Loss 0.0027
+Epoch [188/500] | Iter [ 44/ 94] | Train Loss 0.0027
+Epoch [188/500] | Iter [ 62/ 94] | Train Loss 0.0027
+Epoch [188/500] | Iter [ 79/ 94] | Train Loss 0.0027
+Epoch [188/500] | Iter [ 94/ 94] | Train Loss 0.0027
+Epoch [189/500] | Iter [  3/ 94] | Train Loss 0.0025
+Epoch [189/500] | Iter [ 21/ 94] | Train Loss 0.0026
+Epoch [189/500] | Iter [ 38/ 94] | Train Loss 0.0027
+Epoch [189/500] | Iter [ 56/ 94] | Train Loss 0.0027
+Epoch [189/500] | Iter [ 74/ 94] | Train Loss 0.0027
+Epoch [189/500] | Iter [ 91/ 94] | Train Loss 0.0027
+Epoch [189/500] | Iter [ 94/ 94] | Train Loss 0.0027
+Epoch [190/500] | Iter [ 15/ 94] | Train Loss 0.0026
+Epoch [190/500] | Iter [ 33/ 94] | Train Loss 0.0026
+Epoch [190/500] | Iter [ 51/ 94] | Train Loss 0.0026
+Epoch [190/500] | Iter [ 68/ 94] | Train Loss 0.0026
+Epoch [190/500] | Iter [ 86/ 94] | Train Loss 0.0026
+Epoch [190/500] | Iter [ 94/ 94] | Train Loss 0.0026
+Epoch [191/500] | Iter [  8/ 94] | Train Loss 0.0026
+Epoch [191/500] | Iter [ 26/ 94] | Train Loss 0.0026
+Epoch [191/500] | Iter [ 43/ 94] | Train Loss 0.0026
+Epoch [191/500] | Iter [ 61/ 94] | Train Loss 0.0026
+Epoch [191/500] | Iter [ 78/ 94] | Train Loss 0.0026
+Epoch [191/500] | Iter [ 94/ 94] | Train Loss 0.0026
+Epoch [192/500] | Iter [  2/ 94] | Train Loss 0.0026
+Epoch [192/500] | Iter [ 19/ 94] | Train Loss 0.0025
+Epoch [192/500] | Iter [ 37/ 94] | Train Loss 0.0026
+Epoch [192/500] | Iter [ 55/ 94] | Train Loss 0.0026
+Epoch [192/500] | Iter [ 72/ 94] | Train Loss 0.0026
+Epoch [192/500] | Iter [ 90/ 94] | Train Loss 0.0026
+Epoch [192/500] | Iter [ 94/ 94] | Train Loss 0.0026
+Epoch [193/500] | Iter [ 13/ 94] | Train Loss 0.0026
+Epoch [193/500] | Iter [ 30/ 94] | Train Loss 0.0026
+Epoch [193/500] | Iter [ 48/ 94] | Train Loss 0.0026
+Epoch [193/500] | Iter [ 65/ 94] | Train Loss 0.0026
+Epoch [193/500] | Iter [ 83/ 94] | Train Loss 0.0026
+Epoch [193/500] | Iter [ 94/ 94] | Train Loss 0.0026
+Epoch [194/500] | Iter [  6/ 94] | Train Loss 0.0027
+Epoch [194/500] | Iter [ 24/ 94] | Train Loss 0.0026
+Epoch [194/500] | Iter [ 41/ 94] | Train Loss 0.0026
+Epoch [194/500] | Iter [ 59/ 94] | Train Loss 0.0026
+Epoch [194/500] | Iter [ 77/ 94] | Train Loss 0.0025
+Epoch [194/500] | Iter [ 94/ 94] | Train Loss 0.0026
+Epoch [195/500] | Iter [  1/ 94] | Train Loss 0.0027
+Epoch [195/500] | Iter [ 19/ 94] | Train Loss 0.0025
+Epoch [195/500] | Iter [ 36/ 94] | Train Loss 0.0026
+Epoch [195/500] | Iter [ 54/ 94] | Train Loss 0.0026
+Epoch [195/500] | Iter [ 72/ 94] | Train Loss 0.0026
+Epoch [195/500] | Iter [ 89/ 94] | Train Loss 0.0026
+Epoch [195/500] | Iter [ 94/ 94] | Train Loss 0.0026
+Epoch [196/500] | Iter [ 13/ 94] | Train Loss 0.0025
+Epoch [196/500] | Iter [ 31/ 94] | Train Loss 0.0026
+Epoch [196/500] | Iter [ 48/ 94] | Train Loss 0.0026
+Epoch [196/500] | Iter [ 66/ 94] | Train Loss 0.0026
+Epoch [196/500] | Iter [ 84/ 94] | Train Loss 0.0025
+Epoch [196/500] | Iter [ 94/ 94] | Train Loss 0.0025
+Epoch [197/500] | Iter [  4/ 94] | Train Loss 0.0027
+Epoch [197/500] | Iter [ 22/ 94] | Train Loss 0.0026
+Epoch [197/500] | Iter [ 39/ 94] | Train Loss 0.0026
+Epoch [197/500] | Iter [ 57/ 94] | Train Loss 0.0025
+Epoch [197/500] | Iter [ 74/ 94] | Train Loss 0.0025
+Epoch [197/500] | Iter [ 92/ 94] | Train Loss 0.0025
+Epoch [197/500] | Iter [ 94/ 94] | Train Loss 0.0025
+Epoch [198/500] | Iter [ 15/ 94] | Train Loss 0.0025
+Epoch [198/500] | Iter [ 33/ 94] | Train Loss 0.0025
+Epoch [198/500] | Iter [ 51/ 94] | Train Loss 0.0025
+Epoch [198/500] | Iter [ 68/ 94] | Train Loss 0.0025
+Epoch [198/500] | Iter [ 86/ 94] | Train Loss 0.0025
+Epoch [198/500] | Iter [ 94/ 94] | Train Loss 0.0025
+Epoch [199/500] | Iter [ 10/ 94] | Train Loss 0.0025
+Epoch [199/500] | Iter [ 28/ 94] | Train Loss 0.0025
+Epoch [199/500] | Iter [ 46/ 94] | Train Loss 0.0025
+Epoch [199/500] | Iter [ 63/ 94] | Train Loss 0.0025
+Epoch [199/500] | Iter [ 81/ 94] | Train Loss 0.0025
+Epoch [199/500] | Iter [ 94/ 94] | Train Loss 0.0025
+Epoch [200/500] | Iter [  5/ 94] | Train Loss 0.0024
+Epoch [200/500] | Iter [ 23/ 94] | Train Loss 0.0024
+Epoch [200/500] | Iter [ 41/ 94] | Train Loss 0.0024
+Epoch [200/500] | Iter [ 58/ 94] | Train Loss 0.0024
+Epoch [200/500] | Iter [ 76/ 94] | Train Loss 0.0025
+Epoch [200/500] | Iter [ 93/ 94] | Train Loss 0.0025
+Epoch [200/500] | Iter [ 94/ 94] | Train Loss 0.0025
+Epoch [201/500] | Iter [ 17/ 94] | Train Loss 0.0024
+Epoch [201/500] | Iter [ 35/ 94] | Train Loss 0.0024
+Epoch [201/500] | Iter [ 53/ 94] | Train Loss 0.0024
+Epoch [201/500] | Iter [ 66/ 94] | Train Loss 0.0024
+Epoch [201/500] | Iter [ 83/ 94] | Train Loss 0.0024
+Epoch [201/500] | Iter [ 94/ 94] | Train Loss 0.0024
+Epoch [202/500] | Iter [  7/ 94] | Train Loss 0.0024
+Epoch [202/500] | Iter [ 24/ 94] | Train Loss 0.0024
+Epoch [202/500] | Iter [ 42/ 94] | Train Loss 0.0024
+Epoch [202/500] | Iter [ 59/ 94] | Train Loss 0.0024
+Epoch [202/500] | Iter [ 77/ 94] | Train Loss 0.0024
+Epoch [202/500] | Iter [ 94/ 94] | Train Loss 0.0024
+Epoch [203/500] | Iter [  1/ 94] | Train Loss 0.0022
+Epoch [203/500] | Iter [ 19/ 94] | Train Loss 0.0024
+Epoch [203/500] | Iter [ 36/ 94] | Train Loss 0.0024
+Epoch [203/500] | Iter [ 54/ 94] | Train Loss 0.0024
+Epoch [203/500] | Iter [ 72/ 94] | Train Loss 0.0024
+Epoch [203/500] | Iter [ 89/ 94] | Train Loss 0.0024
+Epoch [203/500] | Iter [ 94/ 94] | Train Loss 0.0024
+Epoch [204/500] | Iter [ 15/ 94] | Train Loss 0.0023
+Epoch [204/500] | Iter [ 32/ 94] | Train Loss 0.0024
+Epoch [204/500] | Iter [ 50/ 94] | Train Loss 0.0024
+Epoch [204/500] | Iter [ 68/ 94] | Train Loss 0.0024
+Epoch [204/500] | Iter [ 85/ 94] | Train Loss 0.0024
+Epoch [204/500] | Iter [ 94/ 94] | Train Loss 0.0024
+Epoch [205/500] | Iter [  9/ 94] | Train Loss 0.0024
+Epoch [205/500] | Iter [ 26/ 94] | Train Loss 0.0024
+Epoch [205/500] | Iter [ 44/ 94] | Train Loss 0.0024
+Epoch [205/500] | Iter [ 62/ 94] | Train Loss 0.0024
+Epoch [205/500] | Iter [ 79/ 94] | Train Loss 0.0024
+Epoch [205/500] | Iter [ 94/ 94] | Train Loss 0.0024
+Epoch [206/500] | Iter [  3/ 94] | Train Loss 0.0023
+Epoch [206/500] | Iter [ 21/ 94] | Train Loss 0.0023
+Epoch [206/500] | Iter [ 39/ 94] | Train Loss 0.0023
+Epoch [206/500] | Iter [ 56/ 94] | Train Loss 0.0023
+Epoch [206/500] | Iter [ 74/ 94] | Train Loss 0.0024
+Epoch [206/500] | Iter [ 91/ 94] | Train Loss 0.0024
+Epoch [206/500] | Iter [ 94/ 94] | Train Loss 0.0024
+Epoch [207/500] | Iter [ 15/ 94] | Train Loss 0.0024
+Epoch [207/500] | Iter [ 32/ 94] | Train Loss 0.0023
+Epoch [207/500] | Iter [ 50/ 94] | Train Loss 0.0023
+Epoch [207/500] | Iter [ 68/ 94] | Train Loss 0.0023
+Epoch [207/500] | Iter [ 85/ 94] | Train Loss 0.0023
+Epoch [207/500] | Iter [ 94/ 94] | Train Loss 0.0023
+Epoch [208/500] | Iter [  8/ 94] | Train Loss 0.0025
+Epoch [208/500] | Iter [ 26/ 94] | Train Loss 0.0024
+Epoch [208/500] | Iter [ 43/ 94] | Train Loss 0.0024
+Epoch [208/500] | Iter [ 61/ 94] | Train Loss 0.0024
+Epoch [208/500] | Iter [ 78/ 94] | Train Loss 0.0023
+Epoch [208/500] | Iter [ 94/ 94] | Train Loss 0.0023
+Epoch [209/500] | Iter [  1/ 94] | Train Loss 0.0026
+Epoch [209/500] | Iter [ 19/ 94] | Train Loss 0.0023
+Epoch [209/500] | Iter [ 36/ 94] | Train Loss 0.0023
+Epoch [209/500] | Iter [ 54/ 94] | Train Loss 0.0023
+Epoch [209/500] | Iter [ 71/ 94] | Train Loss 0.0023
+Epoch [209/500] | Iter [ 89/ 94] | Train Loss 0.0023
+Epoch [209/500] | Iter [ 94/ 94] | Train Loss 0.0023
+Epoch [210/500] | Iter [ 12/ 94] | Train Loss 0.0022
+Epoch [210/500] | Iter [ 30/ 94] | Train Loss 0.0023
+Epoch [210/500] | Iter [ 47/ 94] | Train Loss 0.0023
+Epoch [210/500] | Iter [ 65/ 94] | Train Loss 0.0023
+Epoch [210/500] | Iter [ 83/ 94] | Train Loss 0.0023
+Epoch [210/500] | Iter [ 94/ 94] | Train Loss 0.0023
+Epoch [211/500] | Iter [  6/ 94] | Train Loss 0.0023
+Epoch [211/500] | Iter [ 24/ 94] | Train Loss 0.0022
+Epoch [211/500] | Iter [ 42/ 94] | Train Loss 0.0023
+Epoch [211/500] | Iter [ 59/ 94] | Train Loss 0.0023
+Epoch [211/500] | Iter [ 77/ 94] | Train Loss 0.0023
+Epoch [211/500] | Iter [ 94/ 94] | Train Loss 0.0023
+Epoch [212/500] | Iter [  1/ 94] | Train Loss 0.0019
+Epoch [212/500] | Iter [ 19/ 94] | Train Loss 0.0023
+Epoch [212/500] | Iter [ 36/ 94] | Train Loss 0.0022
+Epoch [212/500] | Iter [ 54/ 94] | Train Loss 0.0022
+Epoch [212/500] | Iter [ 72/ 94] | Train Loss 0.0023
+Epoch [212/500] | Iter [ 89/ 94] | Train Loss 0.0023
+Epoch [212/500] | Iter [ 94/ 94] | Train Loss 0.0023
+Epoch [213/500] | Iter [ 13/ 94] | Train Loss 0.0022
+Epoch [213/500] | Iter [ 30/ 94] | Train Loss 0.0022
+Epoch [213/500] | Iter [ 48/ 94] | Train Loss 0.0022
+Epoch [213/500] | Iter [ 65/ 94] | Train Loss 0.0022
+Epoch [213/500] | Iter [ 83/ 94] | Train Loss 0.0023
+Epoch [213/500] | Iter [ 94/ 94] | Train Loss 0.0022
+Epoch [214/500] | Iter [  6/ 94] | Train Loss 0.0023
+Epoch [214/500] | Iter [ 24/ 94] | Train Loss 0.0023
+Epoch [214/500] | Iter [ 41/ 94] | Train Loss 0.0023
+Epoch [214/500] | Iter [ 59/ 94] | Train Loss 0.0023
+Epoch [214/500] | Iter [ 77/ 94] | Train Loss 0.0023
+Epoch [214/500] | Iter [ 94/ 94] | Train Loss 0.0022
+Epoch [215/500] | Iter [  1/ 94] | Train Loss 0.0019
+Epoch [215/500] | Iter [ 19/ 94] | Train Loss 0.0021
+Epoch [215/500] | Iter [ 36/ 94] | Train Loss 0.0022
+Epoch [215/500] | Iter [ 54/ 94] | Train Loss 0.0022
+Epoch [215/500] | Iter [ 71/ 94] | Train Loss 0.0022
+Epoch [215/500] | Iter [ 89/ 94] | Train Loss 0.0022
+Epoch [215/500] | Iter [ 94/ 94] | Train Loss 0.0022
+Epoch [216/500] | Iter [ 13/ 94] | Train Loss 0.0022
+Epoch [216/500] | Iter [ 30/ 94] | Train Loss 0.0022
+Epoch [216/500] | Iter [ 48/ 94] | Train Loss 0.0022
+Epoch [216/500] | Iter [ 66/ 94] | Train Loss 0.0022
+Epoch [216/500] | Iter [ 83/ 94] | Train Loss 0.0022
+Epoch [216/500] | Iter [ 94/ 94] | Train Loss 0.0022
+Epoch [217/500] | Iter [  6/ 94] | Train Loss 0.0023
+Epoch [217/500] | Iter [ 23/ 94] | Train Loss 0.0023
+Epoch [217/500] | Iter [ 41/ 94] | Train Loss 0.0022
+Epoch [217/500] | Iter [ 59/ 94] | Train Loss 0.0022
+Epoch [217/500] | Iter [ 76/ 94] | Train Loss 0.0022
+Epoch [217/500] | Iter [ 94/ 94] | Train Loss 0.0022
+Epoch [218/500] | Iter [  1/ 94] | Train Loss 0.0024
+Epoch [218/500] | Iter [ 18/ 94] | Train Loss 0.0022
+Epoch [218/500] | Iter [ 36/ 94] | Train Loss 0.0022
+Epoch [218/500] | Iter [ 54/ 94] | Train Loss 0.0022
+Epoch [218/500] | Iter [ 71/ 94] | Train Loss 0.0022
+Epoch [218/500] | Iter [ 89/ 94] | Train Loss 0.0022
+Epoch [218/500] | Iter [ 94/ 94] | Train Loss 0.0022
+Epoch [219/500] | Iter [ 13/ 94] | Train Loss 0.0022
+Epoch [219/500] | Iter [ 30/ 94] | Train Loss 0.0022
+Epoch [219/500] | Iter [ 48/ 94] | Train Loss 0.0022
+Epoch [219/500] | Iter [ 66/ 94] | Train Loss 0.0022
+Epoch [219/500] | Iter [ 83/ 94] | Train Loss 0.0022
+Epoch [219/500] | Iter [ 94/ 94] | Train Loss 0.0022
+Epoch [220/500] | Iter [  6/ 94] | Train Loss 0.0021
+Epoch [220/500] | Iter [ 20/ 94] | Train Loss 0.0021
+Epoch [220/500] | Iter [ 37/ 94] | Train Loss 0.0021
+Epoch [220/500] | Iter [ 55/ 94] | Train Loss 0.0021
+Epoch [220/500] | Iter [ 72/ 94] | Train Loss 0.0021
+Epoch [220/500] | Iter [ 94/ 94] | Train Loss 0.0021
+Epoch [221/500] | Iter [  1/ 94] | Train Loss 0.0020
+Epoch [221/500] | Iter [ 18/ 94] | Train Loss 0.0020
+Epoch [221/500] | Iter [ 36/ 94] | Train Loss 0.0021
+Epoch [221/500] | Iter [ 53/ 94] | Train Loss 0.0021
+Epoch [221/500] | Iter [ 71/ 94] | Train Loss 0.0021
+Epoch [221/500] | Iter [ 89/ 94] | Train Loss 0.0021
+Epoch [221/500] | Iter [ 94/ 94] | Train Loss 0.0021
+Epoch [222/500] | Iter [ 11/ 94] | Train Loss 0.0021
+Epoch [222/500] | Iter [ 28/ 94] | Train Loss 0.0020
+Epoch [222/500] | Iter [ 46/ 94] | Train Loss 0.0021
+Epoch [222/500] | Iter [ 64/ 94] | Train Loss 0.0021
+Epoch [222/500] | Iter [ 81/ 94] | Train Loss 0.0021
+Epoch [222/500] | Iter [ 94/ 94] | Train Loss 0.0021
+Epoch [223/500] | Iter [  1/ 94] | Train Loss 0.0020
+Epoch [223/500] | Iter [ 19/ 94] | Train Loss 0.0021
+Epoch [223/500] | Iter [ 37/ 94] | Train Loss 0.0021
+Epoch [223/500] | Iter [ 54/ 94] | Train Loss 0.0021
+Epoch [223/500] | Iter [ 72/ 94] | Train Loss 0.0021
+Epoch [223/500] | Iter [ 90/ 94] | Train Loss 0.0021
+Epoch [223/500] | Iter [ 94/ 94] | Train Loss 0.0021
+Epoch [224/500] | Iter [ 14/ 94] | Train Loss 0.0020
+Epoch [224/500] | Iter [ 32/ 94] | Train Loss 0.0020
+Epoch [224/500] | Iter [ 49/ 94] | Train Loss 0.0020
+Epoch [224/500] | Iter [ 67/ 94] | Train Loss 0.0020
+Epoch [224/500] | Iter [ 84/ 94] | Train Loss 0.0020
+Epoch [224/500] | Iter [ 94/ 94] | Train Loss 0.0021
+Epoch [225/500] | Iter [  8/ 94] | Train Loss 0.0021
+Epoch [225/500] | Iter [ 26/ 94] | Train Loss 0.0020
+Epoch [225/500] | Iter [ 43/ 94] | Train Loss 0.0020
+Epoch [225/500] | Iter [ 61/ 94] | Train Loss 0.0020
+Epoch [225/500] | Iter [ 79/ 94] | Train Loss 0.0020
+Epoch [225/500] | Iter [ 94/ 94] | Train Loss 0.0020
+Epoch [226/500] | Iter [  1/ 94] | Train Loss 0.0021
+Epoch [226/500] | Iter [ 19/ 94] | Train Loss 0.0021
+Epoch [226/500] | Iter [ 36/ 94] | Train Loss 0.0020
+Epoch [226/500] | Iter [ 54/ 94] | Train Loss 0.0021
+Epoch [226/500] | Iter [ 72/ 94] | Train Loss 0.0021
+Epoch [226/500] | Iter [ 89/ 94] | Train Loss 0.0021
+Epoch [226/500] | Iter [ 94/ 94] | Train Loss 0.0021
+Epoch [227/500] | Iter [ 13/ 94] | Train Loss 0.0019
+Epoch [227/500] | Iter [ 31/ 94] | Train Loss 0.0020
+Epoch [227/500] | Iter [ 48/ 94] | Train Loss 0.0020
+Epoch [227/500] | Iter [ 66/ 94] | Train Loss 0.0020
+Epoch [227/500] | Iter [ 84/ 94] | Train Loss 0.0020
+Epoch [227/500] | Iter [ 94/ 94] | Train Loss 0.0020
+Epoch [228/500] | Iter [  8/ 94] | Train Loss 0.0021
+Epoch [228/500] | Iter [ 26/ 94] | Train Loss 0.0020
+Epoch [228/500] | Iter [ 43/ 94] | Train Loss 0.0020
+Epoch [228/500] | Iter [ 61/ 94] | Train Loss 0.0020
+Epoch [228/500] | Iter [ 79/ 94] | Train Loss 0.0020
+Epoch [228/500] | Iter [ 94/ 94] | Train Loss 0.0020
+Epoch [229/500] | Iter [  2/ 94] | Train Loss 0.0018
+Epoch [229/500] | Iter [ 20/ 94] | Train Loss 0.0019
+Epoch [229/500] | Iter [ 38/ 94] | Train Loss 0.0019
+Epoch [229/500] | Iter [ 55/ 94] | Train Loss 0.0020
+Epoch [229/500] | Iter [ 73/ 94] | Train Loss 0.0020
+Epoch [229/500] | Iter [ 90/ 94] | Train Loss 0.0020
+Epoch [229/500] | Iter [ 94/ 94] | Train Loss 0.0020
+Epoch [230/500] | Iter [ 14/ 94] | Train Loss 0.0020
+Epoch [230/500] | Iter [ 32/ 94] | Train Loss 0.0020
+Epoch [230/500] | Iter [ 49/ 94] | Train Loss 0.0020
+Epoch [230/500] | Iter [ 67/ 94] | Train Loss 0.0020
+Epoch [230/500] | Iter [ 84/ 94] | Train Loss 0.0020
+Epoch [230/500] | Iter [ 94/ 94] | Train Loss 0.0020
+Epoch [231/500] | Iter [  8/ 94] | Train Loss 0.0019
+Epoch [231/500] | Iter [ 25/ 94] | Train Loss 0.0020
+Epoch [231/500] | Iter [ 43/ 94] | Train Loss 0.0020
+Epoch [231/500] | Iter [ 61/ 94] | Train Loss 0.0020
+Epoch [231/500] | Iter [ 78/ 94] | Train Loss 0.0020
+Epoch [231/500] | Iter [ 94/ 94] | Train Loss 0.0020
+Epoch [232/500] | Iter [  1/ 94] | Train Loss 0.0018
+Epoch [232/500] | Iter [ 19/ 94] | Train Loss 0.0020
+Epoch [232/500] | Iter [ 36/ 94] | Train Loss 0.0020
+Epoch [232/500] | Iter [ 54/ 94] | Train Loss 0.0020
+Epoch [232/500] | Iter [ 72/ 94] | Train Loss 0.0020
+Epoch [232/500] | Iter [ 89/ 94] | Train Loss 0.0020
+Epoch [232/500] | Iter [ 94/ 94] | Train Loss 0.0020
+Epoch [233/500] | Iter [ 13/ 94] | Train Loss 0.0020
+Epoch [233/500] | Iter [ 30/ 94] | Train Loss 0.0020
+Epoch [233/500] | Iter [ 48/ 94] | Train Loss 0.0020
+Epoch [233/500] | Iter [ 66/ 94] | Train Loss 0.0020
+Epoch [233/500] | Iter [ 83/ 94] | Train Loss 0.0020
+Epoch [233/500] | Iter [ 94/ 94] | Train Loss 0.0020
+Epoch [234/500] | Iter [  6/ 94] | Train Loss 0.0019
+Epoch [234/500] | Iter [ 23/ 94] | Train Loss 0.0020
+Epoch [234/500] | Iter [ 41/ 94] | Train Loss 0.0019
+Epoch [234/500] | Iter [ 59/ 94] | Train Loss 0.0020
+Epoch [234/500] | Iter [ 76/ 94] | Train Loss 0.0019
+Epoch [234/500] | Iter [ 94/ 94] | Train Loss 0.0019
+Epoch [234/500] | Iter [ 94/ 94] | Train Loss 0.0019
+Epoch [235/500] | Iter [ 17/ 94] | Train Loss 0.0019
+Epoch [235/500] | Iter [ 35/ 94] | Train Loss 0.0019
+Epoch [235/500] | Iter [ 53/ 94] | Train Loss 0.0019
+Epoch [235/500] | Iter [ 70/ 94] | Train Loss 0.0019
+Epoch [235/500] | Iter [ 88/ 94] | Train Loss 0.0019
+Epoch [235/500] | Iter [ 94/ 94] | Train Loss 0.0019
+Epoch [236/500] | Iter [ 12/ 94] | Train Loss 0.0019
+Epoch [236/500] | Iter [ 30/ 94] | Train Loss 0.0019
+Epoch [236/500] | Iter [ 48/ 94] | Train Loss 0.0019
+Epoch [236/500] | Iter [ 65/ 94] | Train Loss 0.0019
+Epoch [236/500] | Iter [ 83/ 94] | Train Loss 0.0019
+Epoch [236/500] | Iter [ 94/ 94] | Train Loss 0.0019
+Epoch [237/500] | Iter [  7/ 94] | Train Loss 0.0019
+Epoch [237/500] | Iter [ 24/ 94] | Train Loss 0.0018
+Epoch [237/500] | Iter [ 42/ 94] | Train Loss 0.0018
+Epoch [237/500] | Iter [ 59/ 94] | Train Loss 0.0018
+Epoch [237/500] | Iter [ 77/ 94] | Train Loss 0.0019
+Epoch [237/500] | Iter [ 94/ 94] | Train Loss 0.0019
+Epoch [238/500] | Iter [  1/ 94] | Train Loss 0.0015
+Epoch [238/500] | Iter [ 19/ 94] | Train Loss 0.0018
+Epoch [238/500] | Iter [ 36/ 94] | Train Loss 0.0019
+Epoch [238/500] | Iter [ 54/ 94] | Train Loss 0.0019
+Epoch [238/500] | Iter [ 72/ 94] | Train Loss 0.0019
+Epoch [238/500] | Iter [ 89/ 94] | Train Loss 0.0019
+Epoch [238/500] | Iter [ 94/ 94] | Train Loss 0.0019
+Epoch [239/500] | Iter [ 13/ 94] | Train Loss 0.0018
+Epoch [239/500] | Iter [ 31/ 94] | Train Loss 0.0018
+Epoch [239/500] | Iter [ 49/ 94] | Train Loss 0.0018
+Epoch [239/500] | Iter [ 66/ 94] | Train Loss 0.0019
+Epoch [239/500] | Iter [ 84/ 94] | Train Loss 0.0019
+Epoch [239/500] | Iter [ 94/ 94] | Train Loss 0.0019
+Epoch [240/500] | Iter [  7/ 94] | Train Loss 0.0018
+Epoch [240/500] | Iter [ 24/ 94] | Train Loss 0.0019
+Epoch [240/500] | Iter [ 42/ 94] | Train Loss 0.0018
+Epoch [240/500] | Iter [ 60/ 94] | Train Loss 0.0019
+Epoch [240/500] | Iter [ 77/ 94] | Train Loss 0.0019
+Epoch [240/500] | Iter [ 94/ 94] | Train Loss 0.0019
+Epoch [240/500] | Iter [ 94/ 94] | Train Loss 0.0019
+Epoch [241/500] | Iter [ 18/ 94] | Train Loss 0.0018
+Epoch [241/500] | Iter [ 35/ 94] | Train Loss 0.0019
+Epoch [241/500] | Iter [ 53/ 94] | Train Loss 0.0019
+Epoch [241/500] | Iter [ 70/ 94] | Train Loss 0.0019
+Epoch [241/500] | Iter [ 88/ 94] | Train Loss 0.0019
+Epoch [241/500] | Iter [ 94/ 94] | Train Loss 0.0019
+Epoch [242/500] | Iter [ 12/ 94] | Train Loss 0.0019
+Epoch [242/500] | Iter [ 30/ 94] | Train Loss 0.0018
+Epoch [242/500] | Iter [ 48/ 94] | Train Loss 0.0019
+Epoch [242/500] | Iter [ 65/ 94] | Train Loss 0.0018
+Epoch [242/500] | Iter [ 83/ 94] | Train Loss 0.0018
+Epoch [242/500] | Iter [ 94/ 94] | Train Loss 0.0019
+Epoch [243/500] | Iter [  6/ 94] | Train Loss 0.0019
+Epoch [243/500] | Iter [ 23/ 94] | Train Loss 0.0018
+Epoch [243/500] | Iter [ 41/ 94] | Train Loss 0.0018
+Epoch [243/500] | Iter [ 59/ 94] | Train Loss 0.0018
+Epoch [243/500] | Iter [ 76/ 94] | Train Loss 0.0018
+Epoch [243/500] | Iter [ 94/ 94] | Train Loss 0.0018
+Epoch [243/500] | Iter [ 94/ 94] | Train Loss 0.0018
+Epoch [244/500] | Iter [ 18/ 94] | Train Loss 0.0018
+Epoch [244/500] | Iter [ 35/ 94] | Train Loss 0.0018
+Epoch [244/500] | Iter [ 53/ 94] | Train Loss 0.0018
+Epoch [244/500] | Iter [ 71/ 94] | Train Loss 0.0018
+Epoch [244/500] | Iter [ 88/ 94] | Train Loss 0.0018
+Epoch [244/500] | Iter [ 94/ 94] | Train Loss 0.0018
+Epoch [245/500] | Iter [  9/ 94] | Train Loss 0.0019
+Epoch [245/500] | Iter [ 27/ 94] | Train Loss 0.0018
+Epoch [245/500] | Iter [ 44/ 94] | Train Loss 0.0018
+Epoch [245/500] | Iter [ 62/ 94] | Train Loss 0.0018
+Epoch [245/500] | Iter [ 80/ 94] | Train Loss 0.0018
+Epoch [245/500] | Iter [ 94/ 94] | Train Loss 0.0018
+Epoch [246/500] | Iter [  1/ 94] | Train Loss 0.0017
+Epoch [246/500] | Iter [ 19/ 94] | Train Loss 0.0018
+Epoch [246/500] | Iter [ 36/ 94] | Train Loss 0.0018
+Epoch [246/500] | Iter [ 54/ 94] | Train Loss 0.0018
+Epoch [246/500] | Iter [ 71/ 94] | Train Loss 0.0018
+Epoch [246/500] | Iter [ 89/ 94] | Train Loss 0.0018
+Epoch [246/500] | Iter [ 94/ 94] | Train Loss 0.0018
+Epoch [247/500] | Iter [ 11/ 94] | Train Loss 0.0017
+Epoch [247/500] | Iter [ 29/ 94] | Train Loss 0.0017
+Epoch [247/500] | Iter [ 46/ 94] | Train Loss 0.0018
+Epoch [247/500] | Iter [ 64/ 94] | Train Loss 0.0018
+Epoch [247/500] | Iter [ 82/ 94] | Train Loss 0.0018
+Epoch [247/500] | Iter [ 94/ 94] | Train Loss 0.0018
+Epoch [248/500] | Iter [  5/ 94] | Train Loss 0.0017
+Epoch [248/500] | Iter [ 22/ 94] | Train Loss 0.0018
+Epoch [248/500] | Iter [ 40/ 94] | Train Loss 0.0017
+Epoch [248/500] | Iter [ 58/ 94] | Train Loss 0.0017
+Epoch [248/500] | Iter [ 75/ 94] | Train Loss 0.0018
+Epoch [248/500] | Iter [ 93/ 94] | Train Loss 0.0017
+Epoch [248/500] | Iter [ 94/ 94] | Train Loss 0.0017
+Epoch [249/500] | Iter [ 13/ 94] | Train Loss 0.0017
+Epoch [249/500] | Iter [ 31/ 94] | Train Loss 0.0017
+Epoch [249/500] | Iter [ 48/ 94] | Train Loss 0.0018
+Epoch [249/500] | Iter [ 66/ 94] | Train Loss 0.0018
+Epoch [249/500] | Iter [ 83/ 94] | Train Loss 0.0018
+Epoch [249/500] | Iter [ 94/ 94] | Train Loss 0.0018
+Epoch [250/500] | Iter [  4/ 94] | Train Loss 0.0018
+Epoch [250/500] | Iter [ 21/ 94] | Train Loss 0.0017
+Epoch [250/500] | Iter [ 39/ 94] | Train Loss 0.0017
+Epoch [250/500] | Iter [ 57/ 94] | Train Loss 0.0017
+Epoch [250/500] | Iter [ 74/ 94] | Train Loss 0.0017
+Epoch [250/500] | Iter [ 92/ 94] | Train Loss 0.0017
+Epoch [250/500] | Iter [ 94/ 94] | Train Loss 0.0017
+Epoch [251/500] | Iter [ 15/ 94] | Train Loss 0.0017
+Epoch [251/500] | Iter [ 33/ 94] | Train Loss 0.0018
+Epoch [251/500] | Iter [ 50/ 94] | Train Loss 0.0017
+Epoch [251/500] | Iter [ 68/ 94] | Train Loss 0.0017
+Epoch [251/500] | Iter [ 86/ 94] | Train Loss 0.0017
+Epoch [251/500] | Iter [ 94/ 94] | Train Loss 0.0018
+Epoch [252/500] | Iter [  9/ 94] | Train Loss 0.0017
+Epoch [252/500] | Iter [ 27/ 94] | Train Loss 0.0017
+Epoch [252/500] | Iter [ 45/ 94] | Train Loss 0.0017
+Epoch [252/500] | Iter [ 62/ 94] | Train Loss 0.0017
+Epoch [252/500] | Iter [ 80/ 94] | Train Loss 0.0017
+Epoch [252/500] | Iter [ 94/ 94] | Train Loss 0.0017
+Epoch [253/500] | Iter [  4/ 94] | Train Loss 0.0018
+Epoch [253/500] | Iter [ 22/ 94] | Train Loss 0.0017
+Epoch [253/500] | Iter [ 39/ 94] | Train Loss 0.0017
+Epoch [253/500] | Iter [ 57/ 94] | Train Loss 0.0017
+Epoch [253/500] | Iter [ 74/ 94] | Train Loss 0.0017
+Epoch [253/500] | Iter [ 92/ 94] | Train Loss 0.0017
+Epoch [253/500] | Iter [ 94/ 94] | Train Loss 0.0017
+Epoch [254/500] | Iter [ 16/ 94] | Train Loss 0.0017
+Epoch [254/500] | Iter [ 34/ 94] | Train Loss 0.0017
+Epoch [254/500] | Iter [ 52/ 94] | Train Loss 0.0017
+Epoch [254/500] | Iter [ 69/ 94] | Train Loss 0.0017
+Epoch [254/500] | Iter [ 87/ 94] | Train Loss 0.0017
+Epoch [254/500] | Iter [ 94/ 94] | Train Loss 0.0017
+Epoch [255/500] | Iter [ 11/ 94] | Train Loss 0.0016
+Epoch [255/500] | Iter [ 28/ 94] | Train Loss 0.0016
+Epoch [255/500] | Iter [ 46/ 94] | Train Loss 0.0017
+Epoch [255/500] | Iter [ 64/ 94] | Train Loss 0.0017
+Epoch [255/500] | Iter [ 81/ 94] | Train Loss 0.0017
+Epoch [255/500] | Iter [ 94/ 94] | Train Loss 0.0017
+Epoch [256/500] | Iter [  5/ 94] | Train Loss 0.0015
+Epoch [256/500] | Iter [ 23/ 94] | Train Loss 0.0017
+Epoch [256/500] | Iter [ 40/ 94] | Train Loss 0.0017
+Epoch [256/500] | Iter [ 58/ 94] | Train Loss 0.0017
+Epoch [256/500] | Iter [ 75/ 94] | Train Loss 0.0017
+Epoch [256/500] | Iter [ 93/ 94] | Train Loss 0.0017
+Epoch [256/500] | Iter [ 94/ 94] | Train Loss 0.0017
+Epoch [257/500] | Iter [ 16/ 94] | Train Loss 0.0016
+Epoch [257/500] | Iter [ 34/ 94] | Train Loss 0.0016
+Epoch [257/500] | Iter [ 52/ 94] | Train Loss 0.0016
+Epoch [257/500] | Iter [ 69/ 94] | Train Loss 0.0017
+Epoch [257/500] | Iter [ 87/ 94] | Train Loss 0.0017
+Epoch [257/500] | Iter [ 94/ 94] | Train Loss 0.0017
+Epoch [258/500] | Iter [ 11/ 94] | Train Loss 0.0018
+Epoch [258/500] | Iter [ 29/ 94] | Train Loss 0.0017
+Epoch [258/500] | Iter [ 46/ 94] | Train Loss 0.0017
+Epoch [258/500] | Iter [ 64/ 94] | Train Loss 0.0017
+Epoch [258/500] | Iter [ 81/ 94] | Train Loss 0.0017
+Epoch [258/500] | Iter [ 94/ 94] | Train Loss 0.0016
+Epoch [259/500] | Iter [  4/ 94] | Train Loss 0.0014
+Epoch [259/500] | Iter [ 22/ 94] | Train Loss 0.0016
+Epoch [259/500] | Iter [ 40/ 94] | Train Loss 0.0016
+Epoch [259/500] | Iter [ 57/ 94] | Train Loss 0.0016
+Epoch [259/500] | Iter [ 75/ 94] | Train Loss 0.0016
+Epoch [259/500] | Iter [ 92/ 94] | Train Loss 0.0017
+Epoch [259/500] | Iter [ 94/ 94] | Train Loss 0.0017
+Epoch [260/500] | Iter [ 17/ 94] | Train Loss 0.0016
+Epoch [260/500] | Iter [ 34/ 94] | Train Loss 0.0016
+Epoch [260/500] | Iter [ 52/ 94] | Train Loss 0.0017
+Epoch [260/500] | Iter [ 70/ 94] | Train Loss 0.0017
+Epoch [260/500] | Iter [ 87/ 94] | Train Loss 0.0016
+Epoch [260/500] | Iter [ 94/ 94] | Train Loss 0.0016
+Epoch [261/500] | Iter [ 11/ 94] | Train Loss 0.0017
+Epoch [261/500] | Iter [ 29/ 94] | Train Loss 0.0017
+Epoch [261/500] | Iter [ 46/ 94] | Train Loss 0.0017
+Epoch [261/500] | Iter [ 64/ 94] | Train Loss 0.0017
+Epoch [261/500] | Iter [ 82/ 94] | Train Loss 0.0017
+Epoch [261/500] | Iter [ 94/ 94] | Train Loss 0.0017
+Epoch [262/500] | Iter [  5/ 94] | Train Loss 0.0017
+Epoch [262/500] | Iter [ 23/ 94] | Train Loss 0.0016
+Epoch [262/500] | Iter [ 41/ 94] | Train Loss 0.0016
+Epoch [262/500] | Iter [ 58/ 94] | Train Loss 0.0016
+Epoch [262/500] | Iter [ 76/ 94] | Train Loss 0.0016
+Epoch [262/500] | Iter [ 94/ 94] | Train Loss 0.0016
+Epoch [262/500] | Iter [ 94/ 94] | Train Loss 0.0016
+Epoch [263/500] | Iter [ 17/ 94] | Train Loss 0.0016
+Epoch [263/500] | Iter [ 34/ 94] | Train Loss 0.0016
+Epoch [263/500] | Iter [ 52/ 94] | Train Loss 0.0016
+Epoch [263/500] | Iter [ 69/ 94] | Train Loss 0.0016
+Epoch [263/500] | Iter [ 87/ 94] | Train Loss 0.0016
+Epoch [263/500] | Iter [ 94/ 94] | Train Loss 0.0016
+Epoch [264/500] | Iter [ 10/ 94] | Train Loss 0.0016
+Epoch [264/500] | Iter [ 28/ 94] | Train Loss 0.0016
+Epoch [264/500] | Iter [ 46/ 94] | Train Loss 0.0016
+Epoch [264/500] | Iter [ 64/ 94] | Train Loss 0.0016
+Epoch [264/500] | Iter [ 81/ 94] | Train Loss 0.0016
+Epoch [264/500] | Iter [ 94/ 94] | Train Loss 0.0016
+Epoch [265/500] | Iter [  5/ 94] | Train Loss 0.0016
+Epoch [265/500] | Iter [ 23/ 94] | Train Loss 0.0015
+Epoch [265/500] | Iter [ 40/ 94] | Train Loss 0.0015
+Epoch [265/500] | Iter [ 58/ 94] | Train Loss 0.0015
+Epoch [265/500] | Iter [ 75/ 94] | Train Loss 0.0016
+Epoch [265/500] | Iter [ 93/ 94] | Train Loss 0.0015
+Epoch [265/500] | Iter [ 94/ 94] | Train Loss 0.0015
+Epoch [266/500] | Iter [ 17/ 94] | Train Loss 0.0015
+Epoch [266/500] | Iter [ 35/ 94] | Train Loss 0.0016
+Epoch [266/500] | Iter [ 53/ 94] | Train Loss 0.0016
+Epoch [266/500] | Iter [ 70/ 94] | Train Loss 0.0016
+Epoch [266/500] | Iter [ 88/ 94] | Train Loss 0.0016
+Epoch [266/500] | Iter [ 94/ 94] | Train Loss 0.0016
+Epoch [267/500] | Iter [ 11/ 94] | Train Loss 0.0016
+Epoch [267/500] | Iter [ 29/ 94] | Train Loss 0.0016
+Epoch [267/500] | Iter [ 47/ 94] | Train Loss 0.0016
+Epoch [267/500] | Iter [ 64/ 94] | Train Loss 0.0016
+Epoch [267/500] | Iter [ 82/ 94] | Train Loss 0.0016
+Epoch [267/500] | Iter [ 94/ 94] | Train Loss 0.0016
+Epoch [268/500] | Iter [  6/ 94] | Train Loss 0.0017
+Epoch [268/500] | Iter [ 23/ 94] | Train Loss 0.0016
+Epoch [268/500] | Iter [ 41/ 94] | Train Loss 0.0016
+Epoch [268/500] | Iter [ 59/ 94] | Train Loss 0.0016
+Epoch [268/500] | Iter [ 76/ 94] | Train Loss 0.0016
+Epoch [268/500] | Iter [ 94/ 94] | Train Loss 0.0016
+Epoch [268/500] | Iter [ 94/ 94] | Train Loss 0.0016
+Epoch [269/500] | Iter [ 17/ 94] | Train Loss 0.0015
+Epoch [269/500] | Iter [ 35/ 94] | Train Loss 0.0015
+Epoch [269/500] | Iter [ 52/ 94] | Train Loss 0.0015
+Epoch [269/500] | Iter [ 70/ 94] | Train Loss 0.0016
+Epoch [269/500] | Iter [ 88/ 94] | Train Loss 0.0016
+Epoch [269/500] | Iter [ 94/ 94] | Train Loss 0.0016
+Epoch [270/500] | Iter [ 11/ 94] | Train Loss 0.0015
+Epoch [270/500] | Iter [ 25/ 94] | Train Loss 0.0015
+Epoch [270/500] | Iter [ 42/ 94] | Train Loss 0.0015
+Epoch [270/500] | Iter [ 60/ 94] | Train Loss 0.0015
+Epoch [270/500] | Iter [ 77/ 94] | Train Loss 0.0015
+Epoch [270/500] | Iter [ 94/ 94] | Train Loss 0.0015
+Epoch [271/500] | Iter [  1/ 94] | Train Loss 0.0016
+Epoch [271/500] | Iter [ 19/ 94] | Train Loss 0.0016
+Epoch [271/500] | Iter [ 36/ 94] | Train Loss 0.0016
+Epoch [271/500] | Iter [ 54/ 94] | Train Loss 0.0015
+Epoch [271/500] | Iter [ 71/ 94] | Train Loss 0.0015
+Epoch [271/500] | Iter [ 89/ 94] | Train Loss 0.0015
+Epoch [271/500] | Iter [ 94/ 94] | Train Loss 0.0015
+Epoch [272/500] | Iter [ 17/ 94] | Train Loss 0.0015
+Epoch [272/500] | Iter [ 30/ 94] | Train Loss 0.0015
+Epoch [272/500] | Iter [ 48/ 94] | Train Loss 0.0015
+Epoch [272/500] | Iter [ 65/ 94] | Train Loss 0.0015
+Epoch [272/500] | Iter [ 83/ 94] | Train Loss 0.0015
+Epoch [272/500] | Iter [ 94/ 94] | Train Loss 0.0015
+Epoch [273/500] | Iter [  6/ 94] | Train Loss 0.0015
+Epoch [273/500] | Iter [ 23/ 94] | Train Loss 0.0015
+Epoch [273/500] | Iter [ 41/ 94] | Train Loss 0.0015
+Epoch [273/500] | Iter [ 59/ 94] | Train Loss 0.0015
+Epoch [273/500] | Iter [ 76/ 94] | Train Loss 0.0015
+Epoch [273/500] | Iter [ 94/ 94] | Train Loss 0.0015
+Epoch [273/500] | Iter [ 94/ 94] | Train Loss 0.0015
+Epoch [274/500] | Iter [ 18/ 94] | Train Loss 0.0015
+Epoch [274/500] | Iter [ 35/ 94] | Train Loss 0.0015
+Epoch [274/500] | Iter [ 53/ 94] | Train Loss 0.0015
+Epoch [274/500] | Iter [ 71/ 94] | Train Loss 0.0015
+Epoch [274/500] | Iter [ 88/ 94] | Train Loss 0.0015
+Epoch [274/500] | Iter [ 94/ 94] | Train Loss 0.0015
+Epoch [275/500] | Iter [ 12/ 94] | Train Loss 0.0015
+Epoch [275/500] | Iter [ 29/ 94] | Train Loss 0.0015
+Epoch [275/500] | Iter [ 47/ 94] | Train Loss 0.0015
+Epoch [275/500] | Iter [ 64/ 94] | Train Loss 0.0015
+Epoch [275/500] | Iter [ 82/ 94] | Train Loss 0.0015
+Epoch [275/500] | Iter [ 94/ 94] | Train Loss 0.0015
+Epoch [276/500] | Iter [  6/ 94] | Train Loss 0.0014
+Epoch [276/500] | Iter [ 24/ 94] | Train Loss 0.0014
+Epoch [276/500] | Iter [ 41/ 94] | Train Loss 0.0015
+Epoch [276/500] | Iter [ 59/ 94] | Train Loss 0.0015
+Epoch [276/500] | Iter [ 76/ 94] | Train Loss 0.0015
+Epoch [276/500] | Iter [ 94/ 94] | Train Loss 0.0015
+Epoch [276/500] | Iter [ 94/ 94] | Train Loss 0.0015
+Epoch [277/500] | Iter [ 17/ 94] | Train Loss 0.0015
+Epoch [277/500] | Iter [ 35/ 94] | Train Loss 0.0015
+Epoch [277/500] | Iter [ 53/ 94] | Train Loss 0.0015
+Epoch [277/500] | Iter [ 70/ 94] | Train Loss 0.0015
+Epoch [277/500] | Iter [ 88/ 94] | Train Loss 0.0015
+Epoch [277/500] | Iter [ 94/ 94] | Train Loss 0.0015
+Epoch [278/500] | Iter [ 11/ 94] | Train Loss 0.0014
+Epoch [278/500] | Iter [ 28/ 94] | Train Loss 0.0014
+Epoch [278/500] | Iter [ 46/ 94] | Train Loss 0.0015
+Epoch [278/500] | Iter [ 64/ 94] | Train Loss 0.0015
+Epoch [278/500] | Iter [ 81/ 94] | Train Loss 0.0015
+Epoch [278/500] | Iter [ 94/ 94] | Train Loss 0.0015
+Epoch [279/500] | Iter [  4/ 94] | Train Loss 0.0014
+Epoch [279/500] | Iter [ 22/ 94] | Train Loss 0.0014
+Epoch [279/500] | Iter [ 39/ 94] | Train Loss 0.0014
+Epoch [279/500] | Iter [ 57/ 94] | Train Loss 0.0015
+Epoch [279/500] | Iter [ 75/ 94] | Train Loss 0.0015
+Epoch [279/500] | Iter [ 92/ 94] | Train Loss 0.0015
+Epoch [279/500] | Iter [ 94/ 94] | Train Loss 0.0015
+Epoch [280/500] | Iter [ 15/ 94] | Train Loss 0.0016
+Epoch [280/500] | Iter [ 32/ 94] | Train Loss 0.0015
+Epoch [280/500] | Iter [ 50/ 94] | Train Loss 0.0015
+Epoch [280/500] | Iter [ 68/ 94] | Train Loss 0.0015
+Epoch [280/500] | Iter [ 85/ 94] | Train Loss 0.0015
+Epoch [280/500] | Iter [ 94/ 94] | Train Loss 0.0015
+Epoch [281/500] | Iter [  9/ 94] | Train Loss 0.0014
+Epoch [281/500] | Iter [ 27/ 94] | Train Loss 0.0014
+Epoch [281/500] | Iter [ 44/ 94] | Train Loss 0.0014
+Epoch [281/500] | Iter [ 62/ 94] | Train Loss 0.0014
+Epoch [281/500] | Iter [ 80/ 94] | Train Loss 0.0014
+Epoch [281/500] | Iter [ 94/ 94] | Train Loss 0.0014
+Epoch [282/500] | Iter [  4/ 94] | Train Loss 0.0014
+Epoch [282/500] | Iter [ 21/ 94] | Train Loss 0.0014
+Epoch [282/500] | Iter [ 39/ 94] | Train Loss 0.0014
+Epoch [282/500] | Iter [ 56/ 94] | Train Loss 0.0014
+Epoch [282/500] | Iter [ 74/ 94] | Train Loss 0.0014
+Epoch [282/500] | Iter [ 92/ 94] | Train Loss 0.0014
+Epoch [282/500] | Iter [ 94/ 94] | Train Loss 0.0014
+Epoch [283/500] | Iter [ 14/ 94] | Train Loss 0.0014
+Epoch [283/500] | Iter [ 31/ 94] | Train Loss 0.0014
+Epoch [283/500] | Iter [ 49/ 94] | Train Loss 0.0014
+Epoch [283/500] | Iter [ 66/ 94] | Train Loss 0.0014
+Epoch [283/500] | Iter [ 84/ 94] | Train Loss 0.0014
+Epoch [283/500] | Iter [ 94/ 94] | Train Loss 0.0014
+Epoch [284/500] | Iter [  8/ 94] | Train Loss 0.0014
+Epoch [284/500] | Iter [ 26/ 94] | Train Loss 0.0014
+Epoch [284/500] | Iter [ 43/ 94] | Train Loss 0.0014
+Epoch [284/500] | Iter [ 61/ 94] | Train Loss 0.0014
+Epoch [284/500] | Iter [ 79/ 94] | Train Loss 0.0014
+Epoch [284/500] | Iter [ 94/ 94] | Train Loss 0.0014
+Epoch [285/500] | Iter [  2/ 94] | Train Loss 0.0014
+Epoch [285/500] | Iter [ 20/ 94] | Train Loss 0.0014
+Epoch [285/500] | Iter [ 38/ 94] | Train Loss 0.0014
+Epoch [285/500] | Iter [ 55/ 94] | Train Loss 0.0014
+Epoch [285/500] | Iter [ 73/ 94] | Train Loss 0.0014
+Epoch [285/500] | Iter [ 91/ 94] | Train Loss 0.0014
+Epoch [285/500] | Iter [ 94/ 94] | Train Loss 0.0014
+Epoch [286/500] | Iter [ 14/ 94] | Train Loss 0.0015
+Epoch [286/500] | Iter [ 32/ 94] | Train Loss 0.0014
+Epoch [286/500] | Iter [ 50/ 94] | Train Loss 0.0014
+Epoch [286/500] | Iter [ 67/ 94] | Train Loss 0.0014
+Epoch [286/500] | Iter [ 85/ 94] | Train Loss 0.0014
+Epoch [286/500] | Iter [ 94/ 94] | Train Loss 0.0014
+Epoch [287/500] | Iter [  9/ 94] | Train Loss 0.0014
+Epoch [287/500] | Iter [ 27/ 94] | Train Loss 0.0014
+Epoch [287/500] | Iter [ 44/ 94] | Train Loss 0.0014
+Epoch [287/500] | Iter [ 62/ 94] | Train Loss 0.0014
+Epoch [287/500] | Iter [ 79/ 94] | Train Loss 0.0014
+Epoch [287/500] | Iter [ 94/ 94] | Train Loss 0.0014
+Epoch [288/500] | Iter [  3/ 94] | Train Loss 0.0013
+Epoch [288/500] | Iter [ 20/ 94] | Train Loss 0.0014
+Epoch [288/500] | Iter [ 38/ 94] | Train Loss 0.0014
+Epoch [288/500] | Iter [ 56/ 94] | Train Loss 0.0014
+Epoch [288/500] | Iter [ 73/ 94] | Train Loss 0.0014
+Epoch [288/500] | Iter [ 91/ 94] | Train Loss 0.0014
+Epoch [288/500] | Iter [ 94/ 94] | Train Loss 0.0014
+Epoch [289/500] | Iter [ 14/ 94] | Train Loss 0.0013
+Epoch [289/500] | Iter [ 31/ 94] | Train Loss 0.0013
+Epoch [289/500] | Iter [ 49/ 94] | Train Loss 0.0014
+Epoch [289/500] | Iter [ 67/ 94] | Train Loss 0.0014
+Epoch [289/500] | Iter [ 84/ 94] | Train Loss 0.0014
+Epoch [289/500] | Iter [ 94/ 94] | Train Loss 0.0014
+Epoch [290/500] | Iter [  8/ 94] | Train Loss 0.0014
+Epoch [290/500] | Iter [ 26/ 94] | Train Loss 0.0013
+Epoch [290/500] | Iter [ 43/ 94] | Train Loss 0.0014
+Epoch [290/500] | Iter [ 61/ 94] | Train Loss 0.0014
+Epoch [290/500] | Iter [ 79/ 94] | Train Loss 0.0014
+Epoch [290/500] | Iter [ 94/ 94] | Train Loss 0.0014
+Epoch [290/500] | Iter [ 94/ 94] | Train Loss 0.0014
+Epoch [291/500] | Iter [ 18/ 94] | Train Loss 0.0014
+Epoch [291/500] | Iter [ 36/ 94] | Train Loss 0.0013
+Epoch [291/500] | Iter [ 53/ 94] | Train Loss 0.0013
+Epoch [291/500] | Iter [ 71/ 94] | Train Loss 0.0014
+Epoch [291/500] | Iter [ 89/ 94] | Train Loss 0.0014
+Epoch [291/500] | Iter [ 94/ 94] | Train Loss 0.0014
+Epoch [292/500] | Iter [ 12/ 94] | Train Loss 0.0013
+Epoch [292/500] | Iter [ 30/ 94] | Train Loss 0.0013
+Epoch [292/500] | Iter [ 47/ 94] | Train Loss 0.0014
+Epoch [292/500] | Iter [ 65/ 94] | Train Loss 0.0014
+Epoch [292/500] | Iter [ 83/ 94] | Train Loss 0.0014
+Epoch [292/500] | Iter [ 94/ 94] | Train Loss 0.0014
+Epoch [293/500] | Iter [  6/ 94] | Train Loss 0.0014
+Epoch [293/500] | Iter [ 24/ 94] | Train Loss 0.0014
+Epoch [293/500] | Iter [ 41/ 94] | Train Loss 0.0013
+Epoch [293/500] | Iter [ 59/ 94] | Train Loss 0.0014
+Epoch [293/500] | Iter [ 77/ 94] | Train Loss 0.0014
+Epoch [293/500] | Iter [ 94/ 94] | Train Loss 0.0014
+Epoch [293/500] | Iter [ 94/ 94] | Train Loss 0.0014
+Epoch [294/500] | Iter [ 18/ 94] | Train Loss 0.0012
+Epoch [294/500] | Iter [ 35/ 94] | Train Loss 0.0013
+Epoch [294/500] | Iter [ 53/ 94] | Train Loss 0.0013
+Epoch [294/500] | Iter [ 70/ 94] | Train Loss 0.0013
+Epoch [294/500] | Iter [ 88/ 94] | Train Loss 0.0013
+Epoch [294/500] | Iter [ 94/ 94] | Train Loss 0.0013
+Epoch [295/500] | Iter [ 12/ 94] | Train Loss 0.0013
+Epoch [295/500] | Iter [ 30/ 94] | Train Loss 0.0013
+Epoch [295/500] | Iter [ 47/ 94] | Train Loss 0.0013
+Epoch [295/500] | Iter [ 65/ 94] | Train Loss 0.0013
+Epoch [295/500] | Iter [ 83/ 94] | Train Loss 0.0013
+Epoch [295/500] | Iter [ 94/ 94] | Train Loss 0.0013
+Epoch [296/500] | Iter [  5/ 94] | Train Loss 0.0012
+Epoch [296/500] | Iter [ 22/ 94] | Train Loss 0.0013
+Epoch [296/500] | Iter [ 40/ 94] | Train Loss 0.0013
+Epoch [296/500] | Iter [ 58/ 94] | Train Loss 0.0013
+Epoch [296/500] | Iter [ 75/ 94] | Train Loss 0.0013
+Epoch [296/500] | Iter [ 93/ 94] | Train Loss 0.0013
+Epoch [296/500] | Iter [ 94/ 94] | Train Loss 0.0013
+Epoch [297/500] | Iter [ 16/ 94] | Train Loss 0.0014
+Epoch [297/500] | Iter [ 33/ 94] | Train Loss 0.0014
+Epoch [297/500] | Iter [ 51/ 94] | Train Loss 0.0013
+Epoch [297/500] | Iter [ 68/ 94] | Train Loss 0.0013
+Epoch [297/500] | Iter [ 86/ 94] | Train Loss 0.0013
+Epoch [297/500] | Iter [ 94/ 94] | Train Loss 0.0013
+Epoch [298/500] | Iter [ 10/ 94] | Train Loss 0.0013
+Epoch [298/500] | Iter [ 27/ 94] | Train Loss 0.0013
+Epoch [298/500] | Iter [ 45/ 94] | Train Loss 0.0013
+Epoch [298/500] | Iter [ 63/ 94] | Train Loss 0.0013
+Epoch [298/500] | Iter [ 80/ 94] | Train Loss 0.0013
+Epoch [298/500] | Iter [ 94/ 94] | Train Loss 0.0013
+Epoch [299/500] | Iter [  3/ 94] | Train Loss 0.0012
+Epoch [299/500] | Iter [ 21/ 94] | Train Loss 0.0014
+Epoch [299/500] | Iter [ 39/ 94] | Train Loss 0.0013
+Epoch [299/500] | Iter [ 56/ 94] | Train Loss 0.0013
+Epoch [299/500] | Iter [ 74/ 94] | Train Loss 0.0013
+Epoch [299/500] | Iter [ 91/ 94] | Train Loss 0.0013
+Epoch [299/500] | Iter [ 94/ 94] | Train Loss 0.0013
+Epoch [300/500] | Iter [ 15/ 94] | Train Loss 0.0013
+Epoch [300/500] | Iter [ 32/ 94] | Train Loss 0.0013
+Epoch [300/500] | Iter [ 50/ 94] | Train Loss 0.0013
+Epoch [300/500] | Iter [ 68/ 94] | Train Loss 0.0013
+Epoch [300/500] | Iter [ 85/ 94] | Train Loss 0.0013
+Epoch [300/500] | Iter [ 94/ 94] | Train Loss 0.0013
+Epoch [301/500] | Iter [  8/ 94] | Train Loss 0.0012
+Epoch [301/500] | Iter [ 26/ 94] | Train Loss 0.0012
+Epoch [301/500] | Iter [ 43/ 94] | Train Loss 0.0012
+Epoch [301/500] | Iter [ 61/ 94] | Train Loss 0.0012
+Epoch [301/500] | Iter [ 79/ 94] | Train Loss 0.0013
+Epoch [301/500] | Iter [ 94/ 94] | Train Loss 0.0013
+Epoch [302/500] | Iter [  2/ 94] | Train Loss 0.0013
+Epoch [302/500] | Iter [ 19/ 94] | Train Loss 0.0013
+Epoch [302/500] | Iter [ 37/ 94] | Train Loss 0.0013
+Epoch [302/500] | Iter [ 55/ 94] | Train Loss 0.0013
+Epoch [302/500] | Iter [ 72/ 94] | Train Loss 0.0013
+Epoch [302/500] | Iter [ 90/ 94] | Train Loss 0.0013
+Epoch [302/500] | Iter [ 94/ 94] | Train Loss 0.0013
+Epoch [303/500] | Iter [ 14/ 94] | Train Loss 0.0013
+Epoch [303/500] | Iter [ 32/ 94] | Train Loss 0.0013
+Epoch [303/500] | Iter [ 49/ 94] | Train Loss 0.0013
+Epoch [303/500] | Iter [ 67/ 94] | Train Loss 0.0013
+Epoch [303/500] | Iter [ 85/ 94] | Train Loss 0.0013
+Epoch [303/500] | Iter [ 94/ 94] | Train Loss 0.0013
+Epoch [304/500] | Iter [  8/ 94] | Train Loss 0.0013
+Epoch [304/500] | Iter [ 25/ 94] | Train Loss 0.0013
+Epoch [304/500] | Iter [ 43/ 94] | Train Loss 0.0013
+Epoch [304/500] | Iter [ 61/ 94] | Train Loss 0.0013
+Epoch [304/500] | Iter [ 78/ 94] | Train Loss 0.0013
+Epoch [304/500] | Iter [ 94/ 94] | Train Loss 0.0013
+Epoch [305/500] | Iter [  2/ 94] | Train Loss 0.0013
+Epoch [305/500] | Iter [ 20/ 94] | Train Loss 0.0012
+Epoch [305/500] | Iter [ 37/ 94] | Train Loss 0.0012
+Epoch [305/500] | Iter [ 55/ 94] | Train Loss 0.0012
+Epoch [305/500] | Iter [ 73/ 94] | Train Loss 0.0013
+Epoch [305/500] | Iter [ 90/ 94] | Train Loss 0.0013
+Epoch [305/500] | Iter [ 94/ 94] | Train Loss 0.0013
+Epoch [306/500] | Iter [ 13/ 94] | Train Loss 0.0013
+Epoch [306/500] | Iter [ 31/ 94] | Train Loss 0.0013
+Epoch [306/500] | Iter [ 49/ 94] | Train Loss 0.0013
+Epoch [306/500] | Iter [ 66/ 94] | Train Loss 0.0013
+Epoch [306/500] | Iter [ 84/ 94] | Train Loss 0.0013
+Epoch [306/500] | Iter [ 94/ 94] | Train Loss 0.0013
+Epoch [307/500] | Iter [  8/ 94] | Train Loss 0.0012
+Epoch [307/500] | Iter [ 26/ 94] | Train Loss 0.0012
+Epoch [307/500] | Iter [ 43/ 94] | Train Loss 0.0012
+Epoch [307/500] | Iter [ 61/ 94] | Train Loss 0.0012
+Epoch [307/500] | Iter [ 79/ 94] | Train Loss 0.0013
+Epoch [307/500] | Iter [ 92/ 94] | Train Loss 0.0013
+Epoch [307/500] | Iter [ 94/ 94] | Train Loss 0.0013
+Epoch [308/500] | Iter [ 17/ 94] | Train Loss 0.0012
+Epoch [308/500] | Iter [ 34/ 94] | Train Loss 0.0012
+Epoch [308/500] | Iter [ 52/ 94] | Train Loss 0.0012
+Epoch [308/500] | Iter [ 69/ 94] | Train Loss 0.0012
+Epoch [308/500] | Iter [ 87/ 94] | Train Loss 0.0012
+Epoch [308/500] | Iter [ 94/ 94] | Train Loss 0.0012
+Epoch [309/500] | Iter [ 11/ 94] | Train Loss 0.0012
+Epoch [309/500] | Iter [ 29/ 94] | Train Loss 0.0012
+Epoch [309/500] | Iter [ 46/ 94] | Train Loss 0.0012
+Epoch [309/500] | Iter [ 64/ 94] | Train Loss 0.0012
+Epoch [309/500] | Iter [ 81/ 94] | Train Loss 0.0013
+Epoch [309/500] | Iter [ 94/ 94] | Train Loss 0.0013
+Epoch [310/500] | Iter [  6/ 94] | Train Loss 0.0014
+Epoch [310/500] | Iter [ 23/ 94] | Train Loss 0.0013
+Epoch [310/500] | Iter [ 41/ 94] | Train Loss 0.0012
+Epoch [310/500] | Iter [ 59/ 94] | Train Loss 0.0012
+Epoch [310/500] | Iter [ 76/ 94] | Train Loss 0.0012
+Epoch [310/500] | Iter [ 94/ 94] | Train Loss 0.0012
+Epoch [310/500] | Iter [ 94/ 94] | Train Loss 0.0012
+Epoch [311/500] | Iter [ 17/ 94] | Train Loss 0.0012
+Epoch [311/500] | Iter [ 35/ 94] | Train Loss 0.0012
+Epoch [311/500] | Iter [ 53/ 94] | Train Loss 0.0012
+Epoch [311/500] | Iter [ 70/ 94] | Train Loss 0.0012
+Epoch [311/500] | Iter [ 88/ 94] | Train Loss 0.0012
+Epoch [311/500] | Iter [ 94/ 94] | Train Loss 0.0012
+Epoch [312/500] | Iter [ 11/ 94] | Train Loss 0.0012
+Epoch [312/500] | Iter [ 29/ 94] | Train Loss 0.0012
+Epoch [312/500] | Iter [ 46/ 94] | Train Loss 0.0012
+Epoch [312/500] | Iter [ 64/ 94] | Train Loss 0.0012
+Epoch [312/500] | Iter [ 82/ 94] | Train Loss 0.0012
+Epoch [312/500] | Iter [ 94/ 94] | Train Loss 0.0012
+Epoch [313/500] | Iter [  6/ 94] | Train Loss 0.0011
+Epoch [313/500] | Iter [ 24/ 94] | Train Loss 0.0012
+Epoch [313/500] | Iter [ 41/ 94] | Train Loss 0.0012
+Epoch [313/500] | Iter [ 59/ 94] | Train Loss 0.0012
+Epoch [313/500] | Iter [ 76/ 94] | Train Loss 0.0012
+Epoch [313/500] | Iter [ 94/ 94] | Train Loss 0.0012
+Epoch [313/500] | Iter [ 94/ 94] | Train Loss 0.0012
+Epoch [314/500] | Iter [ 17/ 94] | Train Loss 0.0012
+Epoch [314/500] | Iter [ 35/ 94] | Train Loss 0.0012
+Epoch [314/500] | Iter [ 53/ 94] | Train Loss 0.0012
+Epoch [314/500] | Iter [ 70/ 94] | Train Loss 0.0012
+Epoch [314/500] | Iter [ 88/ 94] | Train Loss 0.0012
+Epoch [314/500] | Iter [ 94/ 94] | Train Loss 0.0012
+Epoch [315/500] | Iter [ 12/ 94] | Train Loss 0.0012
+Epoch [315/500] | Iter [ 30/ 94] | Train Loss 0.0011
+Epoch [315/500] | Iter [ 47/ 94] | Train Loss 0.0012
+Epoch [315/500] | Iter [ 65/ 94] | Train Loss 0.0012
+Epoch [315/500] | Iter [ 83/ 94] | Train Loss 0.0012
+Epoch [315/500] | Iter [ 94/ 94] | Train Loss 0.0012
+Epoch [316/500] | Iter [  6/ 94] | Train Loss 0.0011
+Epoch [316/500] | Iter [ 23/ 94] | Train Loss 0.0012
+Epoch [316/500] | Iter [ 41/ 94] | Train Loss 0.0012
+Epoch [316/500] | Iter [ 59/ 94] | Train Loss 0.0012
+Epoch [316/500] | Iter [ 76/ 94] | Train Loss 0.0012
+Epoch [316/500] | Iter [ 94/ 94] | Train Loss 0.0012
+Epoch [316/500] | Iter [ 94/ 94] | Train Loss 0.0012
+Epoch [317/500] | Iter [ 16/ 94] | Train Loss 0.0012
+Epoch [317/500] | Iter [ 34/ 94] | Train Loss 0.0012
+Epoch [317/500] | Iter [ 52/ 94] | Train Loss 0.0012
+Epoch [317/500] | Iter [ 69/ 94] | Train Loss 0.0012
+Epoch [317/500] | Iter [ 87/ 94] | Train Loss 0.0012
+Epoch [317/500] | Iter [ 94/ 94] | Train Loss 0.0012
+Epoch [318/500] | Iter [ 10/ 94] | Train Loss 0.0011
+Epoch [318/500] | Iter [ 27/ 94] | Train Loss 0.0011
+Epoch [318/500] | Iter [ 45/ 94] | Train Loss 0.0012
+Epoch [318/500] | Iter [ 62/ 94] | Train Loss 0.0012
+Epoch [318/500] | Iter [ 80/ 94] | Train Loss 0.0012
+Epoch [318/500] | Iter [ 94/ 94] | Train Loss 0.0012
+Epoch [319/500] | Iter [  3/ 94] | Train Loss 0.0011
+Epoch [319/500] | Iter [ 21/ 94] | Train Loss 0.0011
+Epoch [319/500] | Iter [ 38/ 94] | Train Loss 0.0012
+Epoch [319/500] | Iter [ 56/ 94] | Train Loss 0.0012
+Epoch [319/500] | Iter [ 74/ 94] | Train Loss 0.0012
+Epoch [319/500] | Iter [ 91/ 94] | Train Loss 0.0012
+Epoch [319/500] | Iter [ 94/ 94] | Train Loss 0.0012
+Epoch [320/500] | Iter [ 14/ 94] | Train Loss 0.0011
+Epoch [320/500] | Iter [ 32/ 94] | Train Loss 0.0012
+Epoch [320/500] | Iter [ 49/ 94] | Train Loss 0.0012
+Epoch [320/500] | Iter [ 67/ 94] | Train Loss 0.0012
+Epoch [320/500] | Iter [ 85/ 94] | Train Loss 0.0012
+Epoch [320/500] | Iter [ 94/ 94] | Train Loss 0.0012
+Epoch [321/500] | Iter [  6/ 94] | Train Loss 0.0011
+Epoch [321/500] | Iter [ 24/ 94] | Train Loss 0.0011
+Epoch [321/500] | Iter [ 42/ 94] | Train Loss 0.0012
+Epoch [321/500] | Iter [ 59/ 94] | Train Loss 0.0011
+Epoch [321/500] | Iter [ 77/ 94] | Train Loss 0.0011
+Epoch [321/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [321/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [322/500] | Iter [ 18/ 94] | Train Loss 0.0011
+Epoch [322/500] | Iter [ 35/ 94] | Train Loss 0.0011
+Epoch [322/500] | Iter [ 53/ 94] | Train Loss 0.0011
+Epoch [322/500] | Iter [ 71/ 94] | Train Loss 0.0012
+Epoch [322/500] | Iter [ 88/ 94] | Train Loss 0.0012
+Epoch [322/500] | Iter [ 94/ 94] | Train Loss 0.0012
+Epoch [323/500] | Iter [ 13/ 94] | Train Loss 0.0012
+Epoch [323/500] | Iter [ 30/ 94] | Train Loss 0.0012
+Epoch [323/500] | Iter [ 48/ 94] | Train Loss 0.0012
+Epoch [323/500] | Iter [ 65/ 94] | Train Loss 0.0011
+Epoch [323/500] | Iter [ 83/ 94] | Train Loss 0.0011
+Epoch [323/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [324/500] | Iter [  6/ 94] | Train Loss 0.0011
+Epoch [324/500] | Iter [ 24/ 94] | Train Loss 0.0011
+Epoch [324/500] | Iter [ 41/ 94] | Train Loss 0.0011
+Epoch [324/500] | Iter [ 59/ 94] | Train Loss 0.0011
+Epoch [324/500] | Iter [ 77/ 94] | Train Loss 0.0011
+Epoch [324/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [324/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [325/500] | Iter [ 18/ 94] | Train Loss 0.0012
+Epoch [325/500] | Iter [ 36/ 94] | Train Loss 0.0011
+Epoch [325/500] | Iter [ 53/ 94] | Train Loss 0.0011
+Epoch [325/500] | Iter [ 71/ 94] | Train Loss 0.0011
+Epoch [325/500] | Iter [ 88/ 94] | Train Loss 0.0011
+Epoch [325/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [326/500] | Iter [ 11/ 94] | Train Loss 0.0011
+Epoch [326/500] | Iter [ 29/ 94] | Train Loss 0.0011
+Epoch [326/500] | Iter [ 46/ 94] | Train Loss 0.0011
+Epoch [326/500] | Iter [ 64/ 94] | Train Loss 0.0011
+Epoch [326/500] | Iter [ 81/ 94] | Train Loss 0.0011
+Epoch [326/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [327/500] | Iter [  6/ 94] | Train Loss 0.0012
+Epoch [327/500] | Iter [ 23/ 94] | Train Loss 0.0011
+Epoch [327/500] | Iter [ 41/ 94] | Train Loss 0.0011
+Epoch [327/500] | Iter [ 59/ 94] | Train Loss 0.0011
+Epoch [327/500] | Iter [ 76/ 94] | Train Loss 0.0011
+Epoch [327/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [327/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [328/500] | Iter [ 17/ 94] | Train Loss 0.0010
+Epoch [328/500] | Iter [ 34/ 94] | Train Loss 0.0011
+Epoch [328/500] | Iter [ 52/ 94] | Train Loss 0.0011
+Epoch [328/500] | Iter [ 70/ 94] | Train Loss 0.0011
+Epoch [328/500] | Iter [ 87/ 94] | Train Loss 0.0011
+Epoch [328/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [329/500] | Iter [  8/ 94] | Train Loss 0.0011
+Epoch [329/500] | Iter [ 26/ 94] | Train Loss 0.0011
+Epoch [329/500] | Iter [ 44/ 94] | Train Loss 0.0011
+Epoch [329/500] | Iter [ 61/ 94] | Train Loss 0.0011
+Epoch [329/500] | Iter [ 79/ 94] | Train Loss 0.0011
+Epoch [329/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [330/500] | Iter [  2/ 94] | Train Loss 0.0010
+Epoch [330/500] | Iter [ 20/ 94] | Train Loss 0.0011
+Epoch [330/500] | Iter [ 38/ 94] | Train Loss 0.0011
+Epoch [330/500] | Iter [ 55/ 94] | Train Loss 0.0011
+Epoch [330/500] | Iter [ 73/ 94] | Train Loss 0.0011
+Epoch [330/500] | Iter [ 90/ 94] | Train Loss 0.0011
+Epoch [330/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [331/500] | Iter [ 13/ 94] | Train Loss 0.0013
+Epoch [331/500] | Iter [ 31/ 94] | Train Loss 0.0012
+Epoch [331/500] | Iter [ 49/ 94] | Train Loss 0.0012
+Epoch [331/500] | Iter [ 66/ 94] | Train Loss 0.0012
+Epoch [331/500] | Iter [ 84/ 94] | Train Loss 0.0011
+Epoch [331/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [332/500] | Iter [  7/ 94] | Train Loss 0.0010
+Epoch [332/500] | Iter [ 25/ 94] | Train Loss 0.0011
+Epoch [332/500] | Iter [ 42/ 94] | Train Loss 0.0010
+Epoch [332/500] | Iter [ 60/ 94] | Train Loss 0.0010
+Epoch [332/500] | Iter [ 77/ 94] | Train Loss 0.0010
+Epoch [332/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [332/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [333/500] | Iter [ 18/ 94] | Train Loss 0.0011
+Epoch [333/500] | Iter [ 36/ 94] | Train Loss 0.0011
+Epoch [333/500] | Iter [ 53/ 94] | Train Loss 0.0011
+Epoch [333/500] | Iter [ 71/ 94] | Train Loss 0.0011
+Epoch [333/500] | Iter [ 89/ 94] | Train Loss 0.0011
+Epoch [333/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [334/500] | Iter [  7/ 94] | Train Loss 0.0010
+Epoch [334/500] | Iter [ 25/ 94] | Train Loss 0.0010
+Epoch [334/500] | Iter [ 42/ 94] | Train Loss 0.0011
+Epoch [334/500] | Iter [ 60/ 94] | Train Loss 0.0011
+Epoch [334/500] | Iter [ 78/ 94] | Train Loss 0.0011
+Epoch [334/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [335/500] | Iter [  2/ 94] | Train Loss 0.0011
+Epoch [335/500] | Iter [ 20/ 94] | Train Loss 0.0010
+Epoch [335/500] | Iter [ 37/ 94] | Train Loss 0.0011
+Epoch [335/500] | Iter [ 55/ 94] | Train Loss 0.0011
+Epoch [335/500] | Iter [ 72/ 94] | Train Loss 0.0011
+Epoch [335/500] | Iter [ 90/ 94] | Train Loss 0.0011
+Epoch [335/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [336/500] | Iter [ 14/ 94] | Train Loss 0.0011
+Epoch [336/500] | Iter [ 31/ 94] | Train Loss 0.0011
+Epoch [336/500] | Iter [ 49/ 94] | Train Loss 0.0011
+Epoch [336/500] | Iter [ 67/ 94] | Train Loss 0.0011
+Epoch [336/500] | Iter [ 84/ 94] | Train Loss 0.0011
+Epoch [336/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [337/500] | Iter [  8/ 94] | Train Loss 0.0010
+Epoch [337/500] | Iter [ 26/ 94] | Train Loss 0.0011
+Epoch [337/500] | Iter [ 43/ 94] | Train Loss 0.0011
+Epoch [337/500] | Iter [ 61/ 94] | Train Loss 0.0011
+Epoch [337/500] | Iter [ 79/ 94] | Train Loss 0.0011
+Epoch [337/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [338/500] | Iter [  3/ 94] | Train Loss 0.0012
+Epoch [338/500] | Iter [ 20/ 94] | Train Loss 0.0011
+Epoch [338/500] | Iter [ 38/ 94] | Train Loss 0.0010
+Epoch [338/500] | Iter [ 56/ 94] | Train Loss 0.0011
+Epoch [338/500] | Iter [ 73/ 94] | Train Loss 0.0011
+Epoch [338/500] | Iter [ 91/ 94] | Train Loss 0.0011
+Epoch [338/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [339/500] | Iter [ 15/ 94] | Train Loss 0.0011
+Epoch [339/500] | Iter [ 33/ 94] | Train Loss 0.0011
+Epoch [339/500] | Iter [ 50/ 94] | Train Loss 0.0010
+Epoch [339/500] | Iter [ 68/ 94] | Train Loss 0.0011
+Epoch [339/500] | Iter [ 85/ 94] | Train Loss 0.0011
+Epoch [339/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [340/500] | Iter [  9/ 94] | Train Loss 0.0011
+Epoch [340/500] | Iter [ 26/ 94] | Train Loss 0.0011
+Epoch [340/500] | Iter [ 44/ 94] | Train Loss 0.0011
+Epoch [340/500] | Iter [ 62/ 94] | Train Loss 0.0011
+Epoch [340/500] | Iter [ 79/ 94] | Train Loss 0.0011
+Epoch [340/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [341/500] | Iter [  2/ 94] | Train Loss 0.0012
+Epoch [341/500] | Iter [ 20/ 94] | Train Loss 0.0010
+Epoch [341/500] | Iter [ 38/ 94] | Train Loss 0.0010
+Epoch [341/500] | Iter [ 55/ 94] | Train Loss 0.0010
+Epoch [341/500] | Iter [ 73/ 94] | Train Loss 0.0010
+Epoch [341/500] | Iter [ 91/ 94] | Train Loss 0.0011
+Epoch [341/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [342/500] | Iter [ 14/ 94] | Train Loss 0.0010
+Epoch [342/500] | Iter [ 32/ 94] | Train Loss 0.0010
+Epoch [342/500] | Iter [ 50/ 94] | Train Loss 0.0010
+Epoch [342/500] | Iter [ 67/ 94] | Train Loss 0.0010
+Epoch [342/500] | Iter [ 85/ 94] | Train Loss 0.0010
+Epoch [342/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [343/500] | Iter [  7/ 94] | Train Loss 0.0010
+Epoch [343/500] | Iter [ 25/ 94] | Train Loss 0.0010
+Epoch [343/500] | Iter [ 43/ 94] | Train Loss 0.0010
+Epoch [343/500] | Iter [ 60/ 94] | Train Loss 0.0011
+Epoch [343/500] | Iter [ 78/ 94] | Train Loss 0.0011
+Epoch [343/500] | Iter [ 94/ 94] | Train Loss 0.0011
+Epoch [344/500] | Iter [  2/ 94] | Train Loss 0.0009
+Epoch [344/500] | Iter [ 19/ 94] | Train Loss 0.0010
+Epoch [344/500] | Iter [ 37/ 94] | Train Loss 0.0010
+Epoch [344/500] | Iter [ 55/ 94] | Train Loss 0.0010
+Epoch [344/500] | Iter [ 72/ 94] | Train Loss 0.0010
+Epoch [344/500] | Iter [ 90/ 94] | Train Loss 0.0010
+Epoch [344/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [345/500] | Iter [ 14/ 94] | Train Loss 0.0010
+Epoch [345/500] | Iter [ 31/ 94] | Train Loss 0.0010
+Epoch [345/500] | Iter [ 49/ 94] | Train Loss 0.0010
+Epoch [345/500] | Iter [ 66/ 94] | Train Loss 0.0010
+Epoch [345/500] | Iter [ 84/ 94] | Train Loss 0.0010
+Epoch [345/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [346/500] | Iter [  8/ 94] | Train Loss 0.0011
+Epoch [346/500] | Iter [ 26/ 94] | Train Loss 0.0011
+Epoch [346/500] | Iter [ 43/ 94] | Train Loss 0.0010
+Epoch [346/500] | Iter [ 61/ 94] | Train Loss 0.0010
+Epoch [346/500] | Iter [ 79/ 94] | Train Loss 0.0010
+Epoch [346/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [347/500] | Iter [  1/ 94] | Train Loss 0.0011
+Epoch [347/500] | Iter [ 19/ 94] | Train Loss 0.0010
+Epoch [347/500] | Iter [ 36/ 94] | Train Loss 0.0010
+Epoch [347/500] | Iter [ 54/ 94] | Train Loss 0.0010
+Epoch [347/500] | Iter [ 72/ 94] | Train Loss 0.0010
+Epoch [347/500] | Iter [ 89/ 94] | Train Loss 0.0010
+Epoch [347/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [348/500] | Iter [ 13/ 94] | Train Loss 0.0009
+Epoch [348/500] | Iter [ 30/ 94] | Train Loss 0.0010
+Epoch [348/500] | Iter [ 48/ 94] | Train Loss 0.0010
+Epoch [348/500] | Iter [ 66/ 94] | Train Loss 0.0010
+Epoch [348/500] | Iter [ 83/ 94] | Train Loss 0.0010
+Epoch [348/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [349/500] | Iter [  8/ 94] | Train Loss 0.0011
+Epoch [349/500] | Iter [ 26/ 94] | Train Loss 0.0010
+Epoch [349/500] | Iter [ 43/ 94] | Train Loss 0.0010
+Epoch [349/500] | Iter [ 61/ 94] | Train Loss 0.0010
+Epoch [349/500] | Iter [ 79/ 94] | Train Loss 0.0010
+Epoch [349/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [350/500] | Iter [  1/ 94] | Train Loss 0.0009
+Epoch [350/500] | Iter [ 19/ 94] | Train Loss 0.0010
+Epoch [350/500] | Iter [ 36/ 94] | Train Loss 0.0010
+Epoch [350/500] | Iter [ 54/ 94] | Train Loss 0.0010
+Epoch [350/500] | Iter [ 72/ 94] | Train Loss 0.0010
+Epoch [350/500] | Iter [ 89/ 94] | Train Loss 0.0010
+Epoch [350/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [351/500] | Iter [ 11/ 94] | Train Loss 0.0009
+Epoch [351/500] | Iter [ 29/ 94] | Train Loss 0.0010
+Epoch [351/500] | Iter [ 47/ 94] | Train Loss 0.0010
+Epoch [351/500] | Iter [ 64/ 94] | Train Loss 0.0010
+Epoch [351/500] | Iter [ 82/ 94] | Train Loss 0.0010
+Epoch [351/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [352/500] | Iter [  6/ 94] | Train Loss 0.0010
+Epoch [352/500] | Iter [ 23/ 94] | Train Loss 0.0010
+Epoch [352/500] | Iter [ 41/ 94] | Train Loss 0.0010
+Epoch [352/500] | Iter [ 59/ 94] | Train Loss 0.0010
+Epoch [352/500] | Iter [ 76/ 94] | Train Loss 0.0010
+Epoch [352/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [352/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [353/500] | Iter [ 17/ 94] | Train Loss 0.0010
+Epoch [353/500] | Iter [ 34/ 94] | Train Loss 0.0010
+Epoch [353/500] | Iter [ 52/ 94] | Train Loss 0.0010
+Epoch [353/500] | Iter [ 70/ 94] | Train Loss 0.0010
+Epoch [353/500] | Iter [ 87/ 94] | Train Loss 0.0010
+Epoch [353/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [354/500] | Iter [ 11/ 94] | Train Loss 0.0010
+Epoch [354/500] | Iter [ 28/ 94] | Train Loss 0.0010
+Epoch [354/500] | Iter [ 46/ 94] | Train Loss 0.0010
+Epoch [354/500] | Iter [ 64/ 94] | Train Loss 0.0010
+Epoch [354/500] | Iter [ 81/ 94] | Train Loss 0.0010
+Epoch [354/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [355/500] | Iter [  5/ 94] | Train Loss 0.0009
+Epoch [355/500] | Iter [ 23/ 94] | Train Loss 0.0010
+Epoch [355/500] | Iter [ 41/ 94] | Train Loss 0.0010
+Epoch [355/500] | Iter [ 58/ 94] | Train Loss 0.0010
+Epoch [355/500] | Iter [ 76/ 94] | Train Loss 0.0010
+Epoch [355/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [355/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [356/500] | Iter [ 17/ 94] | Train Loss 0.0010
+Epoch [356/500] | Iter [ 34/ 94] | Train Loss 0.0010
+Epoch [356/500] | Iter [ 52/ 94] | Train Loss 0.0010
+Epoch [356/500] | Iter [ 69/ 94] | Train Loss 0.0010
+Epoch [356/500] | Iter [ 87/ 94] | Train Loss 0.0010
+Epoch [356/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [357/500] | Iter [ 11/ 94] | Train Loss 0.0009
+Epoch [357/500] | Iter [ 28/ 94] | Train Loss 0.0009
+Epoch [357/500] | Iter [ 46/ 94] | Train Loss 0.0009
+Epoch [357/500] | Iter [ 63/ 94] | Train Loss 0.0009
+Epoch [357/500] | Iter [ 81/ 94] | Train Loss 0.0009
+Epoch [357/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [358/500] | Iter [  4/ 94] | Train Loss 0.0009
+Epoch [358/500] | Iter [ 22/ 94] | Train Loss 0.0010
+Epoch [358/500] | Iter [ 39/ 94] | Train Loss 0.0010
+Epoch [358/500] | Iter [ 57/ 94] | Train Loss 0.0010
+Epoch [358/500] | Iter [ 75/ 94] | Train Loss 0.0010
+Epoch [358/500] | Iter [ 92/ 94] | Train Loss 0.0010
+Epoch [358/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [359/500] | Iter [ 15/ 94] | Train Loss 0.0009
+Epoch [359/500] | Iter [ 32/ 94] | Train Loss 0.0009
+Epoch [359/500] | Iter [ 50/ 94] | Train Loss 0.0009
+Epoch [359/500] | Iter [ 67/ 94] | Train Loss 0.0009
+Epoch [359/500] | Iter [ 85/ 94] | Train Loss 0.0009
+Epoch [359/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [360/500] | Iter [  9/ 94] | Train Loss 0.0010
+Epoch [360/500] | Iter [ 26/ 94] | Train Loss 0.0009
+Epoch [360/500] | Iter [ 44/ 94] | Train Loss 0.0009
+Epoch [360/500] | Iter [ 61/ 94] | Train Loss 0.0009
+Epoch [360/500] | Iter [ 79/ 94] | Train Loss 0.0009
+Epoch [360/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [361/500] | Iter [  2/ 94] | Train Loss 0.0010
+Epoch [361/500] | Iter [ 19/ 94] | Train Loss 0.0010
+Epoch [361/500] | Iter [ 37/ 94] | Train Loss 0.0010
+Epoch [361/500] | Iter [ 55/ 94] | Train Loss 0.0010
+Epoch [361/500] | Iter [ 72/ 94] | Train Loss 0.0009
+Epoch [361/500] | Iter [ 90/ 94] | Train Loss 0.0010
+Epoch [361/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [362/500] | Iter [ 14/ 94] | Train Loss 0.0011
+Epoch [362/500] | Iter [ 32/ 94] | Train Loss 0.0010
+Epoch [362/500] | Iter [ 49/ 94] | Train Loss 0.0010
+Epoch [362/500] | Iter [ 67/ 94] | Train Loss 0.0010
+Epoch [362/500] | Iter [ 85/ 94] | Train Loss 0.0010
+Epoch [362/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [363/500] | Iter [  8/ 94] | Train Loss 0.0009
+Epoch [363/500] | Iter [ 26/ 94] | Train Loss 0.0009
+Epoch [363/500] | Iter [ 43/ 94] | Train Loss 0.0010
+Epoch [363/500] | Iter [ 61/ 94] | Train Loss 0.0010
+Epoch [363/500] | Iter [ 79/ 94] | Train Loss 0.0010
+Epoch [363/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [364/500] | Iter [  1/ 94] | Train Loss 0.0008
+Epoch [364/500] | Iter [ 19/ 94] | Train Loss 0.0010
+Epoch [364/500] | Iter [ 37/ 94] | Train Loss 0.0009
+Epoch [364/500] | Iter [ 54/ 94] | Train Loss 0.0009
+Epoch [364/500] | Iter [ 72/ 94] | Train Loss 0.0009
+Epoch [364/500] | Iter [ 89/ 94] | Train Loss 0.0009
+Epoch [364/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [365/500] | Iter [ 13/ 94] | Train Loss 0.0010
+Epoch [365/500] | Iter [ 31/ 94] | Train Loss 0.0010
+Epoch [365/500] | Iter [ 49/ 94] | Train Loss 0.0010
+Epoch [365/500] | Iter [ 66/ 94] | Train Loss 0.0010
+Epoch [365/500] | Iter [ 84/ 94] | Train Loss 0.0010
+Epoch [365/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [366/500] | Iter [  2/ 94] | Train Loss 0.0010
+Epoch [366/500] | Iter [ 20/ 94] | Train Loss 0.0010
+Epoch [366/500] | Iter [ 37/ 94] | Train Loss 0.0010
+Epoch [366/500] | Iter [ 55/ 94] | Train Loss 0.0009
+Epoch [366/500] | Iter [ 72/ 94] | Train Loss 0.0010
+Epoch [366/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [367/500] | Iter [  1/ 94] | Train Loss 0.0010
+Epoch [367/500] | Iter [ 18/ 94] | Train Loss 0.0009
+Epoch [367/500] | Iter [ 36/ 94] | Train Loss 0.0009
+Epoch [367/500] | Iter [ 53/ 94] | Train Loss 0.0010
+Epoch [367/500] | Iter [ 71/ 94] | Train Loss 0.0010
+Epoch [367/500] | Iter [ 89/ 94] | Train Loss 0.0010
+Epoch [367/500] | Iter [ 94/ 94] | Train Loss 0.0010
+Epoch [368/500] | Iter [ 13/ 94] | Train Loss 0.0009
+Epoch [368/500] | Iter [ 30/ 94] | Train Loss 0.0009
+Epoch [368/500] | Iter [ 48/ 94] | Train Loss 0.0009
+Epoch [368/500] | Iter [ 65/ 94] | Train Loss 0.0009
+Epoch [368/500] | Iter [ 83/ 94] | Train Loss 0.0009
+Epoch [368/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [369/500] | Iter [  2/ 94] | Train Loss 0.0008
+Epoch [369/500] | Iter [ 20/ 94] | Train Loss 0.0009
+Epoch [369/500] | Iter [ 37/ 94] | Train Loss 0.0009
+Epoch [369/500] | Iter [ 55/ 94] | Train Loss 0.0009
+Epoch [369/500] | Iter [ 73/ 94] | Train Loss 0.0009
+Epoch [369/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [369/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [370/500] | Iter [ 13/ 94] | Train Loss 0.0009
+Epoch [370/500] | Iter [ 31/ 94] | Train Loss 0.0009
+Epoch [370/500] | Iter [ 48/ 94] | Train Loss 0.0009
+Epoch [370/500] | Iter [ 66/ 94] | Train Loss 0.0009
+Epoch [370/500] | Iter [ 84/ 94] | Train Loss 0.0009
+Epoch [370/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [371/500] | Iter [  8/ 94] | Train Loss 0.0009
+Epoch [371/500] | Iter [ 26/ 94] | Train Loss 0.0009
+Epoch [371/500] | Iter [ 43/ 94] | Train Loss 0.0009
+Epoch [371/500] | Iter [ 61/ 94] | Train Loss 0.0009
+Epoch [371/500] | Iter [ 79/ 94] | Train Loss 0.0009
+Epoch [371/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [372/500] | Iter [  1/ 94] | Train Loss 0.0008
+Epoch [372/500] | Iter [ 18/ 94] | Train Loss 0.0008
+Epoch [372/500] | Iter [ 36/ 94] | Train Loss 0.0009
+Epoch [372/500] | Iter [ 53/ 94] | Train Loss 0.0009
+Epoch [372/500] | Iter [ 71/ 94] | Train Loss 0.0009
+Epoch [372/500] | Iter [ 89/ 94] | Train Loss 0.0009
+Epoch [372/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [373/500] | Iter [ 12/ 94] | Train Loss 0.0009
+Epoch [373/500] | Iter [ 30/ 94] | Train Loss 0.0009
+Epoch [373/500] | Iter [ 48/ 94] | Train Loss 0.0009
+Epoch [373/500] | Iter [ 65/ 94] | Train Loss 0.0009
+Epoch [373/500] | Iter [ 83/ 94] | Train Loss 0.0009
+Epoch [373/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [374/500] | Iter [  6/ 94] | Train Loss 0.0009
+Epoch [374/500] | Iter [ 24/ 94] | Train Loss 0.0009
+Epoch [374/500] | Iter [ 41/ 94] | Train Loss 0.0009
+Epoch [374/500] | Iter [ 59/ 94] | Train Loss 0.0009
+Epoch [374/500] | Iter [ 77/ 94] | Train Loss 0.0009
+Epoch [374/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [374/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [375/500] | Iter [ 18/ 94] | Train Loss 0.0009
+Epoch [375/500] | Iter [ 35/ 94] | Train Loss 0.0009
+Epoch [375/500] | Iter [ 53/ 94] | Train Loss 0.0009
+Epoch [375/500] | Iter [ 71/ 94] | Train Loss 0.0009
+Epoch [375/500] | Iter [ 88/ 94] | Train Loss 0.0009
+Epoch [375/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [376/500] | Iter [ 10/ 94] | Train Loss 0.0008
+Epoch [376/500] | Iter [ 28/ 94] | Train Loss 0.0008
+Epoch [376/500] | Iter [ 45/ 94] | Train Loss 0.0009
+Epoch [376/500] | Iter [ 63/ 94] | Train Loss 0.0009
+Epoch [376/500] | Iter [ 81/ 94] | Train Loss 0.0009
+Epoch [376/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [377/500] | Iter [  5/ 94] | Train Loss 0.0009
+Epoch [377/500] | Iter [ 23/ 94] | Train Loss 0.0010
+Epoch [377/500] | Iter [ 40/ 94] | Train Loss 0.0010
+Epoch [377/500] | Iter [ 58/ 94] | Train Loss 0.0009
+Epoch [377/500] | Iter [ 76/ 94] | Train Loss 0.0009
+Epoch [377/500] | Iter [ 93/ 94] | Train Loss 0.0009
+Epoch [377/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [378/500] | Iter [ 17/ 94] | Train Loss 0.0009
+Epoch [378/500] | Iter [ 35/ 94] | Train Loss 0.0009
+Epoch [378/500] | Iter [ 52/ 94] | Train Loss 0.0009
+Epoch [378/500] | Iter [ 70/ 94] | Train Loss 0.0009
+Epoch [378/500] | Iter [ 87/ 94] | Train Loss 0.0009
+Epoch [378/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [379/500] | Iter [  9/ 94] | Train Loss 0.0008
+Epoch [379/500] | Iter [ 27/ 94] | Train Loss 0.0009
+Epoch [379/500] | Iter [ 44/ 94] | Train Loss 0.0009
+Epoch [379/500] | Iter [ 62/ 94] | Train Loss 0.0009
+Epoch [379/500] | Iter [ 79/ 94] | Train Loss 0.0009
+Epoch [379/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [380/500] | Iter [  4/ 94] | Train Loss 0.0009
+Epoch [380/500] | Iter [ 21/ 94] | Train Loss 0.0009
+Epoch [380/500] | Iter [ 39/ 94] | Train Loss 0.0009
+Epoch [380/500] | Iter [ 56/ 94] | Train Loss 0.0009
+Epoch [380/500] | Iter [ 74/ 94] | Train Loss 0.0009
+Epoch [380/500] | Iter [ 92/ 94] | Train Loss 0.0009
+Epoch [380/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [381/500] | Iter [ 15/ 94] | Train Loss 0.0009
+Epoch [381/500] | Iter [ 33/ 94] | Train Loss 0.0009
+Epoch [381/500] | Iter [ 50/ 94] | Train Loss 0.0009
+Epoch [381/500] | Iter [ 68/ 94] | Train Loss 0.0009
+Epoch [381/500] | Iter [ 85/ 94] | Train Loss 0.0009
+Epoch [381/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [382/500] | Iter [  8/ 94] | Train Loss 0.0008
+Epoch [382/500] | Iter [ 26/ 94] | Train Loss 0.0009
+Epoch [382/500] | Iter [ 44/ 94] | Train Loss 0.0008
+Epoch [382/500] | Iter [ 61/ 94] | Train Loss 0.0009
+Epoch [382/500] | Iter [ 79/ 94] | Train Loss 0.0009
+Epoch [382/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [382/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [383/500] | Iter [ 18/ 94] | Train Loss 0.0008
+Epoch [383/500] | Iter [ 36/ 94] | Train Loss 0.0008
+Epoch [383/500] | Iter [ 53/ 94] | Train Loss 0.0008
+Epoch [383/500] | Iter [ 71/ 94] | Train Loss 0.0008
+Epoch [383/500] | Iter [ 88/ 94] | Train Loss 0.0009
+Epoch [383/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [384/500] | Iter [ 13/ 94] | Train Loss 0.0009
+Epoch [384/500] | Iter [ 30/ 94] | Train Loss 0.0009
+Epoch [384/500] | Iter [ 48/ 94] | Train Loss 0.0009
+Epoch [384/500] | Iter [ 65/ 94] | Train Loss 0.0009
+Epoch [384/500] | Iter [ 83/ 94] | Train Loss 0.0009
+Epoch [384/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [385/500] | Iter [  7/ 94] | Train Loss 0.0009
+Epoch [385/500] | Iter [ 25/ 94] | Train Loss 0.0008
+Epoch [385/500] | Iter [ 42/ 94] | Train Loss 0.0009
+Epoch [385/500] | Iter [ 60/ 94] | Train Loss 0.0009
+Epoch [385/500] | Iter [ 78/ 94] | Train Loss 0.0009
+Epoch [385/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [386/500] | Iter [  1/ 94] | Train Loss 0.0008
+Epoch [386/500] | Iter [ 18/ 94] | Train Loss 0.0008
+Epoch [386/500] | Iter [ 36/ 94] | Train Loss 0.0008
+Epoch [386/500] | Iter [ 53/ 94] | Train Loss 0.0008
+Epoch [386/500] | Iter [ 71/ 94] | Train Loss 0.0008
+Epoch [386/500] | Iter [ 89/ 94] | Train Loss 0.0009
+Epoch [386/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [387/500] | Iter [ 13/ 94] | Train Loss 0.0008
+Epoch [387/500] | Iter [ 30/ 94] | Train Loss 0.0008
+Epoch [387/500] | Iter [ 48/ 94] | Train Loss 0.0008
+Epoch [387/500] | Iter [ 65/ 94] | Train Loss 0.0008
+Epoch [387/500] | Iter [ 83/ 94] | Train Loss 0.0008
+Epoch [387/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [388/500] | Iter [  7/ 94] | Train Loss 0.0008
+Epoch [388/500] | Iter [ 25/ 94] | Train Loss 0.0008
+Epoch [388/500] | Iter [ 42/ 94] | Train Loss 0.0008
+Epoch [388/500] | Iter [ 60/ 94] | Train Loss 0.0008
+Epoch [388/500] | Iter [ 78/ 94] | Train Loss 0.0008
+Epoch [388/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [389/500] | Iter [  1/ 94] | Train Loss 0.0008
+Epoch [389/500] | Iter [ 19/ 94] | Train Loss 0.0008
+Epoch [389/500] | Iter [ 36/ 94] | Train Loss 0.0009
+Epoch [389/500] | Iter [ 54/ 94] | Train Loss 0.0009
+Epoch [389/500] | Iter [ 72/ 94] | Train Loss 0.0009
+Epoch [389/500] | Iter [ 89/ 94] | Train Loss 0.0009
+Epoch [389/500] | Iter [ 94/ 94] | Train Loss 0.0009
+Epoch [390/500] | Iter [ 12/ 94] | Train Loss 0.0008
+Epoch [390/500] | Iter [ 30/ 94] | Train Loss 0.0009
+Epoch [390/500] | Iter [ 47/ 94] | Train Loss 0.0009
+Epoch [390/500] | Iter [ 65/ 94] | Train Loss 0.0009
+Epoch [390/500] | Iter [ 83/ 94] | Train Loss 0.0008
+Epoch [390/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [391/500] | Iter [  6/ 94] | Train Loss 0.0008
+Epoch [391/500] | Iter [ 24/ 94] | Train Loss 0.0008
+Epoch [391/500] | Iter [ 42/ 94] | Train Loss 0.0008
+Epoch [391/500] | Iter [ 59/ 94] | Train Loss 0.0008
+Epoch [391/500] | Iter [ 77/ 94] | Train Loss 0.0008
+Epoch [391/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [391/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [392/500] | Iter [ 17/ 94] | Train Loss 0.0008
+Epoch [392/500] | Iter [ 35/ 94] | Train Loss 0.0008
+Epoch [392/500] | Iter [ 53/ 94] | Train Loss 0.0008
+Epoch [392/500] | Iter [ 70/ 94] | Train Loss 0.0008
+Epoch [392/500] | Iter [ 88/ 94] | Train Loss 0.0008
+Epoch [392/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [393/500] | Iter [ 11/ 94] | Train Loss 0.0008
+Epoch [393/500] | Iter [ 28/ 94] | Train Loss 0.0008
+Epoch [393/500] | Iter [ 46/ 94] | Train Loss 0.0008
+Epoch [393/500] | Iter [ 63/ 94] | Train Loss 0.0008
+Epoch [393/500] | Iter [ 81/ 94] | Train Loss 0.0008
+Epoch [393/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [393/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [394/500] | Iter [ 16/ 94] | Train Loss 0.0008
+Epoch [394/500] | Iter [ 33/ 94] | Train Loss 0.0008
+Epoch [394/500] | Iter [ 51/ 94] | Train Loss 0.0008
+Epoch [394/500] | Iter [ 68/ 94] | Train Loss 0.0008
+Epoch [394/500] | Iter [ 86/ 94] | Train Loss 0.0008
+Epoch [394/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [395/500] | Iter [ 10/ 94] | Train Loss 0.0009
+Epoch [395/500] | Iter [ 27/ 94] | Train Loss 0.0008
+Epoch [395/500] | Iter [ 45/ 94] | Train Loss 0.0008
+Epoch [395/500] | Iter [ 62/ 94] | Train Loss 0.0008
+Epoch [395/500] | Iter [ 80/ 94] | Train Loss 0.0008
+Epoch [395/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [395/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [396/500] | Iter [ 18/ 94] | Train Loss 0.0008
+Epoch [396/500] | Iter [ 35/ 94] | Train Loss 0.0008
+Epoch [396/500] | Iter [ 53/ 94] | Train Loss 0.0008
+Epoch [396/500] | Iter [ 71/ 94] | Train Loss 0.0008
+Epoch [396/500] | Iter [ 88/ 94] | Train Loss 0.0008
+Epoch [396/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [397/500] | Iter [ 12/ 94] | Train Loss 0.0009
+Epoch [397/500] | Iter [ 30/ 94] | Train Loss 0.0009
+Epoch [397/500] | Iter [ 47/ 94] | Train Loss 0.0008
+Epoch [397/500] | Iter [ 65/ 94] | Train Loss 0.0008
+Epoch [397/500] | Iter [ 83/ 94] | Train Loss 0.0008
+Epoch [397/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [398/500] | Iter [  5/ 94] | Train Loss 0.0007
+Epoch [398/500] | Iter [ 22/ 94] | Train Loss 0.0008
+Epoch [398/500] | Iter [ 40/ 94] | Train Loss 0.0008
+Epoch [398/500] | Iter [ 58/ 94] | Train Loss 0.0008
+Epoch [398/500] | Iter [ 75/ 94] | Train Loss 0.0008
+Epoch [398/500] | Iter [ 93/ 94] | Train Loss 0.0008
+Epoch [398/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [399/500] | Iter [ 17/ 94] | Train Loss 0.0008
+Epoch [399/500] | Iter [ 34/ 94] | Train Loss 0.0008
+Epoch [399/500] | Iter [ 52/ 94] | Train Loss 0.0008
+Epoch [399/500] | Iter [ 70/ 94] | Train Loss 0.0008
+Epoch [399/500] | Iter [ 87/ 94] | Train Loss 0.0008
+Epoch [399/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [400/500] | Iter [ 11/ 94] | Train Loss 0.0008
+Epoch [400/500] | Iter [ 29/ 94] | Train Loss 0.0008
+Epoch [400/500] | Iter [ 47/ 94] | Train Loss 0.0008
+Epoch [400/500] | Iter [ 64/ 94] | Train Loss 0.0008
+Epoch [400/500] | Iter [ 82/ 94] | Train Loss 0.0008
+Epoch [400/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [401/500] | Iter [  6/ 94] | Train Loss 0.0007
+Epoch [401/500] | Iter [ 23/ 94] | Train Loss 0.0008
+Epoch [401/500] | Iter [ 41/ 94] | Train Loss 0.0008
+Epoch [401/500] | Iter [ 58/ 94] | Train Loss 0.0008
+Epoch [401/500] | Iter [ 76/ 94] | Train Loss 0.0008
+Epoch [401/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [401/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [402/500] | Iter [ 17/ 94] | Train Loss 0.0009
+Epoch [402/500] | Iter [ 35/ 94] | Train Loss 0.0008
+Epoch [402/500] | Iter [ 52/ 94] | Train Loss 0.0008
+Epoch [402/500] | Iter [ 70/ 94] | Train Loss 0.0008
+Epoch [402/500] | Iter [ 87/ 94] | Train Loss 0.0008
+Epoch [402/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [403/500] | Iter [ 10/ 94] | Train Loss 0.0008
+Epoch [403/500] | Iter [ 27/ 94] | Train Loss 0.0008
+Epoch [403/500] | Iter [ 45/ 94] | Train Loss 0.0008
+Epoch [403/500] | Iter [ 62/ 94] | Train Loss 0.0008
+Epoch [403/500] | Iter [ 80/ 94] | Train Loss 0.0008
+Epoch [403/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [404/500] | Iter [  3/ 94] | Train Loss 0.0008
+Epoch [404/500] | Iter [ 20/ 94] | Train Loss 0.0008
+Epoch [404/500] | Iter [ 38/ 94] | Train Loss 0.0008
+Epoch [404/500] | Iter [ 56/ 94] | Train Loss 0.0008
+Epoch [404/500] | Iter [ 73/ 94] | Train Loss 0.0008
+Epoch [404/500] | Iter [ 91/ 94] | Train Loss 0.0008
+Epoch [404/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [405/500] | Iter [ 14/ 94] | Train Loss 0.0008
+Epoch [405/500] | Iter [ 32/ 94] | Train Loss 0.0008
+Epoch [405/500] | Iter [ 49/ 94] | Train Loss 0.0008
+Epoch [405/500] | Iter [ 67/ 94] | Train Loss 0.0008
+Epoch [405/500] | Iter [ 85/ 94] | Train Loss 0.0008
+Epoch [405/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [406/500] | Iter [  9/ 94] | Train Loss 0.0008
+Epoch [406/500] | Iter [ 26/ 94] | Train Loss 0.0008
+Epoch [406/500] | Iter [ 44/ 94] | Train Loss 0.0008
+Epoch [406/500] | Iter [ 61/ 94] | Train Loss 0.0008
+Epoch [406/500] | Iter [ 79/ 94] | Train Loss 0.0008
+Epoch [406/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [407/500] | Iter [  1/ 94] | Train Loss 0.0009
+Epoch [407/500] | Iter [ 19/ 94] | Train Loss 0.0008
+Epoch [407/500] | Iter [ 36/ 94] | Train Loss 0.0008
+Epoch [407/500] | Iter [ 54/ 94] | Train Loss 0.0008
+Epoch [407/500] | Iter [ 72/ 94] | Train Loss 0.0008
+Epoch [407/500] | Iter [ 89/ 94] | Train Loss 0.0008
+Epoch [407/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [408/500] | Iter [ 13/ 94] | Train Loss 0.0008
+Epoch [408/500] | Iter [ 31/ 94] | Train Loss 0.0008
+Epoch [408/500] | Iter [ 48/ 94] | Train Loss 0.0008
+Epoch [408/500] | Iter [ 66/ 94] | Train Loss 0.0008
+Epoch [408/500] | Iter [ 83/ 94] | Train Loss 0.0008
+Epoch [408/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [409/500] | Iter [  7/ 94] | Train Loss 0.0008
+Epoch [409/500] | Iter [ 25/ 94] | Train Loss 0.0008
+Epoch [409/500] | Iter [ 42/ 94] | Train Loss 0.0008
+Epoch [409/500] | Iter [ 60/ 94] | Train Loss 0.0008
+Epoch [409/500] | Iter [ 78/ 94] | Train Loss 0.0008
+Epoch [409/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [410/500] | Iter [  2/ 94] | Train Loss 0.0009
+Epoch [410/500] | Iter [ 20/ 94] | Train Loss 0.0008
+Epoch [410/500] | Iter [ 37/ 94] | Train Loss 0.0008
+Epoch [410/500] | Iter [ 55/ 94] | Train Loss 0.0008
+Epoch [410/500] | Iter [ 72/ 94] | Train Loss 0.0008
+Epoch [410/500] | Iter [ 90/ 94] | Train Loss 0.0008
+Epoch [410/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [411/500] | Iter [ 14/ 94] | Train Loss 0.0008
+Epoch [411/500] | Iter [ 31/ 94] | Train Loss 0.0008
+Epoch [411/500] | Iter [ 49/ 94] | Train Loss 0.0008
+Epoch [411/500] | Iter [ 67/ 94] | Train Loss 0.0008
+Epoch [411/500] | Iter [ 84/ 94] | Train Loss 0.0008
+Epoch [411/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [412/500] | Iter [  8/ 94] | Train Loss 0.0008
+Epoch [412/500] | Iter [ 26/ 94] | Train Loss 0.0008
+Epoch [412/500] | Iter [ 43/ 94] | Train Loss 0.0008
+Epoch [412/500] | Iter [ 61/ 94] | Train Loss 0.0008
+Epoch [412/500] | Iter [ 78/ 94] | Train Loss 0.0008
+Epoch [412/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [413/500] | Iter [  2/ 94] | Train Loss 0.0007
+Epoch [413/500] | Iter [ 20/ 94] | Train Loss 0.0008
+Epoch [413/500] | Iter [ 37/ 94] | Train Loss 0.0008
+Epoch [413/500] | Iter [ 55/ 94] | Train Loss 0.0008
+Epoch [413/500] | Iter [ 72/ 94] | Train Loss 0.0008
+Epoch [413/500] | Iter [ 90/ 94] | Train Loss 0.0008
+Epoch [413/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [414/500] | Iter [ 13/ 94] | Train Loss 0.0008
+Epoch [414/500] | Iter [ 31/ 94] | Train Loss 0.0008
+Epoch [414/500] | Iter [ 49/ 94] | Train Loss 0.0008
+Epoch [414/500] | Iter [ 66/ 94] | Train Loss 0.0008
+Epoch [414/500] | Iter [ 84/ 94] | Train Loss 0.0008
+Epoch [414/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [415/500] | Iter [  8/ 94] | Train Loss 0.0007
+Epoch [415/500] | Iter [ 26/ 94] | Train Loss 0.0007
+Epoch [415/500] | Iter [ 43/ 94] | Train Loss 0.0007
+Epoch [415/500] | Iter [ 61/ 94] | Train Loss 0.0007
+Epoch [415/500] | Iter [ 79/ 94] | Train Loss 0.0007
+Epoch [415/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [416/500] | Iter [  2/ 94] | Train Loss 0.0008
+Epoch [416/500] | Iter [ 20/ 94] | Train Loss 0.0008
+Epoch [416/500] | Iter [ 38/ 94] | Train Loss 0.0008
+Epoch [416/500] | Iter [ 55/ 94] | Train Loss 0.0007
+Epoch [416/500] | Iter [ 73/ 94] | Train Loss 0.0008
+Epoch [416/500] | Iter [ 90/ 94] | Train Loss 0.0007
+Epoch [416/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [417/500] | Iter [ 15/ 94] | Train Loss 0.0007
+Epoch [417/500] | Iter [ 32/ 94] | Train Loss 0.0007
+Epoch [417/500] | Iter [ 50/ 94] | Train Loss 0.0007
+Epoch [417/500] | Iter [ 68/ 94] | Train Loss 0.0007
+Epoch [417/500] | Iter [ 85/ 94] | Train Loss 0.0007
+Epoch [417/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [418/500] | Iter [  8/ 94] | Train Loss 0.0008
+Epoch [418/500] | Iter [ 25/ 94] | Train Loss 0.0008
+Epoch [418/500] | Iter [ 43/ 94] | Train Loss 0.0008
+Epoch [418/500] | Iter [ 61/ 94] | Train Loss 0.0008
+Epoch [418/500] | Iter [ 78/ 94] | Train Loss 0.0008
+Epoch [418/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [419/500] | Iter [  2/ 94] | Train Loss 0.0007
+Epoch [419/500] | Iter [ 19/ 94] | Train Loss 0.0008
+Epoch [419/500] | Iter [ 37/ 94] | Train Loss 0.0008
+Epoch [419/500] | Iter [ 54/ 94] | Train Loss 0.0008
+Epoch [419/500] | Iter [ 72/ 94] | Train Loss 0.0008
+Epoch [419/500] | Iter [ 90/ 94] | Train Loss 0.0008
+Epoch [419/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [420/500] | Iter [ 13/ 94] | Train Loss 0.0008
+Epoch [420/500] | Iter [ 31/ 94] | Train Loss 0.0007
+Epoch [420/500] | Iter [ 49/ 94] | Train Loss 0.0007
+Epoch [420/500] | Iter [ 66/ 94] | Train Loss 0.0008
+Epoch [420/500] | Iter [ 84/ 94] | Train Loss 0.0008
+Epoch [420/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [421/500] | Iter [  8/ 94] | Train Loss 0.0007
+Epoch [421/500] | Iter [ 26/ 94] | Train Loss 0.0007
+Epoch [421/500] | Iter [ 43/ 94] | Train Loss 0.0008
+Epoch [421/500] | Iter [ 61/ 94] | Train Loss 0.0007
+Epoch [421/500] | Iter [ 78/ 94] | Train Loss 0.0007
+Epoch [421/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [422/500] | Iter [  2/ 94] | Train Loss 0.0008
+Epoch [422/500] | Iter [ 20/ 94] | Train Loss 0.0008
+Epoch [422/500] | Iter [ 37/ 94] | Train Loss 0.0008
+Epoch [422/500] | Iter [ 55/ 94] | Train Loss 0.0008
+Epoch [422/500] | Iter [ 73/ 94] | Train Loss 0.0008
+Epoch [422/500] | Iter [ 90/ 94] | Train Loss 0.0008
+Epoch [422/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [423/500] | Iter [ 14/ 94] | Train Loss 0.0007
+Epoch [423/500] | Iter [ 31/ 94] | Train Loss 0.0008
+Epoch [423/500] | Iter [ 49/ 94] | Train Loss 0.0008
+Epoch [423/500] | Iter [ 67/ 94] | Train Loss 0.0008
+Epoch [423/500] | Iter [ 84/ 94] | Train Loss 0.0008
+Epoch [423/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [424/500] | Iter [  7/ 94] | Train Loss 0.0009
+Epoch [424/500] | Iter [ 25/ 94] | Train Loss 0.0008
+Epoch [424/500] | Iter [ 43/ 94] | Train Loss 0.0007
+Epoch [424/500] | Iter [ 60/ 94] | Train Loss 0.0008
+Epoch [424/500] | Iter [ 78/ 94] | Train Loss 0.0007
+Epoch [424/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [424/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [425/500] | Iter [ 13/ 94] | Train Loss 0.0007
+Epoch [425/500] | Iter [ 31/ 94] | Train Loss 0.0007
+Epoch [425/500] | Iter [ 48/ 94] | Train Loss 0.0007
+Epoch [425/500] | Iter [ 66/ 94] | Train Loss 0.0007
+Epoch [425/500] | Iter [ 84/ 94] | Train Loss 0.0008
+Epoch [425/500] | Iter [ 94/ 94] | Train Loss 0.0008
+Epoch [426/500] | Iter [  8/ 94] | Train Loss 0.0007
+Epoch [426/500] | Iter [ 25/ 94] | Train Loss 0.0007
+Epoch [426/500] | Iter [ 43/ 94] | Train Loss 0.0007
+Epoch [426/500] | Iter [ 61/ 94] | Train Loss 0.0007
+Epoch [426/500] | Iter [ 78/ 94] | Train Loss 0.0007
+Epoch [426/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [427/500] | Iter [  2/ 94] | Train Loss 0.0007
+Epoch [427/500] | Iter [ 19/ 94] | Train Loss 0.0007
+Epoch [427/500] | Iter [ 37/ 94] | Train Loss 0.0008
+Epoch [427/500] | Iter [ 55/ 94] | Train Loss 0.0008
+Epoch [427/500] | Iter [ 72/ 94] | Train Loss 0.0007
+Epoch [427/500] | Iter [ 90/ 94] | Train Loss 0.0007
+Epoch [427/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [428/500] | Iter [  9/ 94] | Train Loss 0.0007
+Epoch [428/500] | Iter [ 27/ 94] | Train Loss 0.0007
+Epoch [428/500] | Iter [ 44/ 94] | Train Loss 0.0007
+Epoch [428/500] | Iter [ 62/ 94] | Train Loss 0.0007
+Epoch [428/500] | Iter [ 79/ 94] | Train Loss 0.0007
+Epoch [428/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [429/500] | Iter [  3/ 94] | Train Loss 0.0007
+Epoch [429/500] | Iter [ 21/ 94] | Train Loss 0.0007
+Epoch [429/500] | Iter [ 38/ 94] | Train Loss 0.0007
+Epoch [429/500] | Iter [ 56/ 94] | Train Loss 0.0007
+Epoch [429/500] | Iter [ 74/ 94] | Train Loss 0.0007
+Epoch [429/500] | Iter [ 91/ 94] | Train Loss 0.0007
+Epoch [429/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [430/500] | Iter [ 15/ 94] | Train Loss 0.0008
+Epoch [430/500] | Iter [ 33/ 94] | Train Loss 0.0007
+Epoch [430/500] | Iter [ 51/ 94] | Train Loss 0.0007
+Epoch [430/500] | Iter [ 68/ 94] | Train Loss 0.0007
+Epoch [430/500] | Iter [ 86/ 94] | Train Loss 0.0007
+Epoch [430/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [431/500] | Iter [  9/ 94] | Train Loss 0.0007
+Epoch [431/500] | Iter [ 27/ 94] | Train Loss 0.0007
+Epoch [431/500] | Iter [ 45/ 94] | Train Loss 0.0007
+Epoch [431/500] | Iter [ 62/ 94] | Train Loss 0.0007
+Epoch [431/500] | Iter [ 80/ 94] | Train Loss 0.0007
+Epoch [431/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [432/500] | Iter [  3/ 94] | Train Loss 0.0007
+Epoch [432/500] | Iter [ 21/ 94] | Train Loss 0.0007
+Epoch [432/500] | Iter [ 38/ 94] | Train Loss 0.0007
+Epoch [432/500] | Iter [ 56/ 94] | Train Loss 0.0007
+Epoch [432/500] | Iter [ 74/ 94] | Train Loss 0.0007
+Epoch [432/500] | Iter [ 91/ 94] | Train Loss 0.0007
+Epoch [432/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [433/500] | Iter [ 15/ 94] | Train Loss 0.0007
+Epoch [433/500] | Iter [ 32/ 94] | Train Loss 0.0008
+Epoch [433/500] | Iter [ 50/ 94] | Train Loss 0.0008
+Epoch [433/500] | Iter [ 67/ 94] | Train Loss 0.0008
+Epoch [433/500] | Iter [ 85/ 94] | Train Loss 0.0007
+Epoch [433/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [434/500] | Iter [  9/ 94] | Train Loss 0.0007
+Epoch [434/500] | Iter [ 27/ 94] | Train Loss 0.0007
+Epoch [434/500] | Iter [ 44/ 94] | Train Loss 0.0007
+Epoch [434/500] | Iter [ 62/ 94] | Train Loss 0.0007
+Epoch [434/500] | Iter [ 80/ 94] | Train Loss 0.0007
+Epoch [434/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [435/500] | Iter [  3/ 94] | Train Loss 0.0008
+Epoch [435/500] | Iter [ 20/ 94] | Train Loss 0.0007
+Epoch [435/500] | Iter [ 38/ 94] | Train Loss 0.0007
+Epoch [435/500] | Iter [ 55/ 94] | Train Loss 0.0007
+Epoch [435/500] | Iter [ 73/ 94] | Train Loss 0.0007
+Epoch [435/500] | Iter [ 91/ 94] | Train Loss 0.0007
+Epoch [435/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [436/500] | Iter [ 13/ 94] | Train Loss 0.0007
+Epoch [436/500] | Iter [ 31/ 94] | Train Loss 0.0007
+Epoch [436/500] | Iter [ 48/ 94] | Train Loss 0.0007
+Epoch [436/500] | Iter [ 66/ 94] | Train Loss 0.0007
+Epoch [436/500] | Iter [ 83/ 94] | Train Loss 0.0007
+Epoch [436/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [437/500] | Iter [  7/ 94] | Train Loss 0.0007
+Epoch [437/500] | Iter [ 24/ 94] | Train Loss 0.0007
+Epoch [437/500] | Iter [ 42/ 94] | Train Loss 0.0007
+Epoch [437/500] | Iter [ 59/ 94] | Train Loss 0.0007
+Epoch [437/500] | Iter [ 77/ 94] | Train Loss 0.0007
+Epoch [437/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [438/500] | Iter [  1/ 94] | Train Loss 0.0009
+Epoch [438/500] | Iter [ 18/ 94] | Train Loss 0.0007
+Epoch [438/500] | Iter [ 36/ 94] | Train Loss 0.0007
+Epoch [438/500] | Iter [ 54/ 94] | Train Loss 0.0007
+Epoch [438/500] | Iter [ 71/ 94] | Train Loss 0.0007
+Epoch [438/500] | Iter [ 89/ 94] | Train Loss 0.0007
+Epoch [438/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [439/500] | Iter [ 13/ 94] | Train Loss 0.0007
+Epoch [439/500] | Iter [ 30/ 94] | Train Loss 0.0007
+Epoch [439/500] | Iter [ 48/ 94] | Train Loss 0.0007
+Epoch [439/500] | Iter [ 65/ 94] | Train Loss 0.0007
+Epoch [439/500] | Iter [ 83/ 94] | Train Loss 0.0007
+Epoch [439/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [440/500] | Iter [  6/ 94] | Train Loss 0.0007
+Epoch [440/500] | Iter [ 23/ 94] | Train Loss 0.0007
+Epoch [440/500] | Iter [ 41/ 94] | Train Loss 0.0007
+Epoch [440/500] | Iter [ 59/ 94] | Train Loss 0.0007
+Epoch [440/500] | Iter [ 76/ 94] | Train Loss 0.0007
+Epoch [440/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [440/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [441/500] | Iter [ 18/ 94] | Train Loss 0.0007
+Epoch [441/500] | Iter [ 36/ 94] | Train Loss 0.0007
+Epoch [441/500] | Iter [ 53/ 94] | Train Loss 0.0007
+Epoch [441/500] | Iter [ 71/ 94] | Train Loss 0.0007
+Epoch [441/500] | Iter [ 88/ 94] | Train Loss 0.0007
+Epoch [441/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [442/500] | Iter [ 13/ 94] | Train Loss 0.0007
+Epoch [442/500] | Iter [ 30/ 94] | Train Loss 0.0007
+Epoch [442/500] | Iter [ 48/ 94] | Train Loss 0.0007
+Epoch [442/500] | Iter [ 65/ 94] | Train Loss 0.0007
+Epoch [442/500] | Iter [ 83/ 94] | Train Loss 0.0007
+Epoch [442/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [443/500] | Iter [  7/ 94] | Train Loss 0.0007
+Epoch [443/500] | Iter [ 25/ 94] | Train Loss 0.0007
+Epoch [443/500] | Iter [ 42/ 94] | Train Loss 0.0007
+Epoch [443/500] | Iter [ 60/ 94] | Train Loss 0.0007
+Epoch [443/500] | Iter [ 78/ 94] | Train Loss 0.0007
+Epoch [443/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [444/500] | Iter [  1/ 94] | Train Loss 0.0006
+Epoch [444/500] | Iter [ 18/ 94] | Train Loss 0.0007
+Epoch [444/500] | Iter [ 36/ 94] | Train Loss 0.0007
+Epoch [444/500] | Iter [ 54/ 94] | Train Loss 0.0007
+Epoch [444/500] | Iter [ 71/ 94] | Train Loss 0.0007
+Epoch [444/500] | Iter [ 89/ 94] | Train Loss 0.0007
+Epoch [444/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [445/500] | Iter [ 13/ 94] | Train Loss 0.0007
+Epoch [445/500] | Iter [ 30/ 94] | Train Loss 0.0007
+Epoch [445/500] | Iter [ 48/ 94] | Train Loss 0.0007
+Epoch [445/500] | Iter [ 65/ 94] | Train Loss 0.0007
+Epoch [445/500] | Iter [ 83/ 94] | Train Loss 0.0007
+Epoch [445/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [446/500] | Iter [  5/ 94] | Train Loss 0.0007
+Epoch [446/500] | Iter [ 23/ 94] | Train Loss 0.0007
+Epoch [446/500] | Iter [ 41/ 94] | Train Loss 0.0007
+Epoch [446/500] | Iter [ 58/ 94] | Train Loss 0.0007
+Epoch [446/500] | Iter [ 76/ 94] | Train Loss 0.0007
+Epoch [446/500] | Iter [ 93/ 94] | Train Loss 0.0007
+Epoch [446/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [447/500] | Iter [ 15/ 94] | Train Loss 0.0007
+Epoch [447/500] | Iter [ 33/ 94] | Train Loss 0.0007
+Epoch [447/500] | Iter [ 50/ 94] | Train Loss 0.0007
+Epoch [447/500] | Iter [ 68/ 94] | Train Loss 0.0007
+Epoch [447/500] | Iter [ 86/ 94] | Train Loss 0.0007
+Epoch [447/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [448/500] | Iter [  9/ 94] | Train Loss 0.0007
+Epoch [448/500] | Iter [ 27/ 94] | Train Loss 0.0007
+Epoch [448/500] | Iter [ 45/ 94] | Train Loss 0.0007
+Epoch [448/500] | Iter [ 62/ 94] | Train Loss 0.0007
+Epoch [448/500] | Iter [ 80/ 94] | Train Loss 0.0007
+Epoch [448/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [449/500] | Iter [  4/ 94] | Train Loss 0.0006
+Epoch [449/500] | Iter [ 21/ 94] | Train Loss 0.0007
+Epoch [449/500] | Iter [ 39/ 94] | Train Loss 0.0007
+Epoch [449/500] | Iter [ 57/ 94] | Train Loss 0.0007
+Epoch [449/500] | Iter [ 74/ 94] | Train Loss 0.0007
+Epoch [449/500] | Iter [ 92/ 94] | Train Loss 0.0007
+Epoch [449/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [450/500] | Iter [ 16/ 94] | Train Loss 0.0007
+Epoch [450/500] | Iter [ 33/ 94] | Train Loss 0.0007
+Epoch [450/500] | Iter [ 51/ 94] | Train Loss 0.0007
+Epoch [450/500] | Iter [ 69/ 94] | Train Loss 0.0007
+Epoch [450/500] | Iter [ 86/ 94] | Train Loss 0.0007
+Epoch [450/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [451/500] | Iter [ 10/ 94] | Train Loss 0.0008
+Epoch [451/500] | Iter [ 27/ 94] | Train Loss 0.0007
+Epoch [451/500] | Iter [ 45/ 94] | Train Loss 0.0007
+Epoch [451/500] | Iter [ 62/ 94] | Train Loss 0.0007
+Epoch [451/500] | Iter [ 80/ 94] | Train Loss 0.0007
+Epoch [451/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [452/500] | Iter [  3/ 94] | Train Loss 0.0007
+Epoch [452/500] | Iter [ 20/ 94] | Train Loss 0.0007
+Epoch [452/500] | Iter [ 38/ 94] | Train Loss 0.0007
+Epoch [452/500] | Iter [ 56/ 94] | Train Loss 0.0007
+Epoch [452/500] | Iter [ 73/ 94] | Train Loss 0.0007
+Epoch [452/500] | Iter [ 91/ 94] | Train Loss 0.0007
+Epoch [452/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [453/500] | Iter [ 15/ 94] | Train Loss 0.0007
+Epoch [453/500] | Iter [ 32/ 94] | Train Loss 0.0007
+Epoch [453/500] | Iter [ 50/ 94] | Train Loss 0.0007
+Epoch [453/500] | Iter [ 68/ 94] | Train Loss 0.0007
+Epoch [453/500] | Iter [ 85/ 94] | Train Loss 0.0007
+Epoch [453/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [454/500] | Iter [  9/ 94] | Train Loss 0.0007
+Epoch [454/500] | Iter [ 26/ 94] | Train Loss 0.0007
+Epoch [454/500] | Iter [ 44/ 94] | Train Loss 0.0007
+Epoch [454/500] | Iter [ 62/ 94] | Train Loss 0.0007
+Epoch [454/500] | Iter [ 79/ 94] | Train Loss 0.0007
+Epoch [454/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [455/500] | Iter [  3/ 94] | Train Loss 0.0007
+Epoch [455/500] | Iter [ 20/ 94] | Train Loss 0.0007
+Epoch [455/500] | Iter [ 38/ 94] | Train Loss 0.0006
+Epoch [455/500] | Iter [ 55/ 94] | Train Loss 0.0006
+Epoch [455/500] | Iter [ 73/ 94] | Train Loss 0.0006
+Epoch [455/500] | Iter [ 91/ 94] | Train Loss 0.0007
+Epoch [455/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [456/500] | Iter [ 14/ 94] | Train Loss 0.0007
+Epoch [456/500] | Iter [ 31/ 94] | Train Loss 0.0007
+Epoch [456/500] | Iter [ 49/ 94] | Train Loss 0.0007
+Epoch [456/500] | Iter [ 67/ 94] | Train Loss 0.0007
+Epoch [456/500] | Iter [ 84/ 94] | Train Loss 0.0007
+Epoch [456/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [457/500] | Iter [  6/ 94] | Train Loss 0.0006
+Epoch [457/500] | Iter [ 24/ 94] | Train Loss 0.0006
+Epoch [457/500] | Iter [ 42/ 94] | Train Loss 0.0007
+Epoch [457/500] | Iter [ 59/ 94] | Train Loss 0.0007
+Epoch [457/500] | Iter [ 77/ 94] | Train Loss 0.0007
+Epoch [457/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [458/500] | Iter [  2/ 94] | Train Loss 0.0006
+Epoch [458/500] | Iter [ 19/ 94] | Train Loss 0.0006
+Epoch [458/500] | Iter [ 37/ 94] | Train Loss 0.0007
+Epoch [458/500] | Iter [ 54/ 94] | Train Loss 0.0007
+Epoch [458/500] | Iter [ 72/ 94] | Train Loss 0.0007
+Epoch [458/500] | Iter [ 90/ 94] | Train Loss 0.0007
+Epoch [458/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [459/500] | Iter [  8/ 94] | Train Loss 0.0007
+Epoch [459/500] | Iter [ 26/ 94] | Train Loss 0.0007
+Epoch [459/500] | Iter [ 43/ 94] | Train Loss 0.0007
+Epoch [459/500] | Iter [ 61/ 94] | Train Loss 0.0007
+Epoch [459/500] | Iter [ 79/ 94] | Train Loss 0.0007
+Epoch [459/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [460/500] | Iter [  1/ 94] | Train Loss 0.0006
+Epoch [460/500] | Iter [ 18/ 94] | Train Loss 0.0007
+Epoch [460/500] | Iter [ 36/ 94] | Train Loss 0.0007
+Epoch [460/500] | Iter [ 54/ 94] | Train Loss 0.0007
+Epoch [460/500] | Iter [ 71/ 94] | Train Loss 0.0007
+Epoch [460/500] | Iter [ 89/ 94] | Train Loss 0.0007
+Epoch [460/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [461/500] | Iter [ 13/ 94] | Train Loss 0.0006
+Epoch [461/500] | Iter [ 31/ 94] | Train Loss 0.0007
+Epoch [461/500] | Iter [ 48/ 94] | Train Loss 0.0007
+Epoch [461/500] | Iter [ 66/ 94] | Train Loss 0.0007
+Epoch [461/500] | Iter [ 84/ 94] | Train Loss 0.0007
+Epoch [461/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [462/500] | Iter [  8/ 94] | Train Loss 0.0007
+Epoch [462/500] | Iter [ 25/ 94] | Train Loss 0.0007
+Epoch [462/500] | Iter [ 43/ 94] | Train Loss 0.0007
+Epoch [462/500] | Iter [ 61/ 94] | Train Loss 0.0006
+Epoch [462/500] | Iter [ 78/ 94] | Train Loss 0.0006
+Epoch [462/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [462/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [463/500] | Iter [ 18/ 94] | Train Loss 0.0007
+Epoch [463/500] | Iter [ 36/ 94] | Train Loss 0.0007
+Epoch [463/500] | Iter [ 53/ 94] | Train Loss 0.0007
+Epoch [463/500] | Iter [ 71/ 94] | Train Loss 0.0007
+Epoch [463/500] | Iter [ 88/ 94] | Train Loss 0.0007
+Epoch [463/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [464/500] | Iter [  9/ 94] | Train Loss 0.0007
+Epoch [464/500] | Iter [ 27/ 94] | Train Loss 0.0007
+Epoch [464/500] | Iter [ 44/ 94] | Train Loss 0.0007
+Epoch [464/500] | Iter [ 62/ 94] | Train Loss 0.0007
+Epoch [464/500] | Iter [ 80/ 94] | Train Loss 0.0007
+Epoch [464/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [465/500] | Iter [  3/ 94] | Train Loss 0.0006
+Epoch [465/500] | Iter [ 21/ 94] | Train Loss 0.0007
+Epoch [465/500] | Iter [ 39/ 94] | Train Loss 0.0006
+Epoch [465/500] | Iter [ 56/ 94] | Train Loss 0.0006
+Epoch [465/500] | Iter [ 74/ 94] | Train Loss 0.0006
+Epoch [465/500] | Iter [ 92/ 94] | Train Loss 0.0006
+Epoch [465/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [466/500] | Iter [ 14/ 94] | Train Loss 0.0007
+Epoch [466/500] | Iter [ 32/ 94] | Train Loss 0.0006
+Epoch [466/500] | Iter [ 49/ 94] | Train Loss 0.0007
+Epoch [466/500] | Iter [ 67/ 94] | Train Loss 0.0007
+Epoch [466/500] | Iter [ 85/ 94] | Train Loss 0.0006
+Epoch [466/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [467/500] | Iter [  9/ 94] | Train Loss 0.0006
+Epoch [467/500] | Iter [ 27/ 94] | Train Loss 0.0006
+Epoch [467/500] | Iter [ 44/ 94] | Train Loss 0.0006
+Epoch [467/500] | Iter [ 62/ 94] | Train Loss 0.0006
+Epoch [467/500] | Iter [ 79/ 94] | Train Loss 0.0006
+Epoch [467/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [468/500] | Iter [  2/ 94] | Train Loss 0.0007
+Epoch [468/500] | Iter [ 20/ 94] | Train Loss 0.0007
+Epoch [468/500] | Iter [ 37/ 94] | Train Loss 0.0007
+Epoch [468/500] | Iter [ 55/ 94] | Train Loss 0.0007
+Epoch [468/500] | Iter [ 73/ 94] | Train Loss 0.0006
+Epoch [468/500] | Iter [ 90/ 94] | Train Loss 0.0006
+Epoch [468/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [469/500] | Iter [ 14/ 94] | Train Loss 0.0006
+Epoch [469/500] | Iter [ 31/ 94] | Train Loss 0.0006
+Epoch [469/500] | Iter [ 49/ 94] | Train Loss 0.0006
+Epoch [469/500] | Iter [ 66/ 94] | Train Loss 0.0006
+Epoch [469/500] | Iter [ 84/ 94] | Train Loss 0.0006
+Epoch [469/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [470/500] | Iter [  7/ 94] | Train Loss 0.0006
+Epoch [470/500] | Iter [ 24/ 94] | Train Loss 0.0007
+Epoch [470/500] | Iter [ 42/ 94] | Train Loss 0.0007
+Epoch [470/500] | Iter [ 60/ 94] | Train Loss 0.0006
+Epoch [470/500] | Iter [ 77/ 94] | Train Loss 0.0006
+Epoch [470/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [471/500] | Iter [  1/ 94] | Train Loss 0.0006
+Epoch [471/500] | Iter [ 19/ 94] | Train Loss 0.0007
+Epoch [471/500] | Iter [ 37/ 94] | Train Loss 0.0006
+Epoch [471/500] | Iter [ 54/ 94] | Train Loss 0.0007
+Epoch [471/500] | Iter [ 72/ 94] | Train Loss 0.0007
+Epoch [471/500] | Iter [ 89/ 94] | Train Loss 0.0007
+Epoch [471/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [472/500] | Iter [ 11/ 94] | Train Loss 0.0006
+Epoch [472/500] | Iter [ 29/ 94] | Train Loss 0.0007
+Epoch [472/500] | Iter [ 47/ 94] | Train Loss 0.0007
+Epoch [472/500] | Iter [ 64/ 94] | Train Loss 0.0006
+Epoch [472/500] | Iter [ 82/ 94] | Train Loss 0.0006
+Epoch [472/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [473/500] | Iter [  5/ 94] | Train Loss 0.0006
+Epoch [473/500] | Iter [ 22/ 94] | Train Loss 0.0006
+Epoch [473/500] | Iter [ 40/ 94] | Train Loss 0.0006
+Epoch [473/500] | Iter [ 57/ 94] | Train Loss 0.0006
+Epoch [473/500] | Iter [ 75/ 94] | Train Loss 0.0006
+Epoch [473/500] | Iter [ 93/ 94] | Train Loss 0.0006
+Epoch [473/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [474/500] | Iter [ 17/ 94] | Train Loss 0.0006
+Epoch [474/500] | Iter [ 34/ 94] | Train Loss 0.0006
+Epoch [474/500] | Iter [ 52/ 94] | Train Loss 0.0006
+Epoch [474/500] | Iter [ 69/ 94] | Train Loss 0.0006
+Epoch [474/500] | Iter [ 87/ 94] | Train Loss 0.0006
+Epoch [474/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [475/500] | Iter [  9/ 94] | Train Loss 0.0006
+Epoch [475/500] | Iter [ 27/ 94] | Train Loss 0.0006
+Epoch [475/500] | Iter [ 44/ 94] | Train Loss 0.0006
+Epoch [475/500] | Iter [ 62/ 94] | Train Loss 0.0006
+Epoch [475/500] | Iter [ 80/ 94] | Train Loss 0.0006
+Epoch [475/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [476/500] | Iter [  2/ 94] | Train Loss 0.0005
+Epoch [476/500] | Iter [ 20/ 94] | Train Loss 0.0007
+Epoch [476/500] | Iter [ 37/ 94] | Train Loss 0.0007
+Epoch [476/500] | Iter [ 55/ 94] | Train Loss 0.0007
+Epoch [476/500] | Iter [ 72/ 94] | Train Loss 0.0007
+Epoch [476/500] | Iter [ 90/ 94] | Train Loss 0.0007
+Epoch [476/500] | Iter [ 94/ 94] | Train Loss 0.0007
+Epoch [477/500] | Iter [ 14/ 94] | Train Loss 0.0006
+Epoch [477/500] | Iter [ 31/ 94] | Train Loss 0.0006
+Epoch [477/500] | Iter [ 49/ 94] | Train Loss 0.0006
+Epoch [477/500] | Iter [ 66/ 94] | Train Loss 0.0006
+Epoch [477/500] | Iter [ 84/ 94] | Train Loss 0.0006
+Epoch [477/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [478/500] | Iter [  8/ 94] | Train Loss 0.0006
+Epoch [478/500] | Iter [ 26/ 94] | Train Loss 0.0006
+Epoch [478/500] | Iter [ 43/ 94] | Train Loss 0.0006
+Epoch [478/500] | Iter [ 61/ 94] | Train Loss 0.0006
+Epoch [478/500] | Iter [ 79/ 94] | Train Loss 0.0007
+Epoch [478/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [479/500] | Iter [  2/ 94] | Train Loss 0.0006
+Epoch [479/500] | Iter [ 20/ 94] | Train Loss 0.0006
+Epoch [479/500] | Iter [ 38/ 94] | Train Loss 0.0006
+Epoch [479/500] | Iter [ 55/ 94] | Train Loss 0.0006
+Epoch [479/500] | Iter [ 73/ 94] | Train Loss 0.0006
+Epoch [479/500] | Iter [ 91/ 94] | Train Loss 0.0006
+Epoch [479/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [480/500] | Iter [ 14/ 94] | Train Loss 0.0007
+Epoch [480/500] | Iter [ 31/ 94] | Train Loss 0.0006
+Epoch [480/500] | Iter [ 49/ 94] | Train Loss 0.0006
+Epoch [480/500] | Iter [ 67/ 94] | Train Loss 0.0006
+Epoch [480/500] | Iter [ 84/ 94] | Train Loss 0.0006
+Epoch [480/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [481/500] | Iter [  7/ 94] | Train Loss 0.0006
+Epoch [481/500] | Iter [ 24/ 94] | Train Loss 0.0006
+Epoch [481/500] | Iter [ 42/ 94] | Train Loss 0.0006
+Epoch [481/500] | Iter [ 60/ 94] | Train Loss 0.0006
+Epoch [481/500] | Iter [ 77/ 94] | Train Loss 0.0006
+Epoch [481/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [481/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [482/500] | Iter [ 18/ 94] | Train Loss 0.0006
+Epoch [482/500] | Iter [ 35/ 94] | Train Loss 0.0006
+Epoch [482/500] | Iter [ 53/ 94] | Train Loss 0.0006
+Epoch [482/500] | Iter [ 71/ 94] | Train Loss 0.0006
+Epoch [482/500] | Iter [ 88/ 94] | Train Loss 0.0006
+Epoch [482/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [483/500] | Iter [ 13/ 94] | Train Loss 0.0006
+Epoch [483/500] | Iter [ 30/ 94] | Train Loss 0.0006
+Epoch [483/500] | Iter [ 48/ 94] | Train Loss 0.0006
+Epoch [483/500] | Iter [ 65/ 94] | Train Loss 0.0006
+Epoch [483/500] | Iter [ 83/ 94] | Train Loss 0.0006
+Epoch [483/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [484/500] | Iter [  5/ 94] | Train Loss 0.0006
+Epoch [484/500] | Iter [ 23/ 94] | Train Loss 0.0006
+Epoch [484/500] | Iter [ 40/ 94] | Train Loss 0.0006
+Epoch [484/500] | Iter [ 58/ 94] | Train Loss 0.0006
+Epoch [484/500] | Iter [ 76/ 94] | Train Loss 0.0006
+Epoch [484/500] | Iter [ 93/ 94] | Train Loss 0.0006
+Epoch [484/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [485/500] | Iter [ 17/ 94] | Train Loss 0.0006
+Epoch [485/500] | Iter [ 34/ 94] | Train Loss 0.0006
+Epoch [485/500] | Iter [ 52/ 94] | Train Loss 0.0006
+Epoch [485/500] | Iter [ 69/ 94] | Train Loss 0.0006
+Epoch [485/500] | Iter [ 87/ 94] | Train Loss 0.0006
+Epoch [485/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [486/500] | Iter [  9/ 94] | Train Loss 0.0006
+Epoch [486/500] | Iter [ 26/ 94] | Train Loss 0.0006
+Epoch [486/500] | Iter [ 44/ 94] | Train Loss 0.0006
+Epoch [486/500] | Iter [ 62/ 94] | Train Loss 0.0006
+Epoch [486/500] | Iter [ 79/ 94] | Train Loss 0.0006
+Epoch [486/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [487/500] | Iter [  4/ 94] | Train Loss 0.0006
+Epoch [487/500] | Iter [ 21/ 94] | Train Loss 0.0006
+Epoch [487/500] | Iter [ 39/ 94] | Train Loss 0.0006
+Epoch [487/500] | Iter [ 57/ 94] | Train Loss 0.0006
+Epoch [487/500] | Iter [ 74/ 94] | Train Loss 0.0006
+Epoch [487/500] | Iter [ 92/ 94] | Train Loss 0.0006
+Epoch [487/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [488/500] | Iter [ 15/ 94] | Train Loss 0.0006
+Epoch [488/500] | Iter [ 33/ 94] | Train Loss 0.0006
+Epoch [488/500] | Iter [ 50/ 94] | Train Loss 0.0006
+Epoch [488/500] | Iter [ 68/ 94] | Train Loss 0.0006
+Epoch [488/500] | Iter [ 86/ 94] | Train Loss 0.0006
+Epoch [488/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [489/500] | Iter [  9/ 94] | Train Loss 0.0007
+Epoch [489/500] | Iter [ 26/ 94] | Train Loss 0.0007
+Epoch [489/500] | Iter [ 44/ 94] | Train Loss 0.0006
+Epoch [489/500] | Iter [ 61/ 94] | Train Loss 0.0006
+Epoch [489/500] | Iter [ 79/ 94] | Train Loss 0.0006
+Epoch [489/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [490/500] | Iter [  3/ 94] | Train Loss 0.0006
+Epoch [490/500] | Iter [ 20/ 94] | Train Loss 0.0006
+Epoch [490/500] | Iter [ 38/ 94] | Train Loss 0.0006
+Epoch [490/500] | Iter [ 55/ 94] | Train Loss 0.0006
+Epoch [490/500] | Iter [ 73/ 94] | Train Loss 0.0006
+Epoch [490/500] | Iter [ 91/ 94] | Train Loss 0.0006
+Epoch [490/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [491/500] | Iter [ 14/ 94] | Train Loss 0.0006
+Epoch [491/500] | Iter [ 31/ 94] | Train Loss 0.0006
+Epoch [491/500] | Iter [ 49/ 94] | Train Loss 0.0006
+Epoch [491/500] | Iter [ 66/ 94] | Train Loss 0.0006
+Epoch [491/500] | Iter [ 84/ 94] | Train Loss 0.0006
+Epoch [491/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [492/500] | Iter [  3/ 94] | Train Loss 0.0005
+Epoch [492/500] | Iter [ 21/ 94] | Train Loss 0.0006
+Epoch [492/500] | Iter [ 38/ 94] | Train Loss 0.0006
+Epoch [492/500] | Iter [ 56/ 94] | Train Loss 0.0006
+Epoch [492/500] | Iter [ 73/ 94] | Train Loss 0.0006
+Epoch [492/500] | Iter [ 91/ 94] | Train Loss 0.0006
+Epoch [492/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [493/500] | Iter [ 14/ 94] | Train Loss 0.0006
+Epoch [493/500] | Iter [ 32/ 94] | Train Loss 0.0006
+Epoch [493/500] | Iter [ 49/ 94] | Train Loss 0.0006
+Epoch [493/500] | Iter [ 67/ 94] | Train Loss 0.0006
+Epoch [493/500] | Iter [ 84/ 94] | Train Loss 0.0006
+Epoch [493/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [494/500] | Iter [  9/ 94] | Train Loss 0.0006
+Epoch [494/500] | Iter [ 26/ 94] | Train Loss 0.0006
+Epoch [494/500] | Iter [ 44/ 94] | Train Loss 0.0006
+Epoch [494/500] | Iter [ 62/ 94] | Train Loss 0.0006
+Epoch [494/500] | Iter [ 79/ 94] | Train Loss 0.0006
+Epoch [494/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [495/500] | Iter [  4/ 94] | Train Loss 0.0006
+Epoch [495/500] | Iter [ 21/ 94] | Train Loss 0.0006
+Epoch [495/500] | Iter [ 39/ 94] | Train Loss 0.0006
+Epoch [495/500] | Iter [ 57/ 94] | Train Loss 0.0006
+Epoch [495/500] | Iter [ 74/ 94] | Train Loss 0.0006
+Epoch [495/500] | Iter [ 92/ 94] | Train Loss 0.0006
+Epoch [495/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [496/500] | Iter [ 14/ 94] | Train Loss 0.0006
+Epoch [496/500] | Iter [ 32/ 94] | Train Loss 0.0006
+Epoch [496/500] | Iter [ 49/ 94] | Train Loss 0.0006
+Epoch [496/500] | Iter [ 67/ 94] | Train Loss 0.0006
+Epoch [496/500] | Iter [ 85/ 94] | Train Loss 0.0006
+Epoch [496/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [497/500] | Iter [  9/ 94] | Train Loss 0.0006
+Epoch [497/500] | Iter [ 26/ 94] | Train Loss 0.0006
+Epoch [497/500] | Iter [ 44/ 94] | Train Loss 0.0006
+Epoch [497/500] | Iter [ 62/ 94] | Train Loss 0.0006
+Epoch [497/500] | Iter [ 79/ 94] | Train Loss 0.0006
+Epoch [497/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [498/500] | Iter [  4/ 94] | Train Loss 0.0006
+Epoch [498/500] | Iter [ 21/ 94] | Train Loss 0.0006
+Epoch [498/500] | Iter [ 39/ 94] | Train Loss 0.0006
+Epoch [498/500] | Iter [ 57/ 94] | Train Loss 0.0006
+Epoch [498/500] | Iter [ 74/ 94] | Train Loss 0.0006
+Epoch [498/500] | Iter [ 92/ 94] | Train Loss 0.0006
+Epoch [498/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [499/500] | Iter [ 16/ 94] | Train Loss 0.0006
+Epoch [499/500] | Iter [ 34/ 94] | Train Loss 0.0006
+Epoch [499/500] | Iter [ 51/ 94] | Train Loss 0.0006
+Epoch [499/500] | Iter [ 69/ 94] | Train Loss 0.0006
+Epoch [499/500] | Iter [ 87/ 94] | Train Loss 0.0006
+Epoch [499/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [500/500] | Iter [  9/ 94] | Train Loss 0.0006
+Epoch [500/500] | Iter [ 26/ 94] | Train Loss 0.0006
+Epoch [500/500] | Iter [ 44/ 94] | Train Loss 0.0006
+Epoch [500/500] | Iter [ 62/ 94] | Train Loss 0.0006
+Epoch [500/500] | Iter [ 79/ 94] | Train Loss 0.0006
+Epoch [500/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [500/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [500/500] | Iter [ 94/ 94] | Train Loss 0.0006
+Epoch [500/500] | Iter [ 94/ 94] | Train Loss 0.0006

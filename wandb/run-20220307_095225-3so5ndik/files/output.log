@@ -1,0 +1,192 @@
+
+Creating model.....
+Creating training dataset...
+Creating valid dataset...
+train_loader length: 94
+valid_loader length: 32
+Epoch [0][0/94] | Train_loss 0.16602
+                    | Train_accuracy_value 0.00893
+Epoch [0][1/94] | Train_loss 0.16124 average 0.00893
+                    | Train_accuracy_value 0.02679
+Epoch [0][2/94] | Train_loss 0.15837 average 0.01786
+                    | Train_accuracy_value 0.02679
+Epoch [0][3/94] | Train_loss 0.15688 average 0.02083
+                    | Train_accuracy_value 0.01339
+Epoch [0][4/94] | Train_loss 0.15636 average 0.01897
+                    | Train_accuracy_value 0.02679
+Epoch [0][5/94] | Train_loss 0.15276 average 0.02054
+                    | Train_accuracy_value 0.01339
+Epoch [0][6/94] | Train_loss 0.15215 average 0.01935
+                    | Train_accuracy_value 0.00893
+Epoch [0][7/94] | Train_loss 0.15006 average 0.01786
+                    | Train_accuracy_value 0.01786
+Epoch [0][8/94] | Train_loss 0.15113 average 0.01786
+                    | Train_accuracy_value 0.01786
+Epoch [0][9/94] | Train_loss 0.14458 average 0.01786
+                    | Train_accuracy_value 0.01339
+Epoch [0][10/94] | Train_loss 0.14687 verage 0.01741
+                    | Train_accuracy_value 0.02679
+Epoch [0][11/94] | Train_loss 0.14093 verage 0.01826
+                    | Train_accuracy_value 0.02708
+Epoch [0][12/94] | Train_loss 0.14335 verage 0.01900
+                    | Train_accuracy_value 0.03571
+Epoch [0][13/94] | Train_loss 0.14298 verage 0.02028
+                    | Train_accuracy_value 0.01786
+Epoch [0][14/94] | Train_loss 0.13877 verage 0.02011
+                    | Train_accuracy_value 0.00893
+Epoch [0][15/94] | Train_loss 0.14041 verage 0.01937
+                    | Train_accuracy_value 0.01339
+Epoch [0][16/94] | Train_loss 0.13826 verage 0.01899
+                    | Train_accuracy_value 0.01339
+Epoch [0][17/94] | Train_loss 0.13645 verage 0.01866
+                    | Train_accuracy_value 0.01786
+Epoch [0][18/94] | Train_loss 0.13415 verage 0.01862
+                    | Train_accuracy_value 0.01339
+Epoch [0][19/94] | Train_loss 0.13322 verage 0.01834
+                    | Train_accuracy_value 0.02679
+Epoch [0][20/94] | Train_loss 0.12980 verage 0.01876
+                    | Train_accuracy_value 0.02232
+Epoch [0][21/94] | Train_loss 0.13126 verage 0.01893
+                    | Train_accuracy_value 0.02232
+Epoch [0][22/94] | Train_loss 0.13186 verage 0.01909
+                    | Train_accuracy_value 0.02232
+Epoch [0][23/94] | Train_loss 0.12995 verage 0.01923
+                    | Train_accuracy_value 0.00446
+Epoch [0][24/94] | Train_loss 0.13145 verage 0.01861
+                    | Train_accuracy_value 0.01339
+Epoch [0][25/94] | Train_loss 0.12567 verage 0.01840
+                    | Train_accuracy_value 0.02232
+Epoch [0][26/94] | Train_loss 0.12402 verage 0.01856
+                    | Train_accuracy_value 0.01339
+Epoch [0][27/94] | Train_loss 0.12123 verage 0.01836
+                    | Train_accuracy_value 0.00893
+Epoch [0][28/94] | Train_loss 0.12332 verage 0.01803
+                    | Train_accuracy_value 0.01339
+Epoch [0][29/94] | Train_loss 0.12252 verage 0.01787
+                    | Train_accuracy_value 0.01339
+Epoch [0][30/94] | Train_loss 0.12328 verage 0.01772
+                    | Train_accuracy_value 0.01786
+Epoch [0][31/94] | Train_loss 0.11982 verage 0.01772
+                    | Train_accuracy_value 0.01786
+Epoch [0][32/94] | Train_loss 0.12251 verage 0.01773
+                    | Train_accuracy_value 0.00446
+Epoch [0][33/94] | Train_loss 0.11964 verage 0.01733
+                    | Train_accuracy_value 0.02232
+Epoch [0][34/94] | Train_loss 0.11604 verage 0.01747
+                    | Train_accuracy_value 0.00893
+Epoch [0][35/94] | Train_loss 0.11924 verage 0.01723
+                    | Train_accuracy_value 0.02232
+Epoch [0][36/94] | Train_loss 0.12019 verage 0.01737
+                    | Train_accuracy_value 0.01339
+Epoch [0][37/94] | Train_loss 0.11810 verage 0.01726
+                    | Train_accuracy_value 0.00446
+Epoch [0][38/94] | Train_loss 0.11604 verage 0.01693
+                    | Train_accuracy_value 0.03125
+Epoch [0][39/94] | Train_loss 0.11366 verage 0.01729
+                    | Train_accuracy_value 0.00893
+Epoch [0][40/94] | Train_loss 0.11992 verage 0.01708
+                    | Train_accuracy_value 0.02679
+Epoch [0][41/94] | Train_loss 0.11538 verage 0.01732
+                    | Train_accuracy_value 0.00446
+Epoch [0][42/94] | Train_loss 0.11101 verage 0.01701
+                    | Train_accuracy_value 0.01786
+Epoch [0][43/94] | Train_loss 0.11108 verage 0.01703
+                    | Train_accuracy_value 0.04018
+Epoch [0][44/94] | Train_loss 0.11172 verage 0.01756
+                    | Train_accuracy_value 0.00893
+Epoch [0][45/94] | Train_loss 0.10332 verage 0.01737
+                    | Train_accuracy_value 0.01786
+Epoch [0][46/94] | Train_loss 0.10736 verage 0.01738
+                    | Train_accuracy_value 0.01339
+Epoch [0][47/94] | Train_loss 0.10847 verage 0.01729
+                    | Train_accuracy_value 0.03125
+Epoch [0][48/94] | Train_loss 0.11334 verage 0.01758
+                    | Train_accuracy_value 0.02232
+Epoch [0][49/94] | Train_loss 0.10996 verage 0.01768
+                    | Train_accuracy_value 0.00893
+Epoch [0][50/94] | Train_loss 0.10802 verage 0.01751
+                    | Train_accuracy_value 0.01339
+Epoch [0][51/94] | Train_loss 0.10702 verage 0.01743
+                    | Train_accuracy_value 0.03125
+Epoch [0][52/94] | Train_loss 0.10400 verage 0.01769
+                    | Train_accuracy_value 0.00446
+Epoch [0][53/94] | Train_loss 0.10794 verage 0.01744
+                    | Train_accuracy_value 0.01786
+Epoch [0][54/94] | Train_loss 0.10241 verage 0.01745
+                    | Train_accuracy_value 0.00893
+Epoch [0][55/94] | Train_loss 0.10622 verage 0.01729
+                    | Train_accuracy_value 0.00893
+Epoch [0][56/94] | Train_loss 0.10048 verage 0.01714
+                    | Train_accuracy_value 0.02679
+Epoch [0][57/94] | Train_loss 0.10537 verage 0.01731
+                    | Train_accuracy_value 0.04018
+Epoch [0][58/94] | Train_loss 0.10457 verage 0.01771
+                    | Train_accuracy_value 0.01339
+Epoch [0][59/94] | Train_loss 0.10373 verage 0.01764
+                    | Train_accuracy_value 0.02232
+Epoch [0][60/94] | Train_loss 0.10663 verage 0.01771
+                    | Train_accuracy_value 0.00446
+Epoch [0][61/94] | Train_loss 0.10051 verage 0.01750
+                    | Train_accuracy_value 0.04018
+Epoch [0][62/94] | Train_loss 0.10126 verage 0.01786
+                    | Train_accuracy_value 0.01339
+Epoch [0][63/94] | Train_loss 0.09887 verage 0.01779
+                    | Train_accuracy_value 0.01786
+Epoch [0][81/94] | Train_loss 0.09484 verage 0.01803
+                    | Train_accuracy_value 0.00893
+Epoch [0][65/94] | Train_loss 0.09773 verage 0.01766
+                    | Train_accuracy_value 0.03571
+Epoch [0][66/94] | Train_loss 0.09436 verage 0.01793
+                    | Train_accuracy_value 0.02679
+Epoch [0][67/94] | Train_loss 0.09675 verage 0.01806
+                    | Train_accuracy_value 0.02232
+Epoch [0][68/94] | Train_loss 0.09829 verage 0.01812
+                    | Train_accuracy_value 0.01339
+Epoch [0][69/94] | Train_loss 0.09179 verage 0.01806
+                    | Train_accuracy_value 0.00893
+Epoch [0][70/94] | Train_loss 0.09874 verage 0.01793
+                    | Train_accuracy_value 0.01339
+Epoch [0][71/94] | Train_loss 0.09414 verage 0.01786
+                    | Train_accuracy_value 0.03571
+Epoch [0][72/94] | Train_loss 0.09523 verage 0.01811
+                    | Train_accuracy_value 0.00893
+Epoch [0][73/94] | Train_loss 0.09271 verage 0.01798
+                    | Train_accuracy_value 0.00893
+Epoch [0][74/94] | Train_loss 0.09680 verage 0.01786
+                    | Train_accuracy_value 0.01339
+Epoch [0][75/94] | Train_loss 0.09446 verage 0.01780
+                    | Train_accuracy_value 0.02232
+Epoch [0][76/94] | Train_loss 0.09163 verage 0.01786
+                    | Train_accuracy_value 0.02232
+Epoch [0][77/94] | Train_loss 0.08836 verage 0.01792
+                    | Train_accuracy_value 0.03571
+Epoch [0][78/94] | Train_loss 0.09419 verage 0.01815
+                    | Train_accuracy_value 0.02232
+Epoch [0][79/94] | Train_loss 0.08684 verage 0.01820
+                    | Train_accuracy_value 0.00446
+Epoch [0][80/94] | Train_loss 0.08684 verage 0.01803
+                    | Train_accuracy_value 0.01786
+Epoch [0][81/94] | Train_loss 0.09484 verage 0.01803
+                    | Train_accuracy_value 0.00893
+Epoch [0][82/94] | Train_loss 0.08783 verage 0.01792
+                    | Train_accuracy_value 0.02679
+Epoch [0][83/94] | Train_loss 0.08774 verage 0.01802
+                    | Train_accuracy_value 0.02232
+Epoch [0][84/94] | Train_loss 0.08696 verage 0.01807
+                    | Train_accuracy_value 0.02232
+Epoch [0][85/94] | Train_loss 0.08637 verage 0.01812
+                    | Train_accuracy_value 0.03571
+Epoch [0][86/94] | Train_loss 0.08467 verage 0.01833
+                    | Train_accuracy_value 0.01786
+                    | Train_accuracy_average 0.01832
+Epoch [0][82/94] | Train_loss 0.08783 verage 0.01792
+Traceback (most recent call last):
+  File "main.py", line 202, in <module>
+    train(args)
+  File "main.py", line 99, in train
+    loss.backward()
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/tensor.py", line 245, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/home/junshick/anaconda3/lib/python3.7/site-packages/torch/autograd/__init__.py", line 147, in backward
+    allow_unreachable=True, accumulate_grad=True)  # allow_unreachable flag
+KeyboardInterrupt

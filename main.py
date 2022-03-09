@@ -4,6 +4,7 @@ import numpy as np
 import json
 import cv2
 import argparse
+import time
 
 import torch
 import torch.nn as nn
@@ -11,6 +12,8 @@ from torch.utils.data import Dataset, DataLoader
 
 from utils.wandb_img import show_img_wandb
 from utils.average_meter import AverageMeter
+from utils.evaluation_tool import accuracy
+from utils.darkpose import get_final_preds
 
 import datasets
 import models
@@ -50,37 +53,69 @@ def train(args):
                             shuffle=False,
                             num_workers=args.workers, 
                             pin_memory=True)
-
-    print(f"train_loader length: {len(train_loader)}")
-    print(f"valid_loader length: {len(val_loader)}")
+    
     criterion = HeatmapMSELoss(False)
     optimizer = Adam(model.parameters(), lr=lr)
 
     for epoch in range(epochs):
     
-        train_loss, valid_loss = AverageMeter(), AverageMeter()
+        batch_time = AverageMeter()
+        data_time = AverageMeter()
+        losses = AverageMeter()
+        acc = AverageMeter()
+        val_losses = AverageMeter()
+        val_acc = AverageMeter()
 
         # Training
         model.train()
+
+        end = time.time()
         for iter, (img, hm_gt) in enumerate(train_loader):
 
+            # measure data loading time
+            data_time.update(time.time() - end)
             img, hm_gt = img.to(dtype=torch.float32, device=cuda), hm_gt.to(device=cuda)
        
             pred_logit = model(img)
             
             loss = 0
-            for pred in pred_logit:
 
-                loss += criterion(pred, hm_gt)
+            if isinstance(pred_logit, list):
+
+                loss = criterion(pred_logit[0], hm_gt) 
+
+                for pred in pred_logit[1:]:
+                    
+                    loss += criterion(pred, hm_gt)
+            
+            else:
+                pred = pred_logit
+                loss = criterion(pred, hm_gt)
+
 
             optimizer.zero_grad()
             loss.backward()
             optimizer.step()
 
-            train_loss.update(loss.item(), len(img))
+            # measure accuracy and recod loss
+            losses.update(loss.item(), img.size(0))
 
-            print("\rEpoch [%3d/%3d] | Iter [%3d/%3d] | Train Loss %.4f" % (epoch+1, epochs, iter+1, len(train_loader), train_loss.avg), end='')
-            wandb.log({"Train loss": train_loss.avg})
+            _, avg_acc, cnt, pred = accuracy(pred.detach().cpu().numpy(),
+                                             hm_gt.detach().cpu().numpy())
+            acc.update(avg_acc, cnt)
+
+            #measure elapsed time
+            batch_time.update(time.time() -end)
+            end = time.time()
+                                            
+
+            print("\rEpoch [{0}][{1}/{2}] | Train_loss {loss.val:.5f} | Train_accuracy_value {acc.val:.5f}"
+                      .format(epoch, iter, len(train_loader), loss=losses, acc=acc), end='')
+                  
+            wandb.log({"Epoch": epoch, "Train loss val": losses.val, 
+                    "Train loss avg": losses.avg, "Accuracy val":acc.val, 
+                    "Accuracy avg":acc.avg})
+                    
 
         # Validation
         model.eval()
@@ -91,15 +126,33 @@ def train(args):
                 pred_logit = model(img)
         
             loss = 0
-            for pred in pred_logit:
+            if isinstance(pred_logit, list):
 
-                loss += criterion(pred, hm_gt)
+                loss = criterion(pred_logit[0], hm_gt) 
 
-            valid_loss.update(loss.item(), len(img))
-    
-        print("\nEpoch [%3d/%3d] | Iter [%3d/%3d] | Valid Loss %.4f" % (epoch+1, epochs, iter, len(val_loader), valid_loss.avg))
-        wandb.log({"Valid loss": valid_loss.avg})
+                for pred in pred_logit[1:]:
+                   
+                    loss += criterion(pred, hm_gt)
+            
+            else:
+                pred = pred_logit
+                loss = criterion(pred, hm_gt)
 
+            val_losses.update(loss.item(), len(img))
+            _, avg_acc, cnt, pred = accuracy(pred.cpu().numpy(),
+                                             hm_gt.cpu().numpy()) 
+
+        if avg_acc > val_acc.val:
+
+            print(f"\rHighest Validation Accuracy! {avg_acc:.5f}")
+            torch.save(model.state_dict(), "save_model/torch_model.pt") 
+        
+        val_acc.update(avg_acc, cnt)
+
+        print("Val_loss {loss.val:.5f} | Valid_accuracy_value {acc.val:.5f} | Valid_accuracy_average {acc.avg:.5f}"
+                  .format(epoch, iter, len(val_loader), loss=val_losses, acc=val_acc))
+
+        wandb.log({"Valid loss": val_losses.avg, "Valid accuracy value" : acc.val})
         wandb.log({"Table": show_img_wandb(img, hm_gt, pred_logit)})
 
 if __name__ == "__main__":
@@ -111,7 +164,7 @@ if __name__ == "__main__":
     parser.add_argument("--loss", type=str)
     parser.add_argument("--resize", type=str, default=128)
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--epochs",  type=int ,default=100)
+    parser.add_argument("--epochs",  type=int ,default=50)
     parser.add_argument("--lr", type=int, default=1e-5)
     parser.add_argument("--img_resize", type=list)
     parser.add_argument("--batch_size", type=int, default=16)

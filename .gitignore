@@ -1,4 +1,4 @@
-data/lsp/*
+data/*
 __pycache__
 wandb
 1

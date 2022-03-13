@@ -1,4 +1,5 @@
-.data/lsp/*
-.wandb/*
+data/lsp/*
+__pycache__
+wandb
 1
 

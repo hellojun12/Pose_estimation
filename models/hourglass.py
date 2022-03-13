@@ -124,7 +124,7 @@ class HourglassNet(nn.Module):
         hg, res, fc, score, fc_, score_ = [], [], [], [], [], []
         for i in range(num_stacks):
             hg.append(Hourglass(block, num_blocks, self.num_feats, 4))
-            res.append(self._make_fc(ch, ch))
+            res.append(self._make_residual(block, self.num_feats, num_blocks))
             fc.append(self._make_fc(ch, ch))
             score.append(nn.Conv2d(ch, num_classes, kernel_size=1, bias=True))
             if i < num_stacks-1:
@@ -176,6 +176,7 @@ class HourglassNet(nn.Module):
         x = self.layer3(x)
 
         for i in range(self.num_stacks):
+
             y = self.hg[i](x)
             y = self.res[i](y)
             y = self.fc[i](y)
@@ -189,7 +190,9 @@ class HourglassNet(nn.Module):
         return out
 
 def hg(**kwargs):
+
     model = HourglassNet(Bottleneck, num_stacks=kwargs['num_stacks'], num_blocks=kwargs['num_blocks'],
                         num_classes=kwargs['num_classes'])
+
     return model
 

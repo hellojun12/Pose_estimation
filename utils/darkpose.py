@@ -76,13 +76,14 @@ def gaussian_blur(hm, kernel):
     return hm
 
 
-def get_final_preds(config, hm, center, scale):
+def get_final_preds(hm):
     coords, maxvals = get_max_preds(hm)
     heatmap_height = hm.shape[2]
     heatmap_width = hm.shape[3]
 
     # post-processing
-    hm = gaussian_blur(hm, config.TEST.BLUR_KERNEL)
+    kernel_size = 5 #This might change in the future to the user input value
+    hm = gaussian_blur(hm, kernel_size)
     hm = np.maximum(hm, 1e-10)
     hm = np.log(hm)
     for n in range(coords.shape[0]):

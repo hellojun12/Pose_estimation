@@ -1,1 +1,0 @@
-{"Epoch": 0, "Train loss val": 0.08983570337295532, "Train loss avg": 0.12195205517495927, "Accuracy val": 0.032467532467532464, "Accuracy avg": 0.01739833747812471, "_runtime": 17, "_timestamp": 1646647866, "_step": 94, "Valid loss": 0.1034624217748642, "Valid accuracy value": 0.032467532467532464, "_wandb": {"runtime": 19}}

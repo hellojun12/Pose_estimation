@@ -42,10 +42,14 @@ class LeadSportsDataset(Dataset):
         if self.transform != None:
             img = self.transform(image=img)['image']
         # Ground Truth
-        heatmap = self._get_heatmaps_from_json(anno_num, org_size)
-        
+        heatmap, joints = self._get_heatmaps_from_json(anno_num, org_size)
+ 
         # 이미지의 resizes는 transform에서 해주게 된다.
-        return img, heatmap
+
+        meta = {'joints':joints, 
+                'img_path':img_path}
+
+        return img, heatmap, meta 
 
     def __len__(self):
         return self.len
@@ -77,9 +81,9 @@ class LeadSportsDataset(Dataset):
         heatmap = np.zeros((self.n_landmarks, self.hm_size, self.hm_size), dtype=np.float32)
 
         for i, jt in enumerate(joints):
-          heatmap[i] = self._draw_labelmap(heatmap[i], jt, self.sigma)
+            heatmap[i] = self._draw_labelmap(heatmap[i], jt, self.sigma)
 
-        return heatmap
+        return heatmap, joints
 
     def _draw_labelmap(self, heatmap, jt, sigma):
         # Draw a 2D gaussian
